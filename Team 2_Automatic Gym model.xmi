@@ -1,0 +1,196 @@
+<XMI xmi.version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:UML="http://schema.omg.org/spec/UML/2.1">
+<UML:Package XMI:id="58d6c2e8-66f8-11ec-b4c8-0456e5e540ed" name="Automatic gym model" visibility="public">
+<ownedMember>
+<UML:Association XMI:id="03b81894-5ae9-11ee-80f9-cbe9b8856214" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="03b8f4ef-5ae9-11ee-b24f-cbe9b8856214" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="03b9accd-5ae9-11ee-b650-cbe9b8856214" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="03b8f4ef-5ae9-11ee-b24f-cbe9b8856214" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+<ownedEnd>
+<UML:Property XMI:id="03b9accd-5ae9-11ee-b650-cbe9b8856214" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Package XMI:id="b92c52f6-5ae9-11ee-a394-cbe9b8856214" name="Automatic gym model USe case" visibility="public">
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="5c30a950-6613-11ee-b016-2ddceed5aef8" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="5c314b02-6613-11ee-bdd1-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="5c31e2bc-6613-11ee-8c35-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="5c314b02-6613-11ee-bdd1-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+<ownedEnd>
+<UML:Property XMI:id="5c31e2bc-6613-11ee-8c35-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="2e03f415-6613-11ee-a08a-2ddceed5aef8" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="2e04a48f-6613-11ee-b215-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="2e053f0e-6613-11ee-a164-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="2e04a48f-6613-11ee-b215-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+<ownedEnd>
+<UML:Property XMI:id="2e053f0e-6613-11ee-a164-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="d49f7ef4-6612-11ee-8a9f-2ddceed5aef8" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="d4a02435-6612-11ee-a286-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="d4a0b701-6612-11ee-8ca1-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="d4a02435-6612-11ee-a286-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+<ownedEnd>
+<UML:Property XMI:id="d4a0b701-6612-11ee-8ca1-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="2ab81bd2-6613-11ee-82b8-2ddceed5aef8" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="2ab868b4-6613-11ee-92a1-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="2ab8b390-6613-11ee-b33e-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="2ab868b4-6613-11ee-92a1-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+<ownedEnd>
+<UML:Property XMI:id="2ab8b390-6613-11ee-b33e-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+</UML:Package>
+</ownedMember>
+<ownedMember>
+<UML:Package XMI:id="5222fdad-5aeb-11ee-9b39-cbe9b8856214" name="Automatic gym model package requirements" visibility="public"/>
+</ownedMember>
+<ownedMember>
+<UML:Package XMI:id="46a029c0-5aeb-11ee-8d37-cbe9b8856214" name="Automatic gym model package Block diagram" visibility="public"/>
+</ownedMember>
+</UML:Package>
+<UML:Package XMI:id="b92c52f6-5ae9-11ee-a394-cbe9b8856214" name="Automatic gym model USe case" visibility="public">
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="5c30a950-6613-11ee-b016-2ddceed5aef8" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="5c314b02-6613-11ee-bdd1-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="5c31e2bc-6613-11ee-8c35-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="5c314b02-6613-11ee-bdd1-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+<ownedEnd>
+<UML:Property XMI:id="5c31e2bc-6613-11ee-8c35-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="2e03f415-6613-11ee-a08a-2ddceed5aef8" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="2e04a48f-6613-11ee-b215-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="2e053f0e-6613-11ee-a164-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="2e04a48f-6613-11ee-b215-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+<ownedEnd>
+<UML:Property XMI:id="2e053f0e-6613-11ee-a164-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="d49f7ef4-6612-11ee-8a9f-2ddceed5aef8" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="d4a02435-6612-11ee-a286-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="d4a0b701-6612-11ee-8ca1-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="d4a02435-6612-11ee-a286-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+<ownedEnd>
+<UML:Property XMI:id="d4a0b701-6612-11ee-8ca1-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="2ab81bd2-6613-11ee-82b8-2ddceed5aef8" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="2ab868b4-6613-11ee-92a1-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="2ab8b390-6613-11ee-b33e-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="2ab868b4-6613-11ee-92a1-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+<ownedEnd>
+<UML:Property XMI:id="2ab8b390-6613-11ee-b33e-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+</UML:Package>
+<UML:Package XMI:id="46a029c0-5aeb-11ee-8d37-cbe9b8856214" name="Automatic gym model package Block diagram" visibility="public"/>
+<UML:Package XMI:id="5222fdad-5aeb-11ee-9b39-cbe9b8856214" name="Automatic gym model package requirements" visibility="public"/>
+</XMI>

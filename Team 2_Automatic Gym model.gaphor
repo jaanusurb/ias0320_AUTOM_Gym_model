@@ -1116,6 +1116,17 @@
 <name>
 <val>Automatic gym model package requirements</val>
 </name>
+<ownedDiagram>
+<reflist>
+<ref refid="defb450f-710c-11ee-a64e-23c66f171253"/>
+</reflist>
+</ownedDiagram>
+<ownedType>
+<reflist>
+<ref refid="4118fb7b-710d-11ee-9fa2-23c66f171253"/>
+<ref refid="fb25e74c-710d-11ee-ba69-23c66f171253"/>
+</reflist>
+</ownedType>
 <package>
 <ref refid="58d6c2e8-66f8-11ec-b4c8-0456e5e540ed"/>
 </package>
@@ -1673,7 +1684,7 @@
 <val>(1.0, 0.0, 0.0, 1.0, 110.71094512939453, 274.2890625)</val>
 </matrix>
 <points>
-<val>[(0.0, 6.1875), (294.83980560302734, 143.47068786621094)]</val>
+<val>[(-33.364692640536276, 6.1875), (294.83980560302734, 143.47068786621094)]</val>
 </points>
 <head-connection>
 <ref refid="56275558-6a88-11ee-a537-0fcfb28c0246"/>
@@ -2271,4 +2282,141 @@
 <ref refid="656bc204-6a87-11ee-94fa-0fcfb28c0246"/>
 </type>
 </Property>
+<SysMLDiagram id="defb450f-710c-11ee-a64e-23c66f171253">
+<diagramType>
+<val>req</val>
+</diagramType>
+<element>
+<ref refid="5222fdad-5aeb-11ee-9b39-cbe9b8856214"/>
+</element>
+<name>
+<val>Stakeholder requirements diagram</val>
+</name>
+<ownedPresentation>
+<reflist>
+<ref refid="411a3647-710d-11ee-947e-23c66f171253"/>
+<ref refid="fb263e46-710d-11ee-aa24-23c66f171253"/>
+<ref refid="2b6d9cc7-710e-11ee-99e0-23c66f171253"/>
+</reflist>
+</ownedPresentation>
+</SysMLDiagram>
+<Requirement id="4118fb7b-710d-11ee-9fa2-23c66f171253">
+<externalId>
+<val>SRS-0001</val>
+</externalId>
+<isAbstract>
+<val>1</val>
+</isAbstract>
+<name>
+<val>24/7 Access Control</val>
+</name>
+<package>
+<ref refid="5222fdad-5aeb-11ee-9b39-cbe9b8856214"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="411a3647-710d-11ee-947e-23c66f171253"/>
+</reflist>
+</presentation>
+<targetDirectedRelationshipPropertyPath_>
+<reflist>
+<ref refid="2c6431ff-710e-11ee-b9bb-23c66f171253"/>
+</reflist>
+</targetDirectedRelationshipPropertyPath_>
+<text>
+<val>Users should have the ability to access the gym at any time of the day or night, including weekends and holidays.</val>
+</text>
+</Requirement>
+<RequirementItem id="411a3647-710d-11ee-947e-23c66f171253">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 177.37501525878906, 402.66015625)</val>
+</matrix>
+<top-left>
+<val>(-123.0, -22.2890625)</val>
+</top-left>
+<width>
+<val>234.50001525878906</val>
+</width>
+<height>
+<val>168.0</val>
+</height>
+<diagram>
+<ref refid="defb450f-710c-11ee-a64e-23c66f171253"/>
+</diagram>
+<subject>
+<ref refid="4118fb7b-710d-11ee-9fa2-23c66f171253"/>
+</subject>
+</RequirementItem>
+<Requirement id="fb25e74c-710d-11ee-ba69-23c66f171253">
+<name>
+<val>Provide 24/7 access to gym</val>
+</name>
+<package>
+<ref refid="5222fdad-5aeb-11ee-9b39-cbe9b8856214"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="fb263e46-710d-11ee-aa24-23c66f171253"/>
+</reflist>
+</presentation>
+</Requirement>
+<RequirementItem id="fb263e46-710d-11ee-aa24-23c66f171253">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 345.1445007324219, 154.44920349121094)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>126.0</val>
+</width>
+<height>
+<val>75.0</val>
+</height>
+<diagram>
+<ref refid="defb450f-710c-11ee-a64e-23c66f171253"/>
+</diagram>
+<subject>
+<ref refid="fb25e74c-710d-11ee-ba69-23c66f171253"/>
+</subject>
+</RequirementItem>
+<RefineItem id="2b6d9cc7-710e-11ee-99e0-23c66f171253">
+<diagram>
+<ref refid="defb450f-710c-11ee-a64e-23c66f171253"/>
+</diagram>
+<horizontal>
+<val>0</val>
+</horizontal>
+<orthogonal>
+<val>0</val>
+</orthogonal>
+<subject>
+<ref refid="2c6431ff-710e-11ee-b9bb-23c66f171253"/>
+</subject>
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 342.8437194824219, 220.28123474121094)</val>
+</matrix>
+<points>
+<val>[(2.30078125, 0.0), (-102.62886047363281, 160.08985900878906)]</val>
+</points>
+<head-connection>
+<ref refid="fb263e46-710d-11ee-aa24-23c66f171253"/>
+</head-connection>
+<tail-connection>
+<ref refid="411a3647-710d-11ee-947e-23c66f171253"/>
+</tail-connection>
+</RefineItem>
+<Refine id="2c6431ff-710e-11ee-b9bb-23c66f171253">
+<presentation>
+<reflist>
+<ref refid="2b6d9cc7-710e-11ee-99e0-23c66f171253"/>
+</reflist>
+</presentation>
+<sourceContext>
+<ref refid="fb25e74c-710d-11ee-ba69-23c66f171253"/>
+</sourceContext>
+<targetContext>
+<ref refid="4118fb7b-710d-11ee-9fa2-23c66f171253"/>
+</targetContext>
+</Refine>
 </gaphor>

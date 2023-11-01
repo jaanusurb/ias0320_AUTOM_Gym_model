@@ -1,91 +1,56 @@
 <XMI xmi.version="2.1" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1" xmlns:UML="http://schema.omg.org/spec/UML/2.1">
 <UML:Package XMI:id="58d6c2e8-66f8-11ec-b4c8-0456e5e540ed" name="Automatic gym model" visibility="public">
 <ownedMember>
-<UML:Association XMI:id="03b81894-5ae9-11ee-80f9-cbe9b8856214" isDerived="False">
-<memberEnd>
-<UML:Property XMI:id="03b8f4ef-5ae9-11ee-b24f-cbe9b8856214" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
-</memberEnd>
-<memberEnd>
-<UML:Property XMI:id="03b9accd-5ae9-11ee-b650-cbe9b8856214" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
-</memberEnd>
-<ownedEnd>
-<UML:Property XMI:id="03b8f4ef-5ae9-11ee-b24f-cbe9b8856214" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
-</ownedEnd>
-<ownedEnd>
-<UML:Property XMI:id="03b9accd-5ae9-11ee-b650-cbe9b8856214" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
-</ownedEnd>
-</UML:Association>
-</ownedMember>
-<ownedMember>
 <UML:Package XMI:id="b92c52f6-5ae9-11ee-a394-cbe9b8856214" name="Automatic gym model USe case" visibility="public">
-<ownedMember/>
-<ownedMember/>
-<ownedMember/>
-<ownedMember/>
-<ownedMember/>
-<ownedMember/>
 <ownedMember>
-<UML:Association XMI:id="5c30a950-6613-11ee-b016-2ddceed5aef8" isDerived="False">
+<UML:Association XMI:id="325f3a10-71e4-11ee-868c-71e2ad63342f" isDerived="False">
 <memberEnd>
-<UML:Property XMI:id="5c314b02-6613-11ee-bdd1-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+<UML:Property XMI:id="325fe34e-71e4-11ee-8af6-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
 </memberEnd>
 <memberEnd>
-<UML:Property XMI:id="5c31e2bc-6613-11ee-8c35-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+<UML:Property XMI:id="326089bd-71e4-11ee-991a-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
 </memberEnd>
 <ownedEnd>
-<UML:Property XMI:id="5c314b02-6613-11ee-bdd1-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
-</ownedEnd>
-<ownedEnd>
-<UML:Property XMI:id="5c31e2bc-6613-11ee-8c35-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+<UML:Property XMI:id="325fe34e-71e4-11ee-8af6-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
 </ownedEnd>
 </UML:Association>
 </ownedMember>
 <ownedMember>
-<UML:Association XMI:id="2e03f415-6613-11ee-a08a-2ddceed5aef8" isDerived="False">
+<UML:Association XMI:id="85afd853-71e7-11ee-807f-71e2ad63342f" isDerived="False">
 <memberEnd>
-<UML:Property XMI:id="2e04a48f-6613-11ee-b215-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+<UML:Property XMI:id="85b03eea-71e7-11ee-9e56-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
 </memberEnd>
 <memberEnd>
-<UML:Property XMI:id="2e053f0e-6613-11ee-a164-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+<UML:Property XMI:id="85b0a227-71e7-11ee-81e6-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
 </memberEnd>
 <ownedEnd>
-<UML:Property XMI:id="2e04a48f-6613-11ee-b215-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
-</ownedEnd>
-<ownedEnd>
-<UML:Property XMI:id="2e053f0e-6613-11ee-a164-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+<UML:Property XMI:id="85b03eea-71e7-11ee-9e56-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
 </ownedEnd>
 </UML:Association>
 </ownedMember>
 <ownedMember>
-<UML:Association XMI:id="d49f7ef4-6612-11ee-8a9f-2ddceed5aef8" isDerived="False">
+<UML:Association XMI:id="f9bc1ddd-71e3-11ee-ba16-71e2ad63342f" isDerived="False">
 <memberEnd>
-<UML:Property XMI:id="d4a02435-6612-11ee-a286-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+<UML:Property XMI:id="f9bc76aa-71e3-11ee-8799-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
 </memberEnd>
 <memberEnd>
-<UML:Property XMI:id="d4a0b701-6612-11ee-8ca1-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+<UML:Property XMI:id="f9bcc3cc-71e3-11ee-a366-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
 </memberEnd>
 <ownedEnd>
-<UML:Property XMI:id="d4a02435-6612-11ee-a286-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
-</ownedEnd>
-<ownedEnd>
-<UML:Property XMI:id="d4a0b701-6612-11ee-8ca1-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+<UML:Property XMI:id="f9bc76aa-71e3-11ee-8799-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
 </ownedEnd>
 </UML:Association>
 </ownedMember>
-<ownedMember/>
 <ownedMember>
-<UML:Association XMI:id="2ab81bd2-6613-11ee-82b8-2ddceed5aef8" isDerived="False">
+<UML:Association XMI:id="8e0b2a87-71e2-11ee-a5cc-71e2ad63342f" isDerived="False">
 <memberEnd>
-<UML:Property XMI:id="2ab868b4-6613-11ee-92a1-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+<UML:Property XMI:id="8e0bb8dc-71e2-11ee-a2f4-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
 </memberEnd>
 <memberEnd>
-<UML:Property XMI:id="2ab8b390-6613-11ee-b33e-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+<UML:Property XMI:id="8e0c3cd6-71e2-11ee-bc7c-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
 </memberEnd>
 <ownedEnd>
-<UML:Property XMI:id="2ab868b4-6613-11ee-92a1-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
-</ownedEnd>
-<ownedEnd>
-<UML:Property XMI:id="2ab8b390-6613-11ee-b33e-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+<UML:Property XMI:id="8e0bb8dc-71e2-11ee-a2f4-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
 </ownedEnd>
 </UML:Association>
 </ownedMember>
@@ -93,9 +58,314 @@
 <ownedMember/>
 <ownedMember/>
 <ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="bbfa0c39-71e4-11ee-9e81-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="bbfa86b5-71e4-11ee-b148-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="bbfb15eb-71e4-11ee-99a0-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="bbfa86b5-71e4-11ee-b148-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="eb40f82d-71e3-11ee-8564-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="eb4145af-71e3-11ee-abff-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="eb4243dc-71e3-11ee-872c-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="eb4145af-71e3-11ee-abff-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="af18e4fc-71e5-11ee-8307-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="af19a565-71e5-11ee-8e6b-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="af1ab63a-71e5-11ee-bb05-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="af19a565-71e5-11ee-8e6b-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="7b00222d-71e2-11ee-8879-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="7b00b870-71e2-11ee-be46-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="7b0143cd-71e2-11ee-8724-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="7b00b870-71e2-11ee-be46-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="3615ee53-71e4-11ee-ba61-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="361661f0-71e4-11ee-949e-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="3616caba-71e4-11ee-ace2-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="361661f0-71e4-11ee-949e-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="88b052e6-71e2-11ee-925b-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="88b0f9b0-71e2-11ee-a212-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="88b190f2-71e2-11ee-a068-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="88b0f9b0-71e2-11ee-a212-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="ade8d1c7-71e2-11ee-b19a-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="adea0ece-71e2-11ee-916d-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="adeafd77-71e2-11ee-9d89-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="adea0ece-71e2-11ee-916d-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="3c745619-71e4-11ee-b355-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="3c74a501-71e4-11ee-99e9-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="3c74f519-71e4-11ee-8065-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="3c74a501-71e4-11ee-99e9-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="b94ad176-71e5-11ee-afe5-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="b94b1c4f-71e5-11ee-a185-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="b94b5c84-71e5-11ee-a847-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="b94b1c4f-71e5-11ee-a185-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="c2561305-71e4-11ee-984f-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="c256bbdb-71e4-11ee-8ccf-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="c2575cda-71e4-11ee-bfa6-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="c256bbdb-71e4-11ee-8ccf-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="e90e6a04-71e5-11ee-af79-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="e90eb55d-71e5-11ee-9a00-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="e90ef69c-71e5-11ee-8234-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="e90eb55d-71e5-11ee-9a00-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="94aab1c1-71e2-11ee-ad17-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="94ab02cb-71e2-11ee-81cb-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="94abfb0b-71e2-11ee-ab92-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="94ab02cb-71e2-11ee-81cb-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="8ad8f752-71e7-11ee-999c-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="8ad97402-71e7-11ee-8b0e-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="8ad9e485-71e7-11ee-8bb6-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="8ad97402-71e7-11ee-8b0e-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
 <ownedMember/>
 <ownedMember/>
 <ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="3e68317f-71e7-11ee-8873-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="3e68afec-71e7-11ee-a15f-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="3e6926c9-71e7-11ee-8bff-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="3e68afec-71e7-11ee-a15f-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="4a50128f-71e7-11ee-924c-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="4a50bfeb-71e7-11ee-a9eb-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="4a516492-71e7-11ee-8cc3-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="4a50bfeb-71e7-11ee-a9eb-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="1cc04d45-71e6-11ee-9e8c-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="1cc0966a-71e6-11ee-a9f4-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="1cc1afc7-71e6-11ee-8fd6-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="1cc0966a-71e6-11ee-a9f4-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="43db337f-71e7-11ee-a28d-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="43db8358-71e7-11ee-a8e3-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="43dbcb69-71e7-11ee-bdaf-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="43db8358-71e7-11ee-a8e3-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="ae5545e8-71e6-11ee-9f77-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="ae560a85-71e6-11ee-99c0-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="ae56d97e-71e6-11ee-876b-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="ae560a85-71e6-11ee-99c0-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="046ec52f-71e7-11ee-927a-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="046f750f-71e7-11ee-8a56-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="04701dd9-71e7-11ee-88ee-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="046f750f-71e7-11ee-8a56-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="ab581ec8-71e5-11ee-a390-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="ab58c6ec-71e5-11ee-8cb7-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="ab596a56-71e5-11ee-ba24-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="ab58c6ec-71e5-11ee-8cb7-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="e5ce07b3-71e3-11ee-aa0c-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="e5cebc5e-71e3-11ee-9682-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="e5cf5cea-71e3-11ee-9e4c-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="e5cebc5e-71e3-11ee-9682-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="f64c4195-71e3-11ee-893c-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="f64ce811-71e3-11ee-83a6-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="f64d8abf-71e3-11ee-a872-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="f64ce811-71e3-11ee-83a6-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
 <ownedMember/>
 <ownedMember/>
 <ownedMember/>
@@ -105,78 +375,163 @@
 <UML:Package XMI:id="5222fdad-5aeb-11ee-9b39-cbe9b8856214" name="Automatic gym model package requirements" visibility="public"/>
 </ownedMember>
 <ownedMember>
-<UML:Package XMI:id="46a029c0-5aeb-11ee-8d37-cbe9b8856214" name="Automatic gym model package Block diagram" visibility="public"/>
+<UML:Package XMI:id="46a029c0-5aeb-11ee-8d37-cbe9b8856214" name="Automatic gym model package Block diagram" visibility="public">
+<ownedMember/>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="1adbe610-6a89-11ee-8e3a-0fcfb28c0246" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="1adc89ef-6a89-11ee-b6f6-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="1adcd3fd-6a89-11ee-988e-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="1adc89ef-6a89-11ee-b6f6-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+<ownedEnd>
+<UML:Property XMI:id="1adcd3fd-6a89-11ee-988e-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="f8f3ee09-6a89-11ee-8a7e-0fcfb28c0246" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="f8f4b9fc-6a89-11ee-b227-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="f8f552b4-6a89-11ee-b470-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="f8f4b9fc-6a89-11ee-b227-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+<ownedEnd>
+<UML:Property XMI:id="f8f552b4-6a89-11ee-b470-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="2ba8ff81-6a8a-11ee-b4b4-0fcfb28c0246" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="2ba9a531-6a8a-11ee-a53d-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="2baa3bbd-6a8a-11ee-86cc-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="2ba9a531-6a8a-11ee-a53d-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+<ownedEnd>
+<UML:Property XMI:id="2baa3bbd-6a8a-11ee-86cc-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="47607918-6a89-11ee-a76b-0fcfb28c0246" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="476129e1-6a89-11ee-9ffe-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="4761c203-6a89-11ee-8d80-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="476129e1-6a89-11ee-9ffe-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+<ownedEnd>
+<UML:Property XMI:id="4761c203-6a89-11ee-8d80-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="9e84c12c-6a89-11ee-940c-0fcfb28c0246" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="9e851132-6a89-11ee-a9e4-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="9e855306-6a89-11ee-8c52-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="9e851132-6a89-11ee-a9e4-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+<ownedEnd>
+<UML:Property XMI:id="9e855306-6a89-11ee-8c52-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="5344450c-6a8a-11ee-a2b4-0fcfb28c0246" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="5344c496-6a8a-11ee-afcd-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="534530a1-6a8a-11ee-be28-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="5344c496-6a8a-11ee-afcd-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+<ownedEnd>
+<UML:Property XMI:id="534530a1-6a8a-11ee-be28-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+</UML:Package>
 </ownedMember>
 </UML:Package>
 <UML:Package XMI:id="b92c52f6-5ae9-11ee-a394-cbe9b8856214" name="Automatic gym model USe case" visibility="public">
-<ownedMember/>
-<ownedMember/>
-<ownedMember/>
-<ownedMember/>
-<ownedMember/>
-<ownedMember/>
 <ownedMember>
-<UML:Association XMI:id="5c30a950-6613-11ee-b016-2ddceed5aef8" isDerived="False">
+<UML:Association XMI:id="325f3a10-71e4-11ee-868c-71e2ad63342f" isDerived="False">
 <memberEnd>
-<UML:Property XMI:id="5c314b02-6613-11ee-bdd1-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+<UML:Property XMI:id="325fe34e-71e4-11ee-8af6-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
 </memberEnd>
 <memberEnd>
-<UML:Property XMI:id="5c31e2bc-6613-11ee-8c35-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+<UML:Property XMI:id="326089bd-71e4-11ee-991a-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
 </memberEnd>
 <ownedEnd>
-<UML:Property XMI:id="5c314b02-6613-11ee-bdd1-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
-</ownedEnd>
-<ownedEnd>
-<UML:Property XMI:id="5c31e2bc-6613-11ee-8c35-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+<UML:Property XMI:id="325fe34e-71e4-11ee-8af6-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
 </ownedEnd>
 </UML:Association>
 </ownedMember>
 <ownedMember>
-<UML:Association XMI:id="2e03f415-6613-11ee-a08a-2ddceed5aef8" isDerived="False">
+<UML:Association XMI:id="85afd853-71e7-11ee-807f-71e2ad63342f" isDerived="False">
 <memberEnd>
-<UML:Property XMI:id="2e04a48f-6613-11ee-b215-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+<UML:Property XMI:id="85b03eea-71e7-11ee-9e56-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
 </memberEnd>
 <memberEnd>
-<UML:Property XMI:id="2e053f0e-6613-11ee-a164-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+<UML:Property XMI:id="85b0a227-71e7-11ee-81e6-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
 </memberEnd>
 <ownedEnd>
-<UML:Property XMI:id="2e04a48f-6613-11ee-b215-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
-</ownedEnd>
-<ownedEnd>
-<UML:Property XMI:id="2e053f0e-6613-11ee-a164-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+<UML:Property XMI:id="85b03eea-71e7-11ee-9e56-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
 </ownedEnd>
 </UML:Association>
 </ownedMember>
 <ownedMember>
-<UML:Association XMI:id="d49f7ef4-6612-11ee-8a9f-2ddceed5aef8" isDerived="False">
+<UML:Association XMI:id="f9bc1ddd-71e3-11ee-ba16-71e2ad63342f" isDerived="False">
 <memberEnd>
-<UML:Property XMI:id="d4a02435-6612-11ee-a286-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+<UML:Property XMI:id="f9bc76aa-71e3-11ee-8799-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
 </memberEnd>
 <memberEnd>
-<UML:Property XMI:id="d4a0b701-6612-11ee-8ca1-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+<UML:Property XMI:id="f9bcc3cc-71e3-11ee-a366-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
 </memberEnd>
 <ownedEnd>
-<UML:Property XMI:id="d4a02435-6612-11ee-a286-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
-</ownedEnd>
-<ownedEnd>
-<UML:Property XMI:id="d4a0b701-6612-11ee-8ca1-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+<UML:Property XMI:id="f9bc76aa-71e3-11ee-8799-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
 </ownedEnd>
 </UML:Association>
 </ownedMember>
-<ownedMember/>
 <ownedMember>
-<UML:Association XMI:id="2ab81bd2-6613-11ee-82b8-2ddceed5aef8" isDerived="False">
+<UML:Association XMI:id="8e0b2a87-71e2-11ee-a5cc-71e2ad63342f" isDerived="False">
 <memberEnd>
-<UML:Property XMI:id="2ab868b4-6613-11ee-92a1-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+<UML:Property XMI:id="8e0bb8dc-71e2-11ee-a2f4-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
 </memberEnd>
 <memberEnd>
-<UML:Property XMI:id="2ab8b390-6613-11ee-b33e-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+<UML:Property XMI:id="8e0c3cd6-71e2-11ee-bc7c-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
 </memberEnd>
 <ownedEnd>
-<UML:Property XMI:id="2ab868b4-6613-11ee-92a1-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
-</ownedEnd>
-<ownedEnd>
-<UML:Property XMI:id="2ab8b390-6613-11ee-b33e-2ddceed5aef8" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+<UML:Property XMI:id="8e0bb8dc-71e2-11ee-a2f4-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
 </ownedEnd>
 </UML:Association>
 </ownedMember>
@@ -184,13 +539,422 @@
 <ownedMember/>
 <ownedMember/>
 <ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="bbfa0c39-71e4-11ee-9e81-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="bbfa86b5-71e4-11ee-b148-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="bbfb15eb-71e4-11ee-99a0-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="bbfa86b5-71e4-11ee-b148-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="eb40f82d-71e3-11ee-8564-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="eb4145af-71e3-11ee-abff-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="eb4243dc-71e3-11ee-872c-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="eb4145af-71e3-11ee-abff-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="af18e4fc-71e5-11ee-8307-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="af19a565-71e5-11ee-8e6b-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="af1ab63a-71e5-11ee-bb05-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="af19a565-71e5-11ee-8e6b-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="7b00222d-71e2-11ee-8879-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="7b00b870-71e2-11ee-be46-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="7b0143cd-71e2-11ee-8724-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="7b00b870-71e2-11ee-be46-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="3615ee53-71e4-11ee-ba61-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="361661f0-71e4-11ee-949e-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="3616caba-71e4-11ee-ace2-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="361661f0-71e4-11ee-949e-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="88b052e6-71e2-11ee-925b-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="88b0f9b0-71e2-11ee-a212-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="88b190f2-71e2-11ee-a068-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="88b0f9b0-71e2-11ee-a212-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="ade8d1c7-71e2-11ee-b19a-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="adea0ece-71e2-11ee-916d-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="adeafd77-71e2-11ee-9d89-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="adea0ece-71e2-11ee-916d-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="3c745619-71e4-11ee-b355-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="3c74a501-71e4-11ee-99e9-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="3c74f519-71e4-11ee-8065-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="3c74a501-71e4-11ee-99e9-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="b94ad176-71e5-11ee-afe5-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="b94b1c4f-71e5-11ee-a185-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="b94b5c84-71e5-11ee-a847-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="b94b1c4f-71e5-11ee-a185-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="c2561305-71e4-11ee-984f-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="c256bbdb-71e4-11ee-8ccf-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="c2575cda-71e4-11ee-bfa6-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="c256bbdb-71e4-11ee-8ccf-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="e90e6a04-71e5-11ee-af79-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="e90eb55d-71e5-11ee-9a00-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="e90ef69c-71e5-11ee-8234-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="e90eb55d-71e5-11ee-9a00-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="94aab1c1-71e2-11ee-ad17-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="94ab02cb-71e2-11ee-81cb-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="94abfb0b-71e2-11ee-ab92-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="94ab02cb-71e2-11ee-81cb-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="8ad8f752-71e7-11ee-999c-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="8ad97402-71e7-11ee-8b0e-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="8ad9e485-71e7-11ee-8bb6-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="8ad97402-71e7-11ee-8b0e-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
 <ownedMember/>
 <ownedMember/>
 <ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="3e68317f-71e7-11ee-8873-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="3e68afec-71e7-11ee-a15f-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="3e6926c9-71e7-11ee-8bff-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="3e68afec-71e7-11ee-a15f-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="4a50128f-71e7-11ee-924c-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="4a50bfeb-71e7-11ee-a9eb-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="4a516492-71e7-11ee-8cc3-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="4a50bfeb-71e7-11ee-a9eb-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="1cc04d45-71e6-11ee-9e8c-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="1cc0966a-71e6-11ee-a9f4-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="1cc1afc7-71e6-11ee-8fd6-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="1cc0966a-71e6-11ee-a9f4-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="43db337f-71e7-11ee-a28d-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="43db8358-71e7-11ee-a8e3-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="43dbcb69-71e7-11ee-bdaf-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="43db8358-71e7-11ee-a8e3-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="ae5545e8-71e6-11ee-9f77-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="ae560a85-71e6-11ee-99c0-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="ae56d97e-71e6-11ee-876b-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="ae560a85-71e6-11ee-99c0-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="046ec52f-71e7-11ee-927a-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="046f750f-71e7-11ee-8a56-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="04701dd9-71e7-11ee-88ee-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="046f750f-71e7-11ee-8a56-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="ab581ec8-71e5-11ee-a390-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="ab58c6ec-71e5-11ee-8cb7-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="ab596a56-71e5-11ee-ba24-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="ab58c6ec-71e5-11ee-8cb7-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="e5ce07b3-71e3-11ee-aa0c-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="e5cebc5e-71e3-11ee-9682-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="e5cf5cea-71e3-11ee-9e4c-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="e5cebc5e-71e3-11ee-9682-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="f64c4195-71e3-11ee-893c-71e2ad63342f" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="f64ce811-71e3-11ee-83a6-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="f64d8abf-71e3-11ee-a872-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="f64ce811-71e3-11ee-83a6-71e2ad63342f" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
 <ownedMember/>
 <ownedMember/>
 <ownedMember/>
 </UML:Package>
-<UML:Package XMI:id="46a029c0-5aeb-11ee-8d37-cbe9b8856214" name="Automatic gym model package Block diagram" visibility="public"/>
+<UML:Package XMI:id="46a029c0-5aeb-11ee-8d37-cbe9b8856214" name="Automatic gym model package Block diagram" visibility="public">
+<ownedMember/>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="1adbe610-6a89-11ee-8e3a-0fcfb28c0246" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="1adc89ef-6a89-11ee-b6f6-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="1adcd3fd-6a89-11ee-988e-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="1adc89ef-6a89-11ee-b6f6-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+<ownedEnd>
+<UML:Property XMI:id="1adcd3fd-6a89-11ee-988e-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="f8f3ee09-6a89-11ee-8a7e-0fcfb28c0246" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="f8f4b9fc-6a89-11ee-b227-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="f8f552b4-6a89-11ee-b470-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="f8f4b9fc-6a89-11ee-b227-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+<ownedEnd>
+<UML:Property XMI:id="f8f552b4-6a89-11ee-b470-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="2ba8ff81-6a8a-11ee-b4b4-0fcfb28c0246" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="2ba9a531-6a8a-11ee-a53d-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="2baa3bbd-6a8a-11ee-86cc-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="2ba9a531-6a8a-11ee-a53d-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+<ownedEnd>
+<UML:Property XMI:id="2baa3bbd-6a8a-11ee-86cc-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember>
+<UML:Association XMI:id="47607918-6a89-11ee-a76b-0fcfb28c0246" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="476129e1-6a89-11ee-9ffe-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="4761c203-6a89-11ee-8d80-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="476129e1-6a89-11ee-9ffe-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+<ownedEnd>
+<UML:Property XMI:id="4761c203-6a89-11ee-8d80-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="9e84c12c-6a89-11ee-940c-0fcfb28c0246" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="9e851132-6a89-11ee-a9e4-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="9e855306-6a89-11ee-8c52-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="9e851132-6a89-11ee-a9e4-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+<ownedEnd>
+<UML:Property XMI:id="9e855306-6a89-11ee-8c52-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+<ownedMember>
+<UML:Association XMI:id="5344450c-6a8a-11ee-a2b4-0fcfb28c0246" isDerived="False">
+<memberEnd>
+<UML:Property XMI:id="5344c496-6a8a-11ee-afcd-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<memberEnd>
+<UML:Property XMI:id="534530a1-6a8a-11ee-be28-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</memberEnd>
+<ownedEnd>
+<UML:Property XMI:id="5344c496-6a8a-11ee-afcd-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+<ownedEnd>
+<UML:Property XMI:id="534530a1-6a8a-11ee-be28-0fcfb28c0246" isStatic="False" isOrdered="True" isUnique="True" isDerived="False" isDerivedUnion="False" isReadOnly="False"/>
+</ownedEnd>
+</UML:Association>
+</ownedMember>
+<ownedMember/>
+</UML:Package>
 <UML:Package XMI:id="5222fdad-5aeb-11ee-9b39-cbe9b8856214" name="Automatic gym model package requirements" visibility="public"/>
 </XMI>

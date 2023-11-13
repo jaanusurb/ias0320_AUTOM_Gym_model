@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.omg.org/spec/UML/20131001">
+  <uml:Model xmi:id="_i7NLMIIoEe66YaRlCSI0yg" name="Root">
+    <packagedElement xmi:type="uml:Actor" xmi:id="_9G7RMIIoEe66YaRlCSI0yg" name="Customer - sportsmen"/>
+    <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_i7NyQIIoEe66YaRlCSI0yg" applyingPackage="_i7NLMIIoEe66YaRlCSI0yg">
+      <appliedProfile xmi:type="uml:Profile" href="http://www.omg.org/spec/SysML/20161101/SysML.xmi#SysML"/>
+    </profileApplication>
+  </uml:Model>
+</xmi:XMI>

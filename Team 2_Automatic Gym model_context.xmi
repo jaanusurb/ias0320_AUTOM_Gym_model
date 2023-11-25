@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:sysml="http://www.omg.org/spec/SysML/20161101/SysML" xmlns:uml="http://www.omg.org/spec/UML/20131001">
+  <uml:Model xmi:id="_VinvgILjEe6SXqY2mPXbMQ" name="Root">
+    <packagedElement xmi:type="uml:Package" xmi:id="_gcbKoILjEe6SXqY2mPXbMQ" name="Use cases">
+      <packagedElement xmi:type="uml:Actor" xmi:id="_wCNMsILjEe6SXqY2mPXbMQ" name="Customer"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_CcxOEILlEe6SXqY2mPXbMQ" name="Identify user"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_GgPDgILlEe6SXqY2mPXbMQ" memberEnd="_GgSt4ILlEe6SXqY2mPXbMQ _Ggb30ILlEe6SXqY2mPXbMQ" navigableOwnedEnd="_GgSt4ILlEe6SXqY2mPXbMQ _Ggb30ILlEe6SXqY2mPXbMQ">
+        <ownedEnd xmi:type="uml:Property" xmi:id="_GgSt4ILlEe6SXqY2mPXbMQ" visibility="public" type="_CcxOEILlEe6SXqY2mPXbMQ" owningAssociation="_GgPDgILlEe6SXqY2mPXbMQ" association="_GgPDgILlEe6SXqY2mPXbMQ"/>
+        <ownedEnd xmi:type="uml:Property" xmi:id="_Ggb30ILlEe6SXqY2mPXbMQ" visibility="public" type="_wCNMsILjEe6SXqY2mPXbMQ" owningAssociation="_GgPDgILlEe6SXqY2mPXbMQ" association="_GgPDgILlEe6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="__HzWAILnEe6SXqY2mPXbMQ" name="Choose service">
+        <include xmi:type="uml:Include" xmi:id="_d_IPgILoEe6SXqY2mPXbMQ" addition="_W1cQAILoEe6SXqY2mPXbMQ" includingCase="__HzWAILnEe6SXqY2mPXbMQ"/>
+        <include xmi:type="uml:Include" xmi:id="_YiK4wIMCEe6SXqY2mPXbMQ" addition="_NMINkIMCEe6SXqY2mPXbMQ" includingCase="__HzWAILnEe6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_W1cQAILoEe6SXqY2mPXbMQ" name="Process payment">
+        <include xmi:type="uml:Include" xmi:id="_VB7ZEILqEe6SXqY2mPXbMQ" addition="_sNdWcILoEe6SXqY2mPXbMQ" includingCase="_W1cQAILoEe6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_sNdWcILoEe6SXqY2mPXbMQ" name="Access to gym services">
+        <include xmi:type="uml:Include" xmi:id="_RwcLcILwEe6SXqY2mPXbMQ" addition="_44LjUILtEe6SXqY2mPXbMQ" includingCase="_sNdWcILoEe6SXqY2mPXbMQ"/>
+        <include xmi:type="uml:Include" xmi:id="_SHG_AILwEe6SXqY2mPXbMQ" addition="_cGf1wILvEe6SXqY2mPXbMQ" includingCase="_sNdWcILoEe6SXqY2mPXbMQ"/>
+        <include xmi:type="uml:Include" xmi:id="_1ieYgIL9Ee6SXqY2mPXbMQ" addition="_tPE-8IL9Ee6SXqY2mPXbMQ" includingCase="_sNdWcILoEe6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_QPBqwILqEe6SXqY2mPXbMQ" memberEnd="_QPCR0ILqEe6SXqY2mPXbMQ _QPFVIILqEe6SXqY2mPXbMQ" navigableOwnedEnd="_QPCR0ILqEe6SXqY2mPXbMQ _QPFVIILqEe6SXqY2mPXbMQ">
+        <ownedEnd xmi:type="uml:Property" xmi:id="_QPCR0ILqEe6SXqY2mPXbMQ" visibility="public" type="__HzWAILnEe6SXqY2mPXbMQ" owningAssociation="_QPBqwILqEe6SXqY2mPXbMQ" association="_QPBqwILqEe6SXqY2mPXbMQ"/>
+        <ownedEnd xmi:type="uml:Property" xmi:id="_QPFVIILqEe6SXqY2mPXbMQ" visibility="public" type="_wCNMsILjEe6SXqY2mPXbMQ" owningAssociation="_QPBqwILqEe6SXqY2mPXbMQ" association="_QPBqwILqEe6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_44LjUILtEe6SXqY2mPXbMQ" name="Access to locker"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_cGf1wILvEe6SXqY2mPXbMQ" name="Access to sauna and showers"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_VS0QkILxEe6SXqY2mPXbMQ" name="Process user feedback"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_dZljYILxEe6SXqY2mPXbMQ" memberEnd="_dZmKcILxEe6SXqY2mPXbMQ _dZomsILxEe6SXqY2mPXbMQ" navigableOwnedEnd="_dZmKcILxEe6SXqY2mPXbMQ _dZomsILxEe6SXqY2mPXbMQ">
+        <ownedEnd xmi:type="uml:Property" xmi:id="_dZmKcILxEe6SXqY2mPXbMQ" visibility="public" type="_VS0QkILxEe6SXqY2mPXbMQ" owningAssociation="_dZljYILxEe6SXqY2mPXbMQ" association="_dZljYILxEe6SXqY2mPXbMQ"/>
+        <ownedEnd xmi:type="uml:Property" xmi:id="_dZomsILxEe6SXqY2mPXbMQ" visibility="public" type="_wCNMsILjEe6SXqY2mPXbMQ" owningAssociation="_dZljYILxEe6SXqY2mPXbMQ" association="_dZljYILxEe6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_5HhqEILxEe6SXqY2mPXbMQ" name="Handle emergency call"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_8ZysEILxEe6SXqY2mPXbMQ" memberEnd="_8ZysEYLxEe6SXqY2mPXbMQ _8Z2WcILxEe6SXqY2mPXbMQ" navigableOwnedEnd="_8ZysEYLxEe6SXqY2mPXbMQ _8Z2WcILxEe6SXqY2mPXbMQ">
+        <ownedEnd xmi:type="uml:Property" xmi:id="_8ZysEYLxEe6SXqY2mPXbMQ" visibility="public" type="_5HhqEILxEe6SXqY2mPXbMQ" owningAssociation="_8ZysEILxEe6SXqY2mPXbMQ" association="_8ZysEILxEe6SXqY2mPXbMQ"/>
+        <ownedEnd xmi:type="uml:Property" xmi:id="_8Z2WcILxEe6SXqY2mPXbMQ" visibility="public" type="_wCNMsILjEe6SXqY2mPXbMQ" owningAssociation="_8ZysEILxEe6SXqY2mPXbMQ" association="_8ZysEILxEe6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Actor" xmi:id="_aBflMIL8Ee6SXqY2mPXbMQ" name="System operator"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_dzNjUIL8Ee6SXqY2mPXbMQ" name="Remote access"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_gmlp4IL8Ee6SXqY2mPXbMQ" memberEnd="_gmlp4YL8Ee6SXqY2mPXbMQ _gm39wIL8Ee6SXqY2mPXbMQ" navigableOwnedEnd="_gmlp4YL8Ee6SXqY2mPXbMQ _gm39wIL8Ee6SXqY2mPXbMQ">
+        <ownedEnd xmi:type="uml:Property" xmi:id="_gmlp4YL8Ee6SXqY2mPXbMQ" visibility="public" type="_dzNjUIL8Ee6SXqY2mPXbMQ" owningAssociation="_gmlp4IL8Ee6SXqY2mPXbMQ" association="_gmlp4IL8Ee6SXqY2mPXbMQ"/>
+        <ownedEnd xmi:type="uml:Property" xmi:id="_gm39wIL8Ee6SXqY2mPXbMQ" visibility="public" type="_aBflMIL8Ee6SXqY2mPXbMQ" owningAssociation="_gmlp4IL8Ee6SXqY2mPXbMQ" association="_gmlp4IL8Ee6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_h91JtIL8Ee6SXqY2mPXbMQ" memberEnd="_h91wsIL8Ee6SXqY2mPXbMQ _h92-0IL8Ee6SXqY2mPXbMQ" navigableOwnedEnd="_h91wsIL8Ee6SXqY2mPXbMQ _h92-0IL8Ee6SXqY2mPXbMQ">
+        <ownedEnd xmi:type="uml:Property" xmi:id="_h91wsIL8Ee6SXqY2mPXbMQ" visibility="public" type="_5HhqEILxEe6SXqY2mPXbMQ" owningAssociation="_h91JtIL8Ee6SXqY2mPXbMQ" association="_h91JtIL8Ee6SXqY2mPXbMQ"/>
+        <ownedEnd xmi:type="uml:Property" xmi:id="_h92-0IL8Ee6SXqY2mPXbMQ" visibility="public" type="_aBflMIL8Ee6SXqY2mPXbMQ" owningAssociation="_h91JtIL8Ee6SXqY2mPXbMQ" association="_h91JtIL8Ee6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_qrzmc4L8Ee6SXqY2mPXbMQ" memberEnd="_qr0NcIL8Ee6SXqY2mPXbMQ _qr2CoIL8Ee6SXqY2mPXbMQ" navigableOwnedEnd="_qr0NcIL8Ee6SXqY2mPXbMQ _qr2CoIL8Ee6SXqY2mPXbMQ">
+        <ownedEnd xmi:type="uml:Property" xmi:id="_qr0NcIL8Ee6SXqY2mPXbMQ" visibility="public" type="_VS0QkILxEe6SXqY2mPXbMQ" owningAssociation="_qrzmc4L8Ee6SXqY2mPXbMQ" association="_qrzmc4L8Ee6SXqY2mPXbMQ"/>
+        <ownedEnd xmi:type="uml:Property" xmi:id="_qr2CoIL8Ee6SXqY2mPXbMQ" visibility="public" type="_aBflMIL8Ee6SXqY2mPXbMQ" owningAssociation="_qrzmc4L8Ee6SXqY2mPXbMQ" association="_qrzmc4L8Ee6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_tPE-8IL9Ee6SXqY2mPXbMQ" name="Access to desired equipment"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_DqpiMIMAEe6SXqY2mPXbMQ" name="Handle coach request"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_JhYsEIMAEe6SXqY2mPXbMQ" memberEnd="_JhZTIIMAEe6SXqY2mPXbMQ _JhbIUIMAEe6SXqY2mPXbMQ" navigableOwnedEnd="_JhZTIIMAEe6SXqY2mPXbMQ _JhbIUIMAEe6SXqY2mPXbMQ">
+        <ownedEnd xmi:type="uml:Property" xmi:id="_JhZTIIMAEe6SXqY2mPXbMQ" visibility="public" type="_DqpiMIMAEe6SXqY2mPXbMQ" owningAssociation="_JhYsEIMAEe6SXqY2mPXbMQ" association="_JhYsEIMAEe6SXqY2mPXbMQ"/>
+        <ownedEnd xmi:type="uml:Property" xmi:id="_JhbIUIMAEe6SXqY2mPXbMQ" visibility="public" type="_wCNMsILjEe6SXqY2mPXbMQ" owningAssociation="_JhYsEIMAEe6SXqY2mPXbMQ" association="_JhYsEIMAEe6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_lMedoIMBEe6SXqY2mPXbMQ" name="Show training progress">
+        <extend xmi:type="uml:Extend" xmi:id="_yaunoIMBEe6SXqY2mPXbMQ" extendedCase="__HzWAILnEe6SXqY2mPXbMQ" extension="_lMedoIMBEe6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_NMINkIMCEe6SXqY2mPXbMQ" name="Choose training"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_lFiSsIMCEe6SXqY2mPXbMQ" name="Show tutorial">
+        <extend xmi:type="uml:Extend" xmi:id="_oMMhoIMCEe6SXqY2mPXbMQ" extendedCase="_NMINkIMCEe6SXqY2mPXbMQ" extension="_lFiSsIMCEe6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_vsEMgIMCEe6SXqY2mPXbMQ" name="Offer personalized workout">
+        <extend xmi:type="uml:Extend" xmi:id="_2o0jQIMCEe6SXqY2mPXbMQ" extendedCase="_NMINkIMCEe6SXqY2mPXbMQ" extension="_vsEMgIMCEe6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_SKLmgIMDEe6SXqY2mPXbMQ" name="Choose entertainment">
+        <extend xmi:type="uml:Extend" xmi:id="_UsH-0IMDEe6SXqY2mPXbMQ" extendedCase="__HzWAILnEe6SXqY2mPXbMQ" extension="_SKLmgIMDEe6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_I0vrsIMEEe6SXqY2mPXbMQ" name="Set user profile"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_UqvCQIMEEe6SXqY2mPXbMQ" memberEnd="_Uq4zQIMEEe6SXqY2mPXbMQ _Uq6ocIMEEe6SXqY2mPXbMQ" navigableOwnedEnd="_Uq4zQIMEEe6SXqY2mPXbMQ _Uq6ocIMEEe6SXqY2mPXbMQ">
+        <ownedEnd xmi:type="uml:Property" xmi:id="_Uq4zQIMEEe6SXqY2mPXbMQ" visibility="public" type="_I0vrsIMEEe6SXqY2mPXbMQ" owningAssociation="_UqvCQIMEEe6SXqY2mPXbMQ" association="_UqvCQIMEEe6SXqY2mPXbMQ"/>
+        <ownedEnd xmi:type="uml:Property" xmi:id="_Uq6ocIMEEe6SXqY2mPXbMQ" visibility="public" type="_wCNMsILjEe6SXqY2mPXbMQ" owningAssociation="_UqvCQIMEEe6SXqY2mPXbMQ" association="_UqvCQIMEEe6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Actor" xmi:id="_a2FxQIMEEe6SXqY2mPXbMQ" name="Coach"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_cmWOBIMEEe6SXqY2mPXbMQ" memberEnd="_cmW1AIMEEe6SXqY2mPXbMQ _cmZ4UIMEEe6SXqY2mPXbMQ" navigableOwnedEnd="_cmW1AIMEEe6SXqY2mPXbMQ _cmZ4UIMEEe6SXqY2mPXbMQ">
+        <ownedEnd xmi:type="uml:Property" xmi:id="_cmW1AIMEEe6SXqY2mPXbMQ" visibility="public" type="_DqpiMIMAEe6SXqY2mPXbMQ" owningAssociation="_cmWOBIMEEe6SXqY2mPXbMQ" association="_cmWOBIMEEe6SXqY2mPXbMQ"/>
+        <ownedEnd xmi:type="uml:Property" xmi:id="_cmZ4UIMEEe6SXqY2mPXbMQ" visibility="public" type="_a2FxQIMEEe6SXqY2mPXbMQ" owningAssociation="_cmWOBIMEEe6SXqY2mPXbMQ" association="_cmWOBIMEEe6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_hwHHtIMFEe6SXqY2mPXbMQ" memberEnd="_hwHusIMFEe6SXqY2mPXbMQ _hwI80IMFEe6SXqY2mPXbMQ" navigableOwnedEnd="_hwHusIMFEe6SXqY2mPXbMQ _hwI80IMFEe6SXqY2mPXbMQ">
+        <ownedEnd xmi:type="uml:Property" xmi:id="_hwHusIMFEe6SXqY2mPXbMQ" visibility="public" type="_DqpiMIMAEe6SXqY2mPXbMQ" owningAssociation="_hwHHtIMFEe6SXqY2mPXbMQ" association="_hwHHtIMFEe6SXqY2mPXbMQ"/>
+        <ownedEnd xmi:type="uml:Property" xmi:id="_hwI80IMFEe6SXqY2mPXbMQ" visibility="public" type="_aBflMIL8Ee6SXqY2mPXbMQ" owningAssociation="_hwHHtIMFEe6SXqY2mPXbMQ" association="_hwHHtIMFEe6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Actor" xmi:id="_SFeI0IMHEe6SXqY2mPXbMQ" name="Cleaner"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_coA6gIMHEe6SXqY2mPXbMQ" name="Activate/disable automatic cleaning">
+        <include xmi:type="uml:Include" xmi:id="_YuRW4IMJEe6SXqY2mPXbMQ" addition="_UIVGgIMJEe6SXqY2mPXbMQ" includingCase="_coA6gIMHEe6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_lMhSRIMHEe6SXqY2mPXbMQ" memberEnd="_lMh5QIMHEe6SXqY2mPXbMQ _lMjucIMHEe6SXqY2mPXbMQ" navigableOwnedEnd="_lMh5QIMHEe6SXqY2mPXbMQ _lMjucIMHEe6SXqY2mPXbMQ">
+        <ownedEnd xmi:type="uml:Property" xmi:id="_lMh5QIMHEe6SXqY2mPXbMQ" visibility="public" type="_coA6gIMHEe6SXqY2mPXbMQ" owningAssociation="_lMhSRIMHEe6SXqY2mPXbMQ" association="_lMhSRIMHEe6SXqY2mPXbMQ"/>
+        <ownedEnd xmi:type="uml:Property" xmi:id="_lMjucIMHEe6SXqY2mPXbMQ" visibility="public" type="_SFeI0IMHEe6SXqY2mPXbMQ" owningAssociation="_lMhSRIMHEe6SXqY2mPXbMQ" association="_lMhSRIMHEe6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_liuyxIMHEe6SXqY2mPXbMQ" memberEnd="_liuyxYMHEe6SXqY2mPXbMQ _liwA4IMHEe6SXqY2mPXbMQ" navigableOwnedEnd="_liuyxYMHEe6SXqY2mPXbMQ _liwA4IMHEe6SXqY2mPXbMQ">
+        <ownedEnd xmi:type="uml:Property" xmi:id="_liuyxYMHEe6SXqY2mPXbMQ" visibility="public" type="_coA6gIMHEe6SXqY2mPXbMQ" owningAssociation="_liuyxIMHEe6SXqY2mPXbMQ" association="_liuyxIMHEe6SXqY2mPXbMQ"/>
+        <ownedEnd xmi:type="uml:Property" xmi:id="_liwA4IMHEe6SXqY2mPXbMQ" visibility="public" type="_aBflMIL8Ee6SXqY2mPXbMQ" owningAssociation="_liuyxIMHEe6SXqY2mPXbMQ" association="_liuyxIMHEe6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_-kGJAIMIEe6SXqY2mPXbMQ" name="Clean gym floors">
+        <extend xmi:type="uml:Extend" xmi:id="_BYrwgIMJEe6SXqY2mPXbMQ" extendedCase="_coA6gIMHEe6SXqY2mPXbMQ" extension="_-kGJAIMIEe6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_CGWHwIMJEe6SXqY2mPXbMQ" name="Clean equipment">
+        <extend xmi:type="uml:Extend" xmi:id="_IUTe0IMJEe6SXqY2mPXbMQ" extendedCase="_coA6gIMHEe6SXqY2mPXbMQ" extension="_CGWHwIMJEe6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_Jrbp0IMJEe6SXqY2mPXbMQ" name="Clean showers">
+        <extend xmi:type="uml:Extend" xmi:id="_P1NEcIMJEe6SXqY2mPXbMQ" extendedCase="_coA6gIMHEe6SXqY2mPXbMQ" extension="_Jrbp0IMJEe6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_NCP0oIMJEe6SXqY2mPXbMQ" name="Clean sauna">
+        <extend xmi:type="uml:Extend" xmi:id="_QN_X4IMJEe6SXqY2mPXbMQ" extendedCase="_coA6gIMHEe6SXqY2mPXbMQ" extension="_NCP0oIMJEe6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_UIVGgIMJEe6SXqY2mPXbMQ" name="Check cleaning equipment status"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_fzOnYIMJEe6SXqY2mPXbMQ" name="Process cleaning report"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_7stZQIMVEe6SXqY2mPXbMQ" memberEnd="_7stZQYMVEe6SXqY2mPXbMQ _7sunYYMVEe6SXqY2mPXbMQ" navigableOwnedEnd="_7stZQYMVEe6SXqY2mPXbMQ _7sunYYMVEe6SXqY2mPXbMQ">
+        <ownedEnd xmi:type="uml:Property" xmi:id="_7stZQYMVEe6SXqY2mPXbMQ" visibility="public" type="_fzOnYIMJEe6SXqY2mPXbMQ" owningAssociation="_7stZQIMVEe6SXqY2mPXbMQ" association="_7stZQIMVEe6SXqY2mPXbMQ"/>
+        <ownedEnd xmi:type="uml:Property" xmi:id="_7sunYYMVEe6SXqY2mPXbMQ" visibility="public" type="_SFeI0IMHEe6SXqY2mPXbMQ" owningAssociation="_7stZQIMVEe6SXqY2mPXbMQ" association="_7stZQIMVEe6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_ynCmgIMbEe6SXqY2mPXbMQ" name="Book online">
+        <include xmi:type="uml:Include" xmi:id="_6uhD8IMbEe6SXqY2mPXbMQ" addition="__HzWAILnEe6SXqY2mPXbMQ" includingCase="_ynCmgIMbEe6SXqY2mPXbMQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_5HKEkIMbEe6SXqY2mPXbMQ" memberEnd="_5HKroIMbEe6SXqY2mPXbMQ _5HMg0IMbEe6SXqY2mPXbMQ" navigableOwnedEnd="_5HKroIMbEe6SXqY2mPXbMQ _5HMg0IMbEe6SXqY2mPXbMQ">
+        <ownedEnd xmi:type="uml:Property" xmi:id="_5HKroIMbEe6SXqY2mPXbMQ" visibility="public" type="_ynCmgIMbEe6SXqY2mPXbMQ" owningAssociation="_5HKEkIMbEe6SXqY2mPXbMQ" association="_5HKEkIMbEe6SXqY2mPXbMQ"/>
+        <ownedEnd xmi:type="uml:Property" xmi:id="_5HMg0IMbEe6SXqY2mPXbMQ" visibility="public" type="_wCNMsILjEe6SXqY2mPXbMQ" owningAssociation="_5HKEkIMbEe6SXqY2mPXbMQ" association="_5HKEkIMbEe6SXqY2mPXbMQ"/>
+      </packagedElement>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_maSSkIMXEe6SXqY2mPXbMQ" name="Requirements">
+      <packagedElement xmi:type="uml:Package" xmi:id="_oLQg8IMXEe6SXqY2mPXbMQ" name="Functional">
+        <packagedElement xmi:type="uml:Class" xmi:id="_BeTSgIMYEe6SXqY2mPXbMQ" name="Offer personalized workouts"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_SbU0UIMYEe6SXqY2mPXbMQ" name="Collect user feedback "/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_dDH5cIMYEe6SXqY2mPXbMQ" name="Keep users engaged"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_5TPgIIMYEe6SXqY2mPXbMQ" name="Process payments"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_kHHrMIMZEe6SXqY2mPXbMQ" name="Response to emergency"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_Ehj9QIMaEe6SXqY2mPXbMQ" name="Show training progress"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_989LUIMaEe6SXqY2mPXbMQ" name="Provide tutorials"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_gKZsEIMbEe6SXqY2mPXbMQ" name="Book online"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_ZWyNwIMcEe6SXqY2mPXbMQ" name="Clean equipment"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_xkAT0IMpEe6SXqY2mPXbMQ" name="Clean gym rooms"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_DW_NQIMqEe6SXqY2mPXbMQ" name="Offers different memberships"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_TRzEIIMqEe6SXqY2mPXbMQ" name="Identify users"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_6HKLMIMqEe6SXqY2mPXbMQ" name="Access to gym services"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_9iVmsIMsEe6SXqY2mPXbMQ" name="Help with training"/>
+      </packagedElement>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_jnr64IcDEe69Qtlb2Gh81Q" name="Context">
+      <ownedComment xmi:type="uml:Comment" xmi:id="_oA79oIcEEe69Qtlb2Gh81Q">
+        <body>Describe the Project Context: Autonomous Gym System incoming and outgoing data
+
+1. Basic ideas and goals for the system;
+2. Backround situation;
+3. Framework conditions and other information from the project environment. Taking the developed system as black box.
+
+Motivation/descritpion:
+Why? Ideas and goals for the finished system is to have 24/7 automated gym in a casto- effective manner.
+What? For the system goals and ideas gym equippment booking and automated gym administratic services
+How? In product box are allocated system and sub-system requirements: Users, Facility, etc.
+Where? all steps and determine stakeholders
+
+Guiding questions:
+What are the three most important system goals?
+Are the participants infromed about the goals?
+How the backround situation of the project look like?
+What goals the project NOT pursue?
+</body>
+      </ownedComment>
+      <ownedComment xmi:type="uml:Comment" xmi:id="_BnGYIIcIEe69Qtlb2Gh81Q" annotatedElement="_MYcQQIcHEe69Qtlb2Gh81Q">
+        <body>Gym equipment (material)
+Training instructions (data)
+Spa services -  (material)
+Useful application to book (data)
+Entertainment  - media (data)
+Lights (energy)
+Internet (data)</body>
+      </ownedComment>
+      <ownedComment xmi:type="uml:Comment" xmi:id="_gGKioIcIEe69Qtlb2Gh81Q" annotatedElement="_cTv2YIcHEe69Qtlb2Gh81Q">
+        <body>Payment money (data)
+Equipment usage (wear, energy)
+Profile data-id (data)
+Feedback (data)
+Noise (energy)
+Vibration (energy)
+Waste, bacteria (material)
+CO2 (material)</body>
+      </ownedComment>
+      <ownedComment xmi:type="uml:Comment" xmi:id="_vFLfoIcIEe69Qtlb2Gh81Q" annotatedElement="_cTv2YIcHEe69Qtlb2Gh81Q">
+        <body>Waste products (material)</body>
+      </ownedComment>
+      <ownedComment xmi:type="uml:Comment" xmi:id="_0tcvsIcIEe69Qtlb2Gh81Q" annotatedElement="_8w-zMIcGEe69Qtlb2Gh81Q">
+        <body>Electricity (Energy)
+Water (material)
+Heat (energy)
+Ventilation (material)
+Internet (data)</body>
+      </ownedComment>
+      <ownedComment xmi:type="uml:Comment" xmi:id="_4CJaoIcIEe69Qtlb2Gh81Q" annotatedElement="_8w-zMIcGEe69Qtlb2Gh81Q">
+        <body>Heat (energy)
+Cool (energy)
+Sun light (energy)
+Bacteria (material)
+Noise (energy)</body>
+      </ownedComment>
+      <ownedComment xmi:type="uml:Comment" xmi:id="_6kbKIIcIEe69Qtlb2Gh81Q" annotatedElement="_hAd5oIcGEe69Qtlb2Gh81Q">
+        <body>Heat (energy
+Lighting (energy)
+Noise (energy)
+Air with CO2 and bacteria (material)</body>
+      </ownedComment>
+      <ownedComment xmi:type="uml:Comment" xmi:id="_-yu9oIcIEe69Qtlb2Gh81Q" annotatedElement="_fOBroIcGEe69Qtlb2Gh81Q">
+        <body>Broken equipment  (material)
+System data and signal (signal)</body>
+      </ownedComment>
+      <ownedComment xmi:type="uml:Comment" xmi:id="_ATUmoIcJEe69Qtlb2Gh81Q" annotatedElement="_8w-zMIcGEe69Qtlb2Gh81Q">
+        <body>Cleaning gym equippment (material)
+service equipment (material)</body>
+      </ownedComment>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_ItMjAIcGEe69Qtlb2Gh81Q" name="Users"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_bGDJoIcGEe69Qtlb2Gh81Q" name="Facility energy source"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_fOBroIcGEe69Qtlb2Gh81Q" name="Maintainer"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_hAd5oIcGEe69Qtlb2Gh81Q" name="Environmental"/>
+      <packagedElement xmi:type="uml:Actor" xmi:id="_8w-zMIcGEe69Qtlb2Gh81Q" name="24/7 Autonomous gym system"/>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_MYcQQIcHEe69Qtlb2Gh81Q" name="Outgoing to users" client="_8w-zMIcGEe69Qtlb2Gh81Q" supplier="_ItMjAIcGEe69Qtlb2Gh81Q"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_O1fhgIcHEe69Qtlb2Gh81Q" memberEnd="_O1gvoIcHEe69Qtlb2Gh81Q _O1jL4IcHEe69Qtlb2Gh81Q" navigableOwnedEnd="_O1gvoIcHEe69Qtlb2Gh81Q _O1jL4IcHEe69Qtlb2Gh81Q">
+        <ownedEnd xmi:type="uml:Property" xmi:id="_O1gvoIcHEe69Qtlb2Gh81Q" visibility="public" type="_8w-zMIcGEe69Qtlb2Gh81Q" owningAssociation="_O1fhgIcHEe69Qtlb2Gh81Q" association="_O1fhgIcHEe69Qtlb2Gh81Q"/>
+        <ownedEnd xmi:type="uml:Property" xmi:id="_O1jL4IcHEe69Qtlb2Gh81Q" visibility="public" type="_ItMjAIcGEe69Qtlb2Gh81Q" owningAssociation="_O1fhgIcHEe69Qtlb2Gh81Q" association="_O1fhgIcHEe69Qtlb2Gh81Q"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_Ro1L0IcHEe69Qtlb2Gh81Q" name="Incoming from Users" client="_ItMjAIcGEe69Qtlb2Gh81Q" supplier="_8w-zMIcGEe69Qtlb2Gh81Q"/>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_cTv2YIcHEe69Qtlb2Gh81Q" name="Outgoing from facility" client="_8w-zMIcGEe69Qtlb2Gh81Q" supplier="_bGDJoIcGEe69Qtlb2Gh81Q"/>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_fwitYIcHEe69Qtlb2Gh81Q" name="Incoming to facility" client="_bGDJoIcGEe69Qtlb2Gh81Q" supplier="_8w-zMIcGEe69Qtlb2Gh81Q"/>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_kEpm4IcHEe69Qtlb2Gh81Q" name="Outgoing to environment" client="_8w-zMIcGEe69Qtlb2Gh81Q" supplier="_hAd5oIcGEe69Qtlb2Gh81Q"/>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_lxTV8IcHEe69Qtlb2Gh81Q" name="Incoming from environment" client="_hAd5oIcGEe69Qtlb2Gh81Q" supplier="_8w-zMIcGEe69Qtlb2Gh81Q"/>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_0Wrq8IcHEe69Qtlb2Gh81Q" name="Outgoing to Maintainer" client="_8w-zMIcGEe69Qtlb2Gh81Q" supplier="_fOBroIcGEe69Qtlb2Gh81Q"/>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_2_4h0IcHEe69Qtlb2Gh81Q" name="Incoming from Maintainer" client="_fOBroIcGEe69Qtlb2Gh81Q" supplier="_8w-zMIcGEe69Qtlb2Gh81Q"/>
+    </packagedElement>
+    <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_VipksILjEe6SXqY2mPXbMQ" applyingPackage="_VinvgILjEe6SXqY2mPXbMQ">
+      <appliedProfile xmi:type="uml:Profile" href="http://www.omg.org/spec/SysML/20161101/SysML.xmi#SysML"/>
+    </profileApplication>
+  </uml:Model>
+  <sysml:Requirement xmi:id="_BesUEIMYEe6SXqY2mPXbMQ" id="SYSR001" text="Offer personalized workout recommendations and training plans based on users' goals and fitness levels." base_Class="_BeTSgIMYEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_SbWpgIMYEe6SXqY2mPXbMQ" id="SYSR002" text="Establish a platform for users to provide feedback, report issues, and suggest improvements." base_Class="_SbU0UIMYEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_dDKVsIMYEe6SXqY2mPXbMQ" id="SYSR003" text="Offer a range of audio and video entertainment options to keep users engaged during their workouts." base_Class="_dDH5cIMYEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_5TRVUIMYEe6SXqY2mPXbMQ" id="SYSR004" text="Enable secure and automated payment processing for membership fees and any additional services." base_Class="_5TPgIIMYEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_kHJgYIMZEe6SXqY2mPXbMQ" id="SYSR005" text="Equip the gym with an emergency response system that can automatically call for help in case of accidents or medical emergencies." base_Class="_kHHrMIMZEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_EhlycIMaEe6SXqY2mPXbMQ" id="SYSR007" text="The application provides a function for tracking the user's personal achievements to motivate them to continue going to the gym." base_Class="_Ehj9QIMaEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_98-ZcIMaEe6SXqY2mPXbMQ" id="SYSR008" text="The app contains instructions for using the equipment" base_Class="_989LUIMaEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_gKcIUIMbEe6SXqY2mPXbMQ" id="SYSR011" text="Provide a capability to book equipment in advance" base_Class="_gKZsEIMbEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_ZW0qAIMcEe6SXqY2mPXbMQ" id="SYSR012" text="System must clean automatically gym equipment." base_Class="_ZWyNwIMcEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_xkMhEIMpEe6SXqY2mPXbMQ" id="SYSR014" text="System must clean rooms (sauna, showers etc). Cleaning mechanism can also be controlled by real cleaner to make his work easier." base_Class="_xkAT0IMpEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_DXIXMIMqEe6SXqY2mPXbMQ" id="SYSR019" text="Provide different membership opportunities with minimum services and low  cost to personlised membership with higher fee." base_Class="_DW_NQIMqEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_TR05UIMqEe6SXqY2mPXbMQ" id="SYSR020" text="System must have user identification system to identify new and existing customers" base_Class="_TRzEIIMqEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_6HW_gIMqEe6SXqY2mPXbMQ" id="SYSR021" text="System ensures access to different gym services. Locker and sauna usage, access to gym equipment." base_Class="_6HKLMIMqEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_9iXb4IMsEe6SXqY2mPXbMQ" id="SYSR022" text="Customer can ask help from coach if he needs instrcutions or help with training." base_Class="_9iVmsIMsEe6SXqY2mPXbMQ"/>
+</xmi:XMI>

@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ext="http://astah.net/model/1.0.0/Extension" xmlns:sysml="http://www.omg.org/spec/SysML/20161101/SysML" xmlns:uml="http://www.omg.org/spec/UML/20131001">
+  <uml:Model xmi:id="_VinvgILjEe6SXqY2mPXbMQ" name="Root">
+    <packagedElement xmi:type="uml:Package" xmi:id="_maSSkIMXEe6SXqY2mPXbMQ" name="2-Requirements">
+      <packagedElement xmi:type="uml:Package" xmi:id="_oLQg8IMXEe6SXqY2mPXbMQ" name="Functional">
+        <packagedElement xmi:type="uml:Class" xmi:id="_BeTSgIMYEe6SXqY2mPXbMQ" name="Offer personalized workouts"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_SbU0UIMYEe6SXqY2mPXbMQ" name="Collect user feedback "/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_dDH5cIMYEe6SXqY2mPXbMQ" name="Keep users engaged"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_DmGE8IupEe6IxaWOJW89SA" name="24/7 Accessibility"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_Y4qDoIupEe6IxaWOJW89SA" name="Personalized membership"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_XDQLwIuqEe6IxaWOJW89SA" name="Controls automatic HVAC"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_pbMDwI7IEe65ju3mQ0Gw9Q" name="Communication_0"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_lm0i4IuqEe6IxaWOJW89SA" name="Online Booking"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_vCX3UIuqEe6IxaWOJW89SA" name="Cleaning"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_33fd4IuqEe6IxaWOJW89SA" name="Attract customers"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_XOLz8IurEe6IxaWOJW89SA" name="Data security"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_jpdo4IurEe6IxaWOJW89SA" name="Simple training"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_4I9L4IurEe6IxaWOJW89SA" name="Maintainability"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_-VyhkIurEe6IxaWOJW89SA" name="Testability"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_NsDg8IusEe6IxaWOJW89SA" name="Training"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_qHEJAIusEe6IxaWOJW89SA" name="Human factor engineering"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_1dLFoIusEe6IxaWOJW89SA" name="Availability of equippment"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_G02jIIutEe6IxaWOJW89SA" name="Automation"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_XKOEgIusEe6IxaWOJW89SA" name="Logistic support"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_H-YMcIusEe6IxaWOJW89SA" name="Producable"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_ErZqsIuqEe6IxaWOJW89SA" name="Security"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_4yvaoIupEe6IxaWOJW89SA" name="User Identification"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_pWS6wIupEe6IxaWOJW89SA" name="Automation and Efficiency_0"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_f9TLEIupEe6IxaWOJW89SA" name="Safety"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_5TPgIIMYEe6SXqY2mPXbMQ" name="Process payments"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_kHHrMIMZEe6SXqY2mPXbMQ" name="Response to emergency"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_cjo_AI7HEe65ju3mQ0Gw9Q" name="Remotely monitored"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_Ehj9QIMaEe6SXqY2mPXbMQ" name="Show training progress"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_989LUIMaEe6SXqY2mPXbMQ" name="Provide tutorials"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_gKZsEIMbEe6SXqY2mPXbMQ" name="Book online"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_ZWyNwIMcEe6SXqY2mPXbMQ" name="Clean equipment"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_xkAT0IMpEe6SXqY2mPXbMQ" name="Clean gym rooms"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_DW_NQIMqEe6SXqY2mPXbMQ" name="Offers different memberships"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_TRzEIIMqEe6SXqY2mPXbMQ" name="Identify users"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_6HKLMIMqEe6SXqY2mPXbMQ" name="Access to gym services"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_9iVmsIMsEe6SXqY2mPXbMQ" name="Help with training"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_DSrVgIuwEe6IxaWOJW89SA" name="Encryption"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_vQNBQI7GEe65ju3mQ0Gw9Q" name="Environmental management system"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_5mP3AIuwEe6IxaWOJW89SA" name="Payment Processing: "/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_RVRREIuxEe6IxaWOJW89SA" name="Personalized Workouts_2"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_h9fAgIuxEe6IxaWOJW89SA" name="User Feedback Mechanism"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_wER8EIuxEe6IxaWOJW89SA" name="Guidelines"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_9s2DgIuxEe6IxaWOJW89SA" name="Achievement system"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_YX80MIuyEe6IxaWOJW89SA" name="Identify users:_SSYS-008"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_r9TDIIuyEe6IxaWOJW89SA" name="Identify users:_SSYS-009"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_1rKPkIuyEe6IxaWOJW89SA" name="Power Backup"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_893BIIuyEe6IxaWOJW89SA" name="Environmental Monitoring"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_HaW1MIuzEe6IxaWOJW89SA" name="Rental Duration Selection"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_UOEYQIuzEe6IxaWOJW89SA" name="Real-time Availability Check"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_eg3dwIuzEe6IxaWOJW89SA" name="Hashing and Salting for Passwords"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_qBuR0IuzEe6IxaWOJW89SA" name="Encryption of Personally Identifiable Information (PII)"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_G56sgIuxEe6IxaWOJW89SA" name="Personalized Workouts_1"/>
+        <packagedElement xmi:type="uml:Abstraction" xmi:id="_EFfC8IvmEe6PNMsyhoablw" client="_1rKPkIuyEe6IxaWOJW89SA" supplier="_qBuR0IuzEe6IxaWOJW89SA"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Package" xmi:id="_gcbKoILjEe6SXqY2mPXbMQ" name="Use cases">
+        <packagedElement xmi:type="uml:Actor" xmi:id="_wCNMsILjEe6SXqY2mPXbMQ" name="Customer"/>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_CcxOEILlEe6SXqY2mPXbMQ" name="Identify user"/>
+        <packagedElement xmi:type="uml:Association" xmi:id="_GgPDgILlEe6SXqY2mPXbMQ" memberEnd="_GgSt4ILlEe6SXqY2mPXbMQ _Ggb30ILlEe6SXqY2mPXbMQ" navigableOwnedEnd="_GgSt4ILlEe6SXqY2mPXbMQ _Ggb30ILlEe6SXqY2mPXbMQ">
+          <ownedEnd xmi:type="uml:Property" xmi:id="_GgSt4ILlEe6SXqY2mPXbMQ" visibility="public" type="_CcxOEILlEe6SXqY2mPXbMQ" owningAssociation="_GgPDgILlEe6SXqY2mPXbMQ" association="_GgPDgILlEe6SXqY2mPXbMQ"/>
+          <ownedEnd xmi:type="uml:Property" xmi:id="_Ggb30ILlEe6SXqY2mPXbMQ" visibility="public" type="_wCNMsILjEe6SXqY2mPXbMQ" owningAssociation="_GgPDgILlEe6SXqY2mPXbMQ" association="_GgPDgILlEe6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="__HzWAILnEe6SXqY2mPXbMQ" name="Choose service">
+          <include xmi:type="uml:Include" xmi:id="_d_IPgILoEe6SXqY2mPXbMQ" addition="_W1cQAILoEe6SXqY2mPXbMQ" includingCase="__HzWAILnEe6SXqY2mPXbMQ"/>
+          <include xmi:type="uml:Include" xmi:id="_YiK4wIMCEe6SXqY2mPXbMQ" addition="_NMINkIMCEe6SXqY2mPXbMQ" includingCase="__HzWAILnEe6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_W1cQAILoEe6SXqY2mPXbMQ" name="Process payment">
+          <include xmi:type="uml:Include" xmi:id="_VB7ZEILqEe6SXqY2mPXbMQ" addition="_sNdWcILoEe6SXqY2mPXbMQ" includingCase="_W1cQAILoEe6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_sNdWcILoEe6SXqY2mPXbMQ" name="Access to gym services">
+          <include xmi:type="uml:Include" xmi:id="_RwcLcILwEe6SXqY2mPXbMQ" addition="_44LjUILtEe6SXqY2mPXbMQ" includingCase="_sNdWcILoEe6SXqY2mPXbMQ"/>
+          <include xmi:type="uml:Include" xmi:id="_SHG_AILwEe6SXqY2mPXbMQ" addition="_cGf1wILvEe6SXqY2mPXbMQ" includingCase="_sNdWcILoEe6SXqY2mPXbMQ"/>
+          <include xmi:type="uml:Include" xmi:id="_1ieYgIL9Ee6SXqY2mPXbMQ" addition="_tPE-8IL9Ee6SXqY2mPXbMQ" includingCase="_sNdWcILoEe6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Association" xmi:id="_QPBqwILqEe6SXqY2mPXbMQ" memberEnd="_QPCR0ILqEe6SXqY2mPXbMQ _QPFVIILqEe6SXqY2mPXbMQ" navigableOwnedEnd="_QPCR0ILqEe6SXqY2mPXbMQ _QPFVIILqEe6SXqY2mPXbMQ">
+          <ownedEnd xmi:type="uml:Property" xmi:id="_QPCR0ILqEe6SXqY2mPXbMQ" visibility="public" type="__HzWAILnEe6SXqY2mPXbMQ" owningAssociation="_QPBqwILqEe6SXqY2mPXbMQ" association="_QPBqwILqEe6SXqY2mPXbMQ"/>
+          <ownedEnd xmi:type="uml:Property" xmi:id="_QPFVIILqEe6SXqY2mPXbMQ" visibility="public" type="_wCNMsILjEe6SXqY2mPXbMQ" owningAssociation="_QPBqwILqEe6SXqY2mPXbMQ" association="_QPBqwILqEe6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_44LjUILtEe6SXqY2mPXbMQ" name="Access to locker"/>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_cGf1wILvEe6SXqY2mPXbMQ" name="Access to sauna and showers"/>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_VS0QkILxEe6SXqY2mPXbMQ" name="Process user feedback"/>
+        <packagedElement xmi:type="uml:Association" xmi:id="_dZljYILxEe6SXqY2mPXbMQ" memberEnd="_dZmKcILxEe6SXqY2mPXbMQ _dZomsILxEe6SXqY2mPXbMQ" navigableOwnedEnd="_dZmKcILxEe6SXqY2mPXbMQ _dZomsILxEe6SXqY2mPXbMQ">
+          <ownedEnd xmi:type="uml:Property" xmi:id="_dZmKcILxEe6SXqY2mPXbMQ" visibility="public" type="_VS0QkILxEe6SXqY2mPXbMQ" owningAssociation="_dZljYILxEe6SXqY2mPXbMQ" association="_dZljYILxEe6SXqY2mPXbMQ"/>
+          <ownedEnd xmi:type="uml:Property" xmi:id="_dZomsILxEe6SXqY2mPXbMQ" visibility="public" type="_wCNMsILjEe6SXqY2mPXbMQ" owningAssociation="_dZljYILxEe6SXqY2mPXbMQ" association="_dZljYILxEe6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_5HhqEILxEe6SXqY2mPXbMQ" name="Handle emergency call"/>
+        <packagedElement xmi:type="uml:Association" xmi:id="_8ZysEILxEe6SXqY2mPXbMQ" memberEnd="_8ZysEYLxEe6SXqY2mPXbMQ _8Z2WcILxEe6SXqY2mPXbMQ" navigableOwnedEnd="_8ZysEYLxEe6SXqY2mPXbMQ _8Z2WcILxEe6SXqY2mPXbMQ">
+          <ownedEnd xmi:type="uml:Property" xmi:id="_8ZysEYLxEe6SXqY2mPXbMQ" visibility="public" type="_5HhqEILxEe6SXqY2mPXbMQ" owningAssociation="_8ZysEILxEe6SXqY2mPXbMQ" association="_8ZysEILxEe6SXqY2mPXbMQ"/>
+          <ownedEnd xmi:type="uml:Property" xmi:id="_8Z2WcILxEe6SXqY2mPXbMQ" visibility="public" type="_wCNMsILjEe6SXqY2mPXbMQ" owningAssociation="_8ZysEILxEe6SXqY2mPXbMQ" association="_8ZysEILxEe6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Actor" xmi:id="_aBflMIL8Ee6SXqY2mPXbMQ" name="System operator"/>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_dzNjUIL8Ee6SXqY2mPXbMQ" name="Remote access"/>
+        <packagedElement xmi:type="uml:Association" xmi:id="_gmlp4IL8Ee6SXqY2mPXbMQ" memberEnd="_gmlp4YL8Ee6SXqY2mPXbMQ _gm39wIL8Ee6SXqY2mPXbMQ" navigableOwnedEnd="_gmlp4YL8Ee6SXqY2mPXbMQ _gm39wIL8Ee6SXqY2mPXbMQ">
+          <ownedEnd xmi:type="uml:Property" xmi:id="_gmlp4YL8Ee6SXqY2mPXbMQ" visibility="public" type="_dzNjUIL8Ee6SXqY2mPXbMQ" owningAssociation="_gmlp4IL8Ee6SXqY2mPXbMQ" association="_gmlp4IL8Ee6SXqY2mPXbMQ"/>
+          <ownedEnd xmi:type="uml:Property" xmi:id="_gm39wIL8Ee6SXqY2mPXbMQ" visibility="public" type="_aBflMIL8Ee6SXqY2mPXbMQ" owningAssociation="_gmlp4IL8Ee6SXqY2mPXbMQ" association="_gmlp4IL8Ee6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Association" xmi:id="_h91JtIL8Ee6SXqY2mPXbMQ" memberEnd="_h91wsIL8Ee6SXqY2mPXbMQ _h92-0IL8Ee6SXqY2mPXbMQ" navigableOwnedEnd="_h91wsIL8Ee6SXqY2mPXbMQ _h92-0IL8Ee6SXqY2mPXbMQ">
+          <ownedEnd xmi:type="uml:Property" xmi:id="_h91wsIL8Ee6SXqY2mPXbMQ" visibility="public" type="_5HhqEILxEe6SXqY2mPXbMQ" owningAssociation="_h91JtIL8Ee6SXqY2mPXbMQ" association="_h91JtIL8Ee6SXqY2mPXbMQ"/>
+          <ownedEnd xmi:type="uml:Property" xmi:id="_h92-0IL8Ee6SXqY2mPXbMQ" visibility="public" type="_aBflMIL8Ee6SXqY2mPXbMQ" owningAssociation="_h91JtIL8Ee6SXqY2mPXbMQ" association="_h91JtIL8Ee6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Association" xmi:id="_qrzmc4L8Ee6SXqY2mPXbMQ" memberEnd="_qr0NcIL8Ee6SXqY2mPXbMQ _qr2CoIL8Ee6SXqY2mPXbMQ" navigableOwnedEnd="_qr0NcIL8Ee6SXqY2mPXbMQ _qr2CoIL8Ee6SXqY2mPXbMQ">
+          <ownedEnd xmi:type="uml:Property" xmi:id="_qr0NcIL8Ee6SXqY2mPXbMQ" visibility="public" type="_VS0QkILxEe6SXqY2mPXbMQ" owningAssociation="_qrzmc4L8Ee6SXqY2mPXbMQ" association="_qrzmc4L8Ee6SXqY2mPXbMQ"/>
+          <ownedEnd xmi:type="uml:Property" xmi:id="_qr2CoIL8Ee6SXqY2mPXbMQ" visibility="public" type="_aBflMIL8Ee6SXqY2mPXbMQ" owningAssociation="_qrzmc4L8Ee6SXqY2mPXbMQ" association="_qrzmc4L8Ee6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_tPE-8IL9Ee6SXqY2mPXbMQ" name="Access to desired equipment"/>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_DqpiMIMAEe6SXqY2mPXbMQ" name="Handle coach request"/>
+        <packagedElement xmi:type="uml:Association" xmi:id="_JhYsEIMAEe6SXqY2mPXbMQ" memberEnd="_JhZTIIMAEe6SXqY2mPXbMQ _JhbIUIMAEe6SXqY2mPXbMQ" navigableOwnedEnd="_JhZTIIMAEe6SXqY2mPXbMQ _JhbIUIMAEe6SXqY2mPXbMQ">
+          <ownedEnd xmi:type="uml:Property" xmi:id="_JhZTIIMAEe6SXqY2mPXbMQ" visibility="public" type="_DqpiMIMAEe6SXqY2mPXbMQ" owningAssociation="_JhYsEIMAEe6SXqY2mPXbMQ" association="_JhYsEIMAEe6SXqY2mPXbMQ"/>
+          <ownedEnd xmi:type="uml:Property" xmi:id="_JhbIUIMAEe6SXqY2mPXbMQ" visibility="public" type="_wCNMsILjEe6SXqY2mPXbMQ" owningAssociation="_JhYsEIMAEe6SXqY2mPXbMQ" association="_JhYsEIMAEe6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_lMedoIMBEe6SXqY2mPXbMQ" name="Show training progress">
+          <extend xmi:type="uml:Extend" xmi:id="_yaunoIMBEe6SXqY2mPXbMQ" extendedCase="__HzWAILnEe6SXqY2mPXbMQ" extension="_lMedoIMBEe6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_NMINkIMCEe6SXqY2mPXbMQ" name="Choose training"/>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_lFiSsIMCEe6SXqY2mPXbMQ" name="Show tutorial">
+          <extend xmi:type="uml:Extend" xmi:id="_oMMhoIMCEe6SXqY2mPXbMQ" extendedCase="_NMINkIMCEe6SXqY2mPXbMQ" extension="_lFiSsIMCEe6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_vsEMgIMCEe6SXqY2mPXbMQ" name="Offer personalized workout">
+          <extend xmi:type="uml:Extend" xmi:id="_2o0jQIMCEe6SXqY2mPXbMQ" extendedCase="_NMINkIMCEe6SXqY2mPXbMQ" extension="_vsEMgIMCEe6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_SKLmgIMDEe6SXqY2mPXbMQ" name="Choose entertainment">
+          <extend xmi:type="uml:Extend" xmi:id="_UsH-0IMDEe6SXqY2mPXbMQ" extendedCase="__HzWAILnEe6SXqY2mPXbMQ" extension="_SKLmgIMDEe6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_I0vrsIMEEe6SXqY2mPXbMQ" name="Set user profile"/>
+        <packagedElement xmi:type="uml:Association" xmi:id="_UqvCQIMEEe6SXqY2mPXbMQ" memberEnd="_Uq4zQIMEEe6SXqY2mPXbMQ _Uq6ocIMEEe6SXqY2mPXbMQ" navigableOwnedEnd="_Uq4zQIMEEe6SXqY2mPXbMQ _Uq6ocIMEEe6SXqY2mPXbMQ">
+          <ownedEnd xmi:type="uml:Property" xmi:id="_Uq4zQIMEEe6SXqY2mPXbMQ" visibility="public" type="_I0vrsIMEEe6SXqY2mPXbMQ" owningAssociation="_UqvCQIMEEe6SXqY2mPXbMQ" association="_UqvCQIMEEe6SXqY2mPXbMQ"/>
+          <ownedEnd xmi:type="uml:Property" xmi:id="_Uq6ocIMEEe6SXqY2mPXbMQ" visibility="public" type="_wCNMsILjEe6SXqY2mPXbMQ" owningAssociation="_UqvCQIMEEe6SXqY2mPXbMQ" association="_UqvCQIMEEe6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Actor" xmi:id="_a2FxQIMEEe6SXqY2mPXbMQ" name="Coach"/>
+        <packagedElement xmi:type="uml:Association" xmi:id="_cmWOBIMEEe6SXqY2mPXbMQ" memberEnd="_cmW1AIMEEe6SXqY2mPXbMQ _cmZ4UIMEEe6SXqY2mPXbMQ" navigableOwnedEnd="_cmW1AIMEEe6SXqY2mPXbMQ _cmZ4UIMEEe6SXqY2mPXbMQ">
+          <ownedEnd xmi:type="uml:Property" xmi:id="_cmW1AIMEEe6SXqY2mPXbMQ" visibility="public" type="_DqpiMIMAEe6SXqY2mPXbMQ" owningAssociation="_cmWOBIMEEe6SXqY2mPXbMQ" association="_cmWOBIMEEe6SXqY2mPXbMQ"/>
+          <ownedEnd xmi:type="uml:Property" xmi:id="_cmZ4UIMEEe6SXqY2mPXbMQ" visibility="public" type="_a2FxQIMEEe6SXqY2mPXbMQ" owningAssociation="_cmWOBIMEEe6SXqY2mPXbMQ" association="_cmWOBIMEEe6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Association" xmi:id="_hwHHtIMFEe6SXqY2mPXbMQ" memberEnd="_hwHusIMFEe6SXqY2mPXbMQ _hwI80IMFEe6SXqY2mPXbMQ" navigableOwnedEnd="_hwHusIMFEe6SXqY2mPXbMQ _hwI80IMFEe6SXqY2mPXbMQ">
+          <ownedEnd xmi:type="uml:Property" xmi:id="_hwHusIMFEe6SXqY2mPXbMQ" visibility="public" type="_DqpiMIMAEe6SXqY2mPXbMQ" owningAssociation="_hwHHtIMFEe6SXqY2mPXbMQ" association="_hwHHtIMFEe6SXqY2mPXbMQ"/>
+          <ownedEnd xmi:type="uml:Property" xmi:id="_hwI80IMFEe6SXqY2mPXbMQ" visibility="public" type="_aBflMIL8Ee6SXqY2mPXbMQ" owningAssociation="_hwHHtIMFEe6SXqY2mPXbMQ" association="_hwHHtIMFEe6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Actor" xmi:id="_SFeI0IMHEe6SXqY2mPXbMQ" name="Cleaner"/>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_coA6gIMHEe6SXqY2mPXbMQ" name="Activate/disable automatic cleaning">
+          <include xmi:type="uml:Include" xmi:id="_YuRW4IMJEe6SXqY2mPXbMQ" addition="_UIVGgIMJEe6SXqY2mPXbMQ" includingCase="_coA6gIMHEe6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Association" xmi:id="_lMhSRIMHEe6SXqY2mPXbMQ" memberEnd="_lMh5QIMHEe6SXqY2mPXbMQ _lMjucIMHEe6SXqY2mPXbMQ" navigableOwnedEnd="_lMh5QIMHEe6SXqY2mPXbMQ _lMjucIMHEe6SXqY2mPXbMQ">
+          <ownedEnd xmi:type="uml:Property" xmi:id="_lMh5QIMHEe6SXqY2mPXbMQ" visibility="public" type="_coA6gIMHEe6SXqY2mPXbMQ" owningAssociation="_lMhSRIMHEe6SXqY2mPXbMQ" association="_lMhSRIMHEe6SXqY2mPXbMQ"/>
+          <ownedEnd xmi:type="uml:Property" xmi:id="_lMjucIMHEe6SXqY2mPXbMQ" visibility="public" type="_SFeI0IMHEe6SXqY2mPXbMQ" owningAssociation="_lMhSRIMHEe6SXqY2mPXbMQ" association="_lMhSRIMHEe6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Association" xmi:id="_liuyxIMHEe6SXqY2mPXbMQ" memberEnd="_liuyxYMHEe6SXqY2mPXbMQ _liwA4IMHEe6SXqY2mPXbMQ" navigableOwnedEnd="_liuyxYMHEe6SXqY2mPXbMQ _liwA4IMHEe6SXqY2mPXbMQ">
+          <ownedEnd xmi:type="uml:Property" xmi:id="_liuyxYMHEe6SXqY2mPXbMQ" visibility="public" type="_coA6gIMHEe6SXqY2mPXbMQ" owningAssociation="_liuyxIMHEe6SXqY2mPXbMQ" association="_liuyxIMHEe6SXqY2mPXbMQ"/>
+          <ownedEnd xmi:type="uml:Property" xmi:id="_liwA4IMHEe6SXqY2mPXbMQ" visibility="public" type="_aBflMIL8Ee6SXqY2mPXbMQ" owningAssociation="_liuyxIMHEe6SXqY2mPXbMQ" association="_liuyxIMHEe6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_-kGJAIMIEe6SXqY2mPXbMQ" name="Clean gym floors">
+          <extend xmi:type="uml:Extend" xmi:id="_BYrwgIMJEe6SXqY2mPXbMQ" extendedCase="_coA6gIMHEe6SXqY2mPXbMQ" extension="_-kGJAIMIEe6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_CGWHwIMJEe6SXqY2mPXbMQ" name="Clean equipment">
+          <extend xmi:type="uml:Extend" xmi:id="_IUTe0IMJEe6SXqY2mPXbMQ" extendedCase="_coA6gIMHEe6SXqY2mPXbMQ" extension="_CGWHwIMJEe6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_Jrbp0IMJEe6SXqY2mPXbMQ" name="Clean showers">
+          <extend xmi:type="uml:Extend" xmi:id="_P1NEcIMJEe6SXqY2mPXbMQ" extendedCase="_coA6gIMHEe6SXqY2mPXbMQ" extension="_Jrbp0IMJEe6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_NCP0oIMJEe6SXqY2mPXbMQ" name="Clean sauna">
+          <extend xmi:type="uml:Extend" xmi:id="_QN_X4IMJEe6SXqY2mPXbMQ" extendedCase="_coA6gIMHEe6SXqY2mPXbMQ" extension="_NCP0oIMJEe6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_UIVGgIMJEe6SXqY2mPXbMQ" name="Check cleaning equipment status"/>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_fzOnYIMJEe6SXqY2mPXbMQ" name="Process cleaning report"/>
+        <packagedElement xmi:type="uml:Association" xmi:id="_7stZQIMVEe6SXqY2mPXbMQ" memberEnd="_7stZQYMVEe6SXqY2mPXbMQ _7sunYYMVEe6SXqY2mPXbMQ" navigableOwnedEnd="_7stZQYMVEe6SXqY2mPXbMQ _7sunYYMVEe6SXqY2mPXbMQ">
+          <ownedEnd xmi:type="uml:Property" xmi:id="_7stZQYMVEe6SXqY2mPXbMQ" visibility="public" type="_fzOnYIMJEe6SXqY2mPXbMQ" owningAssociation="_7stZQIMVEe6SXqY2mPXbMQ" association="_7stZQIMVEe6SXqY2mPXbMQ"/>
+          <ownedEnd xmi:type="uml:Property" xmi:id="_7sunYYMVEe6SXqY2mPXbMQ" visibility="public" type="_SFeI0IMHEe6SXqY2mPXbMQ" owningAssociation="_7stZQIMVEe6SXqY2mPXbMQ" association="_7stZQIMVEe6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_ynCmgIMbEe6SXqY2mPXbMQ" name="Book online">
+          <include xmi:type="uml:Include" xmi:id="_6uhD8IMbEe6SXqY2mPXbMQ" addition="__HzWAILnEe6SXqY2mPXbMQ" includingCase="_ynCmgIMbEe6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Association" xmi:id="_5HKEkIMbEe6SXqY2mPXbMQ" memberEnd="_5HKroIMbEe6SXqY2mPXbMQ _5HMg0IMbEe6SXqY2mPXbMQ" navigableOwnedEnd="_5HKroIMbEe6SXqY2mPXbMQ _5HMg0IMbEe6SXqY2mPXbMQ">
+          <ownedEnd xmi:type="uml:Property" xmi:id="_5HKroIMbEe6SXqY2mPXbMQ" visibility="public" type="_ynCmgIMbEe6SXqY2mPXbMQ" owningAssociation="_5HKEkIMbEe6SXqY2mPXbMQ" association="_5HKEkIMbEe6SXqY2mPXbMQ"/>
+          <ownedEnd xmi:type="uml:Property" xmi:id="_5HMg0IMbEe6SXqY2mPXbMQ" visibility="public" type="_wCNMsILjEe6SXqY2mPXbMQ" owningAssociation="_5HKEkIMbEe6SXqY2mPXbMQ" association="_5HKEkIMbEe6SXqY2mPXbMQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Dependency" xmi:id="_3N2zmIvBEe6IxaWOJW89SA" client="_wCNMsILjEe6SXqY2mPXbMQ" supplier="_yYGRcIu0Ee6IxaWOJW89SA"/>
+        <packagedElement xmi:type="uml:Association" xmi:id="_veyZyIvCEe6PNMsyhoablw" memberEnd="_vezAsIvCEe6PNMsyhoablw _ve0O0IvCEe6PNMsyhoablw" navigableOwnedEnd="_vezAsIvCEe6PNMsyhoablw">
+          <ownedEnd xmi:type="uml:Property" xmi:id="_vezAsIvCEe6PNMsyhoablw" visibility="public" type="_V_LzwIu3Ee6IxaWOJW89SA" owningAssociation="_veyZyIvCEe6PNMsyhoablw" association="_veyZyIvCEe6PNMsyhoablw"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Association" xmi:id="_xTbHMI4LEe6cPKy6yivACQ" memberEnd="_xTbuQI4LEe6cPKy6yivACQ _xTh04I4LEe6cPKy6yivACQ" navigableOwnedEnd="_xTbuQI4LEe6cPKy6yivACQ">
+          <ownedEnd xmi:type="uml:Property" xmi:id="_xTbuQI4LEe6cPKy6yivACQ" name="automated gym" visibility="public" type="_V_LzwIu3Ee6IxaWOJW89SA" owningAssociation="_xTbHMI4LEe6cPKy6yivACQ" association="_xTbHMI4LEe6cPKy6yivACQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Association" xmi:id="_0FBsXI4LEe6cPKy6yivACQ" memberEnd="_0FBsXY4LEe6cPKy6yivACQ _0FC6QI4LEe6cPKy6yivACQ" navigableOwnedEnd="_0FBsXY4LEe6cPKy6yivACQ">
+          <ownedEnd xmi:type="uml:Property" xmi:id="_0FBsXY4LEe6cPKy6yivACQ" visibility="public" type="_V_LzwIu3Ee6IxaWOJW89SA" owningAssociation="_0FBsXI4LEe6cPKy6yivACQ" association="_0FBsXI4LEe6cPKy6yivACQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Association" xmi:id="_3hYefI4LEe6cPKy6yivACQ" memberEnd="_3hZFUI4LEe6cPKy6yivACQ _3hZsYI4LEe6cPKy6yivACQ" navigableOwnedEnd="_3hZFUI4LEe6cPKy6yivACQ">
+          <ownedEnd xmi:type="uml:Property" xmi:id="_3hZFUI4LEe6cPKy6yivACQ" visibility="public" type="_JicmQIu3Ee6IxaWOJW89SA" owningAssociation="_3hYefI4LEe6cPKy6yivACQ" association="_3hYefI4LEe6cPKy6yivACQ"/>
+        </packagedElement>
+        <packagedElement xmi:type="uml:Association" xmi:id="_y7fOwI6bEe62a4GaX4HNlw" memberEnd="_y7fOwY6bEe62a4GaX4HNlw _y7hrAI6bEe62a4GaX4HNlw" navigableOwnedEnd="_y7fOwY6bEe62a4GaX4HNlw">
+          <ownedEnd xmi:type="uml:Property" xmi:id="_y7fOwY6bEe62a4GaX4HNlw" visibility="public" type="_V_LzwIu3Ee6IxaWOJW89SA" owningAssociation="_y7fOwI6bEe62a4GaX4HNlw" association="_y7fOwI6bEe62a4GaX4HNlw"/>
+        </packagedElement>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Package" xmi:id="_kYWwMIugEe6IxaWOJW89SA" name="Stakeholder needs and requirements"/>
+      <packagedElement xmi:type="uml:Package" xmi:id="_3dhDMIugEe6IxaWOJW89SA" name="System requirements"/>
+      <packagedElement xmi:type="uml:Package" xmi:id="_6cyQsIugEe6IxaWOJW89SA" name="Sub-system requirements"/>
+      <packagedElement xmi:type="uml:Package" xmi:id="_7XPRUIuhEe6IxaWOJW89SA" name="Non functional requirements"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_jnr64IcDEe69Qtlb2Gh81Q" name="1-Context">
+      <ownedComment xmi:type="uml:Comment" xmi:id="_oA79oIcEEe69Qtlb2Gh81Q">
+        <body>Describe the Project Context: Autonomous Gym System incoming and outgoing data
+
+1. Basic ideas and goals for the system;
+2. Backround situation;
+3. Framework conditions and other information from the project environment. Taking the developed system as black box.
+
+Motivation/descritpion:
+Why? Ideas and goals for the finished system is to have 24/7 automated gym in a casto- effective manner.
+What? For the system goals and ideas gym equippment booking and automated gym administratic services
+How? In product box are allocated system and sub-system requirements: Users, Facility, etc.
+Where? all steps and determine stakeholders
+
+Guiding questions:
+What are the three most important system goals?
+Are the participants infromed about the goals?
+How the backround situation of the project look like?
+What goals the project NOT pursue?
+</body>
+      </ownedComment>
+      <ownedComment xmi:type="uml:Comment" xmi:id="_BnGYIIcIEe69Qtlb2Gh81Q" annotatedElement="_MYcQQIcHEe69Qtlb2Gh81Q">
+        <body>Gym equipment (material)
+Training instructions (data)
+Spa services -  (material)
+Useful application to book (data)
+Entertainment  - media (data)
+Lights (energy)
+Internet (data)</body>
+      </ownedComment>
+      <ownedComment xmi:type="uml:Comment" xmi:id="_gGKioIcIEe69Qtlb2Gh81Q" annotatedElement="_cTv2YIcHEe69Qtlb2Gh81Q">
+        <body>Payment money (data)
+Equipment usage (wear, energy)
+Profile data-id (data)
+Feedback (data)
+Noise (energy)
+Vibration (energy)
+Waste, bacteria (material)
+CO2 (material)</body>
+      </ownedComment>
+      <ownedComment xmi:type="uml:Comment" xmi:id="_vFLfoIcIEe69Qtlb2Gh81Q" annotatedElement="_cTv2YIcHEe69Qtlb2Gh81Q">
+        <body>Waste products (material)</body>
+      </ownedComment>
+      <ownedComment xmi:type="uml:Comment" xmi:id="_0tcvsIcIEe69Qtlb2Gh81Q" annotatedElement="_8w-zMIcGEe69Qtlb2Gh81Q">
+        <body>Electricity (Energy)
+Water (material)
+Heat (energy)
+Ventilation (material)
+Internet (data)</body>
+      </ownedComment>
+      <ownedComment xmi:type="uml:Comment" xmi:id="_4CJaoIcIEe69Qtlb2Gh81Q" annotatedElement="_8w-zMIcGEe69Qtlb2Gh81Q">
+        <body>Heat (energy)
+Cool (energy)
+Sun light (energy)
+Bacteria (material)
+Noise (energy)</body>
+      </ownedComment>
+      <ownedComment xmi:type="uml:Comment" xmi:id="_6kbKIIcIEe69Qtlb2Gh81Q" annotatedElement="_hAd5oIcGEe69Qtlb2Gh81Q">
+        <body>Heat (energy
+Lighting (energy)
+Noise (energy)
+Air with CO2 and bacteria (material)</body>
+      </ownedComment>
+      <ownedComment xmi:type="uml:Comment" xmi:id="_-yu9oIcIEe69Qtlb2Gh81Q" annotatedElement="_fOBroIcGEe69Qtlb2Gh81Q">
+        <body>Broken equipment  (material)
+System data and signal (signal)</body>
+      </ownedComment>
+      <ownedComment xmi:type="uml:Comment" xmi:id="_ATUmoIcJEe69Qtlb2Gh81Q" annotatedElement="_8w-zMIcGEe69Qtlb2Gh81Q">
+        <body>Cleaning gym equippment (material)
+service equipment (material)</body>
+      </ownedComment>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_ItMjAIcGEe69Qtlb2Gh81Q" name="Users"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_bGDJoIcGEe69Qtlb2Gh81Q" name="Facility energy source"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_fOBroIcGEe69Qtlb2Gh81Q" name="Maintainer"/>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_hAd5oIcGEe69Qtlb2Gh81Q" name="Environmental"/>
+      <packagedElement xmi:type="uml:Actor" xmi:id="_8w-zMIcGEe69Qtlb2Gh81Q" name="24/7 Autonomous gym system"/>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_MYcQQIcHEe69Qtlb2Gh81Q" name="Outgoing to users" client="_8w-zMIcGEe69Qtlb2Gh81Q" supplier="_ItMjAIcGEe69Qtlb2Gh81Q"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_O1fhgIcHEe69Qtlb2Gh81Q" memberEnd="_O1gvoIcHEe69Qtlb2Gh81Q _O1jL4IcHEe69Qtlb2Gh81Q" navigableOwnedEnd="_O1gvoIcHEe69Qtlb2Gh81Q _O1jL4IcHEe69Qtlb2Gh81Q">
+        <ownedEnd xmi:type="uml:Property" xmi:id="_O1gvoIcHEe69Qtlb2Gh81Q" visibility="public" type="_8w-zMIcGEe69Qtlb2Gh81Q" owningAssociation="_O1fhgIcHEe69Qtlb2Gh81Q" association="_O1fhgIcHEe69Qtlb2Gh81Q"/>
+        <ownedEnd xmi:type="uml:Property" xmi:id="_O1jL4IcHEe69Qtlb2Gh81Q" visibility="public" type="_ItMjAIcGEe69Qtlb2Gh81Q" owningAssociation="_O1fhgIcHEe69Qtlb2Gh81Q" association="_O1fhgIcHEe69Qtlb2Gh81Q"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_Ro1L0IcHEe69Qtlb2Gh81Q" name="Incoming from Users" client="_ItMjAIcGEe69Qtlb2Gh81Q" supplier="_8w-zMIcGEe69Qtlb2Gh81Q"/>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_cTv2YIcHEe69Qtlb2Gh81Q" name="Outgoing from facility" client="_8w-zMIcGEe69Qtlb2Gh81Q" supplier="_bGDJoIcGEe69Qtlb2Gh81Q"/>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_fwitYIcHEe69Qtlb2Gh81Q" name="Incoming to facility" client="_bGDJoIcGEe69Qtlb2Gh81Q" supplier="_8w-zMIcGEe69Qtlb2Gh81Q"/>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_kEpm4IcHEe69Qtlb2Gh81Q" name="Outgoing to environment" client="_8w-zMIcGEe69Qtlb2Gh81Q" supplier="_hAd5oIcGEe69Qtlb2Gh81Q"/>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_lxTV8IcHEe69Qtlb2Gh81Q" name="Incoming from environment" client="_hAd5oIcGEe69Qtlb2Gh81Q" supplier="_8w-zMIcGEe69Qtlb2Gh81Q"/>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_0Wrq8IcHEe69Qtlb2Gh81Q" name="Outgoing to Maintainer" client="_8w-zMIcGEe69Qtlb2Gh81Q" supplier="_fOBroIcGEe69Qtlb2Gh81Q"/>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_2_4h0IcHEe69Qtlb2Gh81Q" name="Incoming from Maintainer" client="_fOBroIcGEe69Qtlb2Gh81Q" supplier="_8w-zMIcGEe69Qtlb2Gh81Q"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_u1YvwIugEe6IxaWOJW89SA" name="Purpose">
+        <xmi:Extension extender="http://astah.net/model/1.0.0/Extension" id="_BhKVkIulEe6IxaWOJW89SA.0">
+          <contents xmi:type="ext:ExtraInfo" xmi:id="_BhK8oIulEe6IxaWOJW89SA" definition="Provide 24/7 gym service -  goal is to build a sustainable and cost effective gym, which will minimise human intervention in the gym's operations, offering participants a meaningful automated means for their workouts, thus ensuring flexibility and accessibility for various schedules."/>
+        </xmi:Extension>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_soO7sIugEe6IxaWOJW89SA" name="Mission">
+        <xmi:Extension extender="http://astah.net/model/1.0.0/Extension" id="_fYIFoIuiEe6IxaWOJW89SA.0">
+          <contents xmi:type="ext:ExtraInfo" xmi:id="_fYIssIuiEe6IxaWOJW89SA" definition="The sustainable cost effective meaningful fitness service for healthier life available for 24/7."/>
+        </xmi:Extension>
+      </packagedElement>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_alQioIuZEe6IxaWOJW89SA" name="0-Automated Gym Model Guide">
+      <ownedComment xmi:type="uml:Comment" xmi:id="_VAhgAIufEe6IxaWOJW89SA">
+        <body>Current model consist of 4 packages: 
+1) Context
+2) Requirements
+3) Structure
+4) Behaviour
+</body>
+      </ownedComment>
+      <ownedComment xmi:type="uml:Comment" xmi:id="_E0dEkIugEe6IxaWOJW89SA">
+        <body>
+1)  Basic ideas and goals for the system;
+2)  Backround situation;
+3) Framework conditions and other information from the project environment. Taking the developed system as black box.
+</body>
+      </ownedComment>
+      <packagedElement xmi:type="uml:Class" xmi:id="_FJDRAIufEe6IxaWOJW89SA" name="Guide for automated gym model">
+        <xmi:Extension extender="http://astah.net/model/1.0.0/Extension" id="_hGCjgIujEe6IxaWOJW89SA.0">
+          <contents xmi:type="ext:ExtraInfo" xmi:id="_hGDxoIujEe6IxaWOJW89SA" definition="Model is on Concept development phase to understand the relations and tracebility of different domains. Starting with describing the context of the system to develop an Automated Gym system  and the need for it.&#xA;&#xA;Current model consist of 4 packages:&#xA;1) Context&#xA;2) Requirements&#xA;3) Structure&#xA;Behaviour&#xA;&#xA;1) Under the context there are described the mission and purpose of the system and system stakeholders and motivation of the system.&#xA;2) Requirements is the basis for managing the system needs and requirements for concept development to be a succesful and profitable to stakeholders over full-life cycle which we espect to be  minimum 5 to 10 years as automated systems rapid development in the wordwide will effect the system structure, which need to adobt for changes.&#xA;3) Structure of the system of the concept development is the proof of fulfilling the system requirements in different level and will hold the building block in hardware and software domain with  relationships to each other&#xA;4) Behaviour of the system will describe the main constraints and functionalities of the system as applicable for the system concept development phase."/>
+        </xmi:Extension>
+      </packagedElement>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_4jwZ4IudEe6IxaWOJW89SA" name="3-Structure">
+      <ownedComment xmi:type="uml:Comment" xmi:id="_JRbfwI7NEe65ju3mQ0Gw9Q">
+        <body>
+
+by J.Urb @29.11.2023
+24/7 autonomous gym is divided into five: a gym service system and administrative service system, cleaning system, Application software, HVAC. Gym service system contains gym equipment and interacts with software application.
+ Administrative service system contain user access and other related access, interacts and communicates with other systems. 
+
+  Idea behind that is gym service is responsible for training processes in the gym and administrative service is responsible for accessibility and communication. All systems are communicationg though application sowtware and administrative service.
+</body>
+      </ownedComment>
+      <packagedElement xmi:type="uml:Class" xmi:id="_yYGRcIu0Ee6IxaWOJW89SA" name="Gym service system">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_KG1XoIu1Ee6IxaWOJW89SA" name="Book equippment" visibility="public" type="_yYGRcIu0Ee6IxaWOJW89SA" end="_Kqx7wIvBEe6IxaWOJW89SA" association="_KG0JgYu1Ee6IxaWOJW89SA"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_jV2IUIu2Ee6IxaWOJW89SA" visibility="public" type="_HFpCEIu2Ee6IxaWOJW89SA" association="_jV06bIu2Ee6IxaWOJW89SA"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_ZZVmcYu3Ee6IxaWOJW89SA" visibility="public" type="_V_LzwIu3Ee6IxaWOJW89SA" association="_ZZUYjIu3Ee6IxaWOJW89SA"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_xPJlAYu3Ee6IxaWOJW89SA" visibility="public" type="_HFpCEIu2Ee6IxaWOJW89SA" association="_xPIXHIu3Ee6IxaWOJW89SA"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_bXXHcYu5Ee6IxaWOJW89SA" name="Book strength equippment" visibility="public" type="_yYGRcIu0Ee6IxaWOJW89SA" end="_Kqx7wYvBEe6IxaWOJW89SA" aggregation="composite" association="_bXXHcIu5Ee6IxaWOJW89SA"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_bXYVkYu5Ee6IxaWOJW89SA" name="Create &amp; modify programs" visibility="public" type="_yYGRcIu0Ee6IxaWOJW89SA" end="_AdRsUIvJEe6PNMsyhoablw" aggregation="composite" association="_bXXHcIu5Ee6IxaWOJW89SA"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_VKdY8Iu8Ee6IxaWOJW89SA" name="b1.1" visibility="public" end="_QSxb0Iu9Ee6IxaWOJW89SA _lN2lQYvWEe6PNMsyhoablw" aggregation="composite" isBehavior="true"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_7Mry4Yu8Ee6IxaWOJW89SA" name="b2.2" visibility="public" end="_15M1PYu-Ee6IxaWOJW89SA _m07QwYvWEe6PNMsyhoablw" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_l4xsMIvDEe6PNMsyhoablw" name="Bentch 1" visibility="public" type="_-7JZ8IvCEe6PNMsyhoablw" aggregation="composite" association="_l4v3PIvDEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_iZCZcYvEEe6PNMsyhoablw" name="Bentch 2" visibility="public" type="_3ir-oIvCEe6PNMsyhoablw" end="_AdRsUYvJEe6PNMsyhoablw _M0cHTYvSEe6PNMsyhoablw _P4pfEIvSEe6PNMsyhoablw" aggregation="composite" association="_iZBLUIvEEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_DYqikYvNEe6PNMsyhoablw" name="b3.1" visibility="public" end="_M0cHTovSEe6PNMsyhoablw _-Y5OMYvSEe6PNMsyhoablw _IKrYsYvQEe6PNMsyhoablw _o0kNQYvWEe6PNMsyhoablw" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_Eglz8YvNEe6PNMsyhoablw" name="b3.2" visibility="public" end="_P4pfEYvSEe6PNMsyhoablw _AHmywYvTEe6PNMsyhoablw _HkeUbYvQEe6PNMsyhoablw _oBwQQYvWEe6PNMsyhoablw _oAmqYYx-Ee6AlpHfRKls-Q _pgvAYYx-Ee6AlpHfRKls-Q" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_4LhtAIvSEe6PNMsyhoablw" name="Strength area telerobot" visibility="public" type="_vsr4cIvSEe6PNMsyhoablw" end="_-Y5OMIvSEe6PNMsyhoablw _AHmywIvTEe6PNMsyhoablw" aggregation="composite" association="_4LhF8IvSEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_OTN84IvTEe6PNMsyhoablw" visibility="public" type="_3ir-oIvCEe6PNMsyhoablw" association="_OTMu_IvTEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_IibYEovVEe6PNMsyhoablw" visibility="public" type="_-7JZ8IvCEe6PNMsyhoablw" association="_IiaxOIvVEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_fLBqsYvXEe6PNMsyhoablw" name="C0.1" visibility="public" end="_3AobYYx7Ee6AlpHfRKls-Q _t8-M8I4EEe6cPKy6yivACQ _xhKscI4EEe6cPKy6yivACQ _ghwNEYvXEe6PNMsyhoablw _jWIC0Ix_Ee6AlpHfRKls-Q _mEiJ0ox_Ee6AlpHfRKls-Q" aggregation="composite" isBehavior="true"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_fscVsYvXEe6PNMsyhoablw" name="C0.2" visibility="public" end="_3wH-oYx7Ee6AlpHfRKls-Q _tjdrUY4FEe6cPKy6yivACQ _vLicYI4FEe6cPKy6yivACQ _13c6wY4FEe6cPKy6yivACQ _3tkH0I4FEe6cPKy6yivACQ _5_iKcY4FEe6cPKy6yivACQ _hHq9kYvXEe6PNMsyhoablw" aggregation="composite" isConjugated="true"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_7aFu8Ix7Ee6AlpHfRKls-Q" name="D1" visibility="public" end="_ArfXIYx8Ee6AlpHfRKls-Q" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_bfNb0Ix9Ee6AlpHfRKls-Q" name="d0.1" visibility="public" end="_f1Tc4Yx-Ee6AlpHfRKls-Q _gwvKYYx-Ee6AlpHfRKls-Q _lcCb4Yx-Ee6AlpHfRKls-Q _mL39YYx-Ee6AlpHfRKls-Q _SVWCYYx_Ee6AlpHfRKls-Q" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_b-CF0Yx9Ee6AlpHfRKls-Q" name="d0.2" visibility="public" end="_PvZT0Yx_Ee6AlpHfRKls-Q" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_TvdFQI4GEe6cPKy6yivACQ" name="Flow Property1 - Data -request - responce" visibility="public" aggregation="composite">
+          <type xmi:type="uml:DataType" href="http://www.omg.org/spec/SysML/20161101/SysML.xmi#SysML_dataType.Real"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_a9fZQI4GEe6cPKy6yivACQ"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_a9gAUI4GEe6cPKy6yivACQ" value="1"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_-k-uVo6DEe62a4GaX4HNlw" visibility="public" type="_HFpCEIu2Ee6IxaWOJW89SA" aggregation="composite" association="_-k-uVY6DEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="___UlYI6DEe62a4GaX4HNlw" visibility="public" type="_3ir-oIvCEe6PNMsyhoablw" aggregation="composite" association="___T-jI6DEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_B76N4I6EEe62a4GaX4HNlw" visibility="public" type="_-7JZ8IvCEe6PNMsyhoablw" aggregation="composite" association="_B75nDI6EEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_UfpYYY6QEe62a4GaX4HNlw" name="Telerobot" visibility="public" type="_Heu5sIvFEe6PNMsyhoablw" aggregation="composite" association="_UfpYYI6QEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_F6cNEI6REe62a4GaX4HNlw" name="Identification" visibility="public" type="_QZhY4I6CEe62a4GaX4HNlw" aggregation="composite" association="_F6bmMI6REe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_62lPUI6WEe62a4GaX4HNlw" name="training logging" visibility="public" type="_0_ijcI6WEe62a4GaX4HNlw" aggregation="composite" association="_62koQI6WEe62a4GaX4HNlw"/>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_KqwtvIvBEe6IxaWOJW89SA">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_Kqx7wIvBEe6IxaWOJW89SA" role="_KG1XoIu1Ee6IxaWOJW89SA"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_Kqx7wYvBEe6IxaWOJW89SA" role="_bXXHcYu5Ee6IxaWOJW89SA"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_AdQeMIvJEe6PNMsyhoablw">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_AdRsUIvJEe6PNMsyhoablw" role="_bXYVkYu5Ee6IxaWOJW89SA"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_AdRsUYvJEe6PNMsyhoablw" role="_iZCZcYvEEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_M0cHTIvSEe6PNMsyhoablw">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_M0cHTYvSEe6PNMsyhoablw" role="_iZCZcYvEEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_M0cHTovSEe6PNMsyhoablw" partWithPort="_bXXHcYu5Ee6IxaWOJW89SA" role="_DYqikYvNEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_P4o4HIvSEe6PNMsyhoablw">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_P4pfEIvSEe6PNMsyhoablw" role="_iZCZcYvEEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_P4pfEYvSEe6PNMsyhoablw" partWithPort="_bXXHcYu5Ee6IxaWOJW89SA" role="_Eglz8YvNEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_-Y4nPIvSEe6PNMsyhoablw">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_-Y5OMIvSEe6PNMsyhoablw" role="_4LhtAIvSEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_-Y5OMYvSEe6PNMsyhoablw" partWithPort="_bXXHcYu5Ee6IxaWOJW89SA" role="_DYqikYvNEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_AHlkvIvTEe6PNMsyhoablw">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_AHmywIvTEe6PNMsyhoablw" role="_4LhtAIvSEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_AHmywYvTEe6PNMsyhoablw" partWithPort="_bXXHcYu5Ee6IxaWOJW89SA" role="_Eglz8YvNEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_3AmmMIx7Ee6AlpHfRKls-Q">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_3AobYIx7Ee6AlpHfRKls-Q" partWithPort="_iZCZcYvEEe6PNMsyhoablw" role="_Km7xAYvWEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_3AobYYx7Ee6AlpHfRKls-Q" partWithPort="_bXXHcYu5Ee6IxaWOJW89SA" role="_fLBqsYvXEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_3wGwnIx7Ee6AlpHfRKls-Q">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_3wH-oIx7Ee6AlpHfRKls-Q" partWithPort="_l4xsMIvDEe6PNMsyhoablw" role="_vAbDkIx7Ee6AlpHfRKls-Q"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_3wH-oYx7Ee6AlpHfRKls-Q" partWithPort="_bXXHcYu5Ee6IxaWOJW89SA" role="_fscVsYvXEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_AreJHIx8Ee6AlpHfRKls-Q">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_ArfXIIx8Ee6AlpHfRKls-Q" partWithPort="_4LhtAIvSEe6PNMsyhoablw" role="_6PKz8Ix7Ee6AlpHfRKls-Q"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_ArfXIYx8Ee6AlpHfRKls-Q" partWithPort="_bXXHcYu5Ee6IxaWOJW89SA" role="_7aFu8Ix7Ee6AlpHfRKls-Q"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_t82RII4EEe6cPKy6yivACQ">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_t89l4I4EEe6cPKy6yivACQ" partWithPort="_iZCZcYvEEe6PNMsyhoablw" role="_Km7xAYvWEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_t8-M8I4EEe6cPKy6yivACQ" partWithPort="_bXXHcYu5Ee6IxaWOJW89SA" role="_fLBqsYvXEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_xhI3XI4EEe6cPKy6yivACQ">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_xhKscI4EEe6cPKy6yivACQ" partWithPort="_bXXHcYu5Ee6IxaWOJW89SA" role="_fLBqsYvXEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_xhLTgI4EEe6cPKy6yivACQ" partWithPort="_iZCZcYvEEe6PNMsyhoablw" role="_Km7xAYvWEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_tjb2PI4FEe6cPKy6yivACQ">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_tjdrUI4FEe6cPKy6yivACQ" partWithPort="_l4xsMIvDEe6PNMsyhoablw" role="_vAbDkIx7Ee6AlpHfRKls-Q"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_tjdrUY4FEe6cPKy6yivACQ" partWithPort="_bXXHcYu5Ee6IxaWOJW89SA" role="_fscVsYvXEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_vLhOXI4FEe6cPKy6yivACQ">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_vLicYI4FEe6cPKy6yivACQ" partWithPort="_bXXHcYu5Ee6IxaWOJW89SA" role="_fscVsYvXEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_vLicYY4FEe6cPKy6yivACQ" partWithPort="_l4xsMIvDEe6PNMsyhoablw" role="_vAbDkIx7Ee6AlpHfRKls-Q"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_13bsoI4FEe6cPKy6yivACQ">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_13c6wI4FEe6cPKy6yivACQ" partWithPort="_l4xsMIvDEe6PNMsyhoablw" role="_vAbDkIx7Ee6AlpHfRKls-Q"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_13c6wY4FEe6cPKy6yivACQ" partWithPort="_bXXHcYu5Ee6IxaWOJW89SA" role="_fscVsYvXEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_3ti5zI4FEe6cPKy6yivACQ">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_3tkH0I4FEe6cPKy6yivACQ" partWithPort="_bXXHcYu5Ee6IxaWOJW89SA" role="_fscVsYvXEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_3tkH0Y4FEe6cPKy6yivACQ" partWithPort="_l4xsMIvDEe6PNMsyhoablw" role="_vAbDkIx7Ee6AlpHfRKls-Q"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_5_g8bI4FEe6cPKy6yivACQ">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_5_iKcI4FEe6cPKy6yivACQ" partWithPort="_l4xsMIvDEe6PNMsyhoablw" role="_vAbDkIx7Ee6AlpHfRKls-Q"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_5_iKcY4FEe6cPKy6yivACQ" partWithPort="_bXXHcYu5Ee6IxaWOJW89SA" role="_fscVsYvXEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedOperation xmi:type="uml:Operation" xmi:id="_eXOHoIu1Ee6IxaWOJW89SA" name="Operation1-Book gym equippment" class="_yYGRcIu0Ee6IxaWOJW89SA">
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_-rXkcIu1Ee6IxaWOJW89SA" type="_5HKEkIMbEe6SXqY2mPXbMQ" direction="return"/>
+        </ownedOperation>
+        <ownedOperation xmi:type="uml:Operation" xmi:id="_o74WkI6REe62a4GaX4HNlw" name="Operation6 -Identification" visibility="public" class="_yYGRcIu0Ee6IxaWOJW89SA"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_KG0JgYu1Ee6IxaWOJW89SA" memberEnd="_KG0Jgou1Ee6IxaWOJW89SA _KG1XoIu1Ee6IxaWOJW89SA">
+        <ownedEnd xmi:type="uml:Property" xmi:id="_KG0Jgou1Ee6IxaWOJW89SA" visibility="public" type="_yYGRcIu0Ee6IxaWOJW89SA" aggregation="composite" owningAssociation="_KG0JgYu1Ee6IxaWOJW89SA" association="_KG0JgYu1Ee6IxaWOJW89SA"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_HFpCEIu2Ee6IxaWOJW89SA" name="Cardio equippment">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_jV1hQIu2Ee6IxaWOJW89SA" name="Gym service system book runtrack 1" visibility="public" type="_yYGRcIu0Ee6IxaWOJW89SA" end="_Jl6a4IvAEe6IxaWOJW89SA" aggregation="composite" isID="true" association="_jV06bIu2Ee6IxaWOJW89SA">
+          <defaultValue xmi:type="uml:LiteralString" xmi:id="_CW0o4Iu-Ee6IxaWOJW89SA" value="0"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_xPI98Iu3Ee6IxaWOJW89SA" name="Gym service system book runtrack 2" visibility="public" type="_yYGRcIu0Ee6IxaWOJW89SA" end="_z8QK0Iu_Ee6IxaWOJW89SA" aggregation="composite" isID="true" association="_xPIXHIu3Ee6IxaWOJW89SA">
+          <defaultValue xmi:type="uml:LiteralString" xmi:id="_F4NE8Iu-Ee6IxaWOJW89SA" value="0"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_1ZHuQYu7Ee6IxaWOJW89SA" name="Book runtrack 1" visibility="public" type="_1ZHHMIu7Ee6IxaWOJW89SA" end="_Jl6a4YvAEe6IxaWOJW89SA" aggregation="composite" association="_1ZHuQIu7Ee6IxaWOJW89SA"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_s5O7YIu8Ee6IxaWOJW89SA" name="Book runtrack 2" visibility="public" type="_s5NtQIu8Ee6IxaWOJW89SA" end="_z8QK0Yu_Ee6IxaWOJW89SA" aggregation="composite" association="_s5OUUIu8Ee6IxaWOJW89SA"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_IkMAsIvXEe6PNMsyhoablw" name="b0.1" visibility="public" end="_hHq9kIvXEe6PNMsyhoablw" aggregation="composite" isBehavior="true"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_JN1aoYvXEe6PNMsyhoablw" name="b0.2" visibility="public" end="_ghwNEIvXEe6PNMsyhoablw" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_-k_8co6DEe62a4GaX4HNlw" visibility="public" type="_yYGRcIu0Ee6IxaWOJW89SA" association="_-k-uVY6DEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_-x3V8Y6SEe62a4GaX4HNlw" name="RFID" visibility="public" type="_HFpCEIu2Ee6IxaWOJW89SA" aggregation="composite" association="_-x3V8I6SEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_-x39Ao6SEe62a4GaX4HNlw" visibility="public" type="_HFpCEIu2Ee6IxaWOJW89SA" association="_-x3V8I6SEe62a4GaX4HNlw"/>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_QSu_kIu9Ee6IxaWOJW89SA">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_QSxb0Iu9Ee6IxaWOJW89SA" partWithPort="_jV1hQIu2Ee6IxaWOJW89SA" role="_VKdY8Iu8Ee6IxaWOJW89SA"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_QSxb0Yu9Ee6IxaWOJW89SA" partWithPort="_1ZHuQYu7Ee6IxaWOJW89SA" role="_Wh8JQYu8Ee6IxaWOJW89SA"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_15M1PIu-Ee6IxaWOJW89SA">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_15M1PYu-Ee6IxaWOJW89SA" partWithPort="_xPI98Iu3Ee6IxaWOJW89SA" role="_7Mry4Yu8Ee6IxaWOJW89SA"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_15M1Pou-Ee6IxaWOJW89SA" partWithPort="_s5O7YIu8Ee6IxaWOJW89SA" role="_yWcgEYu-Ee6IxaWOJW89SA"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_z8Pj3Iu_Ee6IxaWOJW89SA">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_z8QK0Iu_Ee6IxaWOJW89SA" role="_xPI98Iu3Ee6IxaWOJW89SA"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_z8QK0Yu_Ee6IxaWOJW89SA" role="_s5O7YIu8Ee6IxaWOJW89SA"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_Jl5z7IvAEe6IxaWOJW89SA">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_Jl6a4IvAEe6IxaWOJW89SA" role="_jV1hQIu2Ee6IxaWOJW89SA"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_Jl6a4YvAEe6IxaWOJW89SA" role="_1ZHuQYu7Ee6IxaWOJW89SA"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_ghvmHIvXEe6PNMsyhoablw">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_ghwNEIvXEe6PNMsyhoablw" role="_JN1aoYvXEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_ghwNEYvXEe6PNMsyhoablw" partWithPort="_jV1hQIu2Ee6IxaWOJW89SA" role="_fLBqsYvXEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_hHqWnIvXEe6PNMsyhoablw">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_hHq9kIvXEe6PNMsyhoablw" role="_IkMAsIvXEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_hHq9kYvXEe6PNMsyhoablw" partWithPort="_xPI98Iu3Ee6IxaWOJW89SA" role="_fscVsYvXEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedOperation xmi:type="uml:Operation" xmi:id="_JhH28Iu_Ee6IxaWOJW89SA" name="Operation2-Book gym equippment runtrack" class="_HFpCEIu2Ee6IxaWOJW89SA">
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_JhH28Yu_Ee6IxaWOJW89SA" type="_5HKEkIMbEe6SXqY2mPXbMQ" direction="return"/>
+        </ownedOperation>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_jV06bIu2Ee6IxaWOJW89SA" memberEnd="_jV1hQIu2Ee6IxaWOJW89SA _jV2IUIu2Ee6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_4KTOsIu2Ee6IxaWOJW89SA" name="Administrative service system">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_Y24Zoou3Ee6IxaWOJW89SA" visibility="public" type="_V_LzwIu3Ee6IxaWOJW89SA" association="_Y23ykIu3Ee6IxaWOJW89SA"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_GOXeYI6AEe62a4GaX4HNlw" name="Access identification" visibility="public" type="_WIutUIvjEe6PNMsyhoablw" aggregation="composite" association="_GOWQQI6AEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_SS4ZII6AEe62a4GaX4HNlw" name="Application software" visibility="public" type="_n7CjAIyAEe6AlpHfRKls-Q" aggregation="composite" association="_SS3yEI6AEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_QmQp0I6BEe62a4GaX4HNlw" name="Physical payment terminal" visibility="public" type="_dYXj0IvjEe6PNMsyhoablw" aggregation="composite" association="_QmQCwI6BEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_AA42MI6FEe62a4GaX4HNlw" name="PLC display application" visibility="public" type="_5VzeQI6EEe62a4GaX4HNlw" aggregation="composite" association="_AA4PII6FEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_YWxosI6VEe62a4GaX4HNlw" name="Surveilance camera" visibility="public" type="_SvpoII6VEe62a4GaX4HNlw" aggregation="composite" association="_YWxBoI6VEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_TIJ80I6XEe62a4GaX4HNlw" name="User progress" visibility="public" type="_0_ijcI6WEe62a4GaX4HNlw" aggregation="composite" association="_TIJVwI6XEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_t1W_QY6XEe62a4GaX4HNlw" name="Access locker" visibility="public" type="_pUgqQI6XEe62a4GaX4HNlw" aggregation="composite" association="_t1W_QI6XEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_09YK0Y6XEe62a4GaX4HNlw" name="Locker" visibility="public" type="_z3aBQI6XEe62a4GaX4HNlw" aggregation="composite" association="_09YK0I6XEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_3ZGUcI6ZEe62a4GaX4HNlw" name="Automated gym system overview" visibility="public" type="_tcBAQI6ZEe62a4GaX4HNlw" aggregation="composite" association="_3ZFtYI6ZEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_g6arcI6aEe62a4GaX4HNlw" name="Server" visibility="public" type="_v8KeQI6YEe62a4GaX4HNlw" aggregation="composite" association="_g6aEYI6aEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_hkJk8I6aEe62a4GaX4HNlw" name="Sauna" visibility="public" type="_bA-dwI6YEe62a4GaX4HNlw" aggregation="composite" association="_hkI94I6aEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_inq3cI6aEe62a4GaX4HNlw" name="Ruuter" visibility="public" type="_tXvZsI6YEe62a4GaX4HNlw" aggregation="composite" association="_inqQYI6aEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_jLv04I6aEe62a4GaX4HNlw" name="Light controller" visibility="public" type="_dKOCMI6YEe62a4GaX4HNlw" aggregation="composite" association="_jLvN0I6aEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_Db9M4o6bEe62a4GaX4HNlw" visibility="public" type="_V_LzwIu3Ee6IxaWOJW89SA" association="_Db7-1I6bEe62a4GaX4HNlw"/>
+        <ownedOperation xmi:type="uml:Operation" xmi:id="__cq0MI6XEe62a4GaX4HNlw" name="Operation7 Access" visibility="public" class="_4KTOsIu2Ee6IxaWOJW89SA"/>
+        <ownedOperation xmi:type="uml:Operation" xmi:id="_Lc8SsI6ZEe62a4GaX4HNlw" name="Operation8 Informatics and communication" visibility="public" class="_4KTOsIu2Ee6IxaWOJW89SA"/>
+        <nestedClassifier xmi:type="uml:Class" xmi:id="_bA-dwI6YEe62a4GaX4HNlw" name="Sauna">
+          <ownedAttribute xmi:type="uml:Property" xmi:id="_hkKzEI6aEe62a4GaX4HNlw" visibility="public" type="_4KTOsIu2Ee6IxaWOJW89SA" association="_hkI94I6aEe62a4GaX4HNlw"/>
+        </nestedClassifier>
+        <nestedClassifier xmi:type="uml:Class" xmi:id="_dKOCMI6YEe62a4GaX4HNlw" name="LIght controller">
+          <ownedAttribute xmi:type="uml:Property" xmi:id="_jLxDAI6aEe62a4GaX4HNlw" visibility="public" type="_4KTOsIu2Ee6IxaWOJW89SA" association="_jLvN0I6aEe62a4GaX4HNlw"/>
+        </nestedClassifier>
+        <nestedClassifier xmi:type="uml:Class" xmi:id="_o1hLsI6YEe62a4GaX4HNlw" name="Access controller"/>
+        <nestedClassifier xmi:type="uml:Class" xmi:id="_tXvZsI6YEe62a4GaX4HNlw" name="Ruuter">
+          <ownedAttribute xmi:type="uml:Property" xmi:id="_insFkY6aEe62a4GaX4HNlw" visibility="public" type="_4KTOsIu2Ee6IxaWOJW89SA" association="_inqQYI6aEe62a4GaX4HNlw"/>
+        </nestedClassifier>
+        <nestedClassifier xmi:type="uml:Class" xmi:id="_v8KeQI6YEe62a4GaX4HNlw" name="Server">
+          <ownedAttribute xmi:type="uml:Property" xmi:id="_g6b5kY6aEe62a4GaX4HNlw" visibility="public" type="_4KTOsIu2Ee6IxaWOJW89SA" association="_g6aEYI6aEe62a4GaX4HNlw"/>
+        </nestedClassifier>
+        <nestedClassifier xmi:type="uml:Class" xmi:id="_tcBAQI6ZEe62a4GaX4HNlw" name="Automated gym system overview">
+          <ownedAttribute xmi:type="uml:Property" xmi:id="_3ZHikI6ZEe62a4GaX4HNlw" visibility="public" type="_4KTOsIu2Ee6IxaWOJW89SA" association="_3ZFtYI6ZEe62a4GaX4HNlw"/>
+        </nestedClassifier>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_JicmQIu3Ee6IxaWOJW89SA" name="Cleaning system">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_bfxugYu3Ee6IxaWOJW89SA" visibility="public" type="_V_LzwIu3Ee6IxaWOJW89SA" association="_bfwgnIu3Ee6IxaWOJW89SA"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_nrZtIIvTEe6PNMsyhoablw" name="Gym general area cleaning robot" visibility="public" type="_hn-LEIvTEe6PNMsyhoablw" end="_2VtwAIvUEe6PNMsyhoablw" aggregation="composite" association="_nrZGEIvTEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_AfAwsYvUEe6PNMsyhoablw" name="Wet areas cleaning robot" visibility="public" type="_hn-LEIvTEe6PNMsyhoablw" end="_6jCFAIvUEe6PNMsyhoablw" aggregation="composite" association="_AfAwsIvUEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_Nu4EQIvUEe6PNMsyhoablw" name="Cardio area" visibility="public" type="_CZ6MkIvTEe6PNMsyhoablw" end="_4Y3TgIvUEe6PNMsyhoablw" aggregation="composite" association="_Nu3dMIvUEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_VuV1MYvUEe6PNMsyhoablw" name="Strength area" visibility="public" type="_CZ6MkIvTEe6PNMsyhoablw" end="_5GkHAIvUEe6PNMsyhoablw" aggregation="composite" association="_VuV1MIvUEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_d4M4QYvUEe6PNMsyhoablw" name="Stretching area" visibility="public" type="_CZ6MkIvTEe6PNMsyhoablw" end="_3Z2GgIvUEe6PNMsyhoablw" aggregation="composite" association="_d4M4QIvUEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_k2rGQovUEe6PNMsyhoablw" name="Cleaning system management" visibility="public" type="_JicmQIu3Ee6IxaWOJW89SA" end="_2VtwAYvUEe6PNMsyhoablw _3Z2GgYvUEe6PNMsyhoablw _4Y3TgYvUEe6PNMsyhoablw _5GkHAYvUEe6PNMsyhoablw _6jCFAYvUEe6PNMsyhoablw" association="_k2rGQYvUEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_k2sUYIvUEe6PNMsyhoablw" visibility="public" type="_JicmQIu3Ee6IxaWOJW89SA" association="_k2rGQYvUEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_nUmLIIvdEe6PNMsyhoablw" name="d01" visibility="public" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_n4hXkYvdEe6PNMsyhoablw" name="d02" visibility="public" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_oXucEYvdEe6PNMsyhoablw" name="d03" visibility="public" end="_DAecUYveEe6PNMsyhoablw" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_rDiiEYvdEe6PNMsyhoablw" name="d04" visibility="public" end="_FwZmQYveEe6PNMsyhoablw" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_tzs8kYvdEe6PNMsyhoablw" name="d05" visibility="public" end="_D5xb0YveEe6PNMsyhoablw" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_vusCkYvdEe6PNMsyhoablw" name="d06" visibility="public" end="_Aw930IveEe6PNMsyhoablw" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_wLLxUYvdEe6PNMsyhoablw" name="d06" visibility="public" end="_GkNo0YveEe6PNMsyhoablw" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_3hZsYI4LEe6cPKy6yivACQ" visibility="public" type="_SFeI0IMHEe6SXqY2mPXbMQ" association="_3hYefI4LEe6cPKy6yivACQ"/>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_2VtI8IvUEe6PNMsyhoablw">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_2VtwAIvUEe6PNMsyhoablw" role="_nrZtIIvTEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_2VtwAYvUEe6PNMsyhoablw" role="_k2rGQovUEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_3Z1fjIvUEe6PNMsyhoablw">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_3Z2GgIvUEe6PNMsyhoablw" role="_d4M4QYvUEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_3Z2GgYvUEe6PNMsyhoablw" role="_k2rGQovUEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_4Y2sjIvUEe6PNMsyhoablw">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_4Y3TgIvUEe6PNMsyhoablw" role="_Nu4EQIvUEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_4Y3TgYvUEe6PNMsyhoablw" role="_k2rGQovUEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_5GjgDIvUEe6PNMsyhoablw">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_5GkHAIvUEe6PNMsyhoablw" role="_VuV1MYvUEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_5GkHAYvUEe6PNMsyhoablw" role="_k2rGQovUEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_6jBeDIvUEe6PNMsyhoablw">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_6jCFAIvUEe6PNMsyhoablw" role="_AfAwsYvUEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_6jCFAYvUEe6PNMsyhoablw" role="_k2rGQovUEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_Aw9QwIveEe6PNMsyhoablw">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_Aw9QwYveEe6PNMsyhoablw" partWithPort="_nrZtIIvTEe6PNMsyhoablw" role="_4Pb7oYvdEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_Aw930IveEe6PNMsyhoablw" partWithPort="_k2rGQovUEe6PNMsyhoablw" role="_vusCkYvdEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_DAd1XIveEe6PNMsyhoablw">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_DAecUIveEe6PNMsyhoablw" partWithPort="_AfAwsYvUEe6PNMsyhoablw" role="_7q7yIYvdEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_DAecUYveEe6PNMsyhoablw" partWithPort="_k2rGQovUEe6PNMsyhoablw" role="_oXucEYvdEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_D5w03IveEe6PNMsyhoablw">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_D5xb0IveEe6PNMsyhoablw" partWithPort="_Nu4EQIvUEe6PNMsyhoablw" role="_8RAToYvdEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_D5xb0YveEe6PNMsyhoablw" partWithPort="_k2rGQovUEe6PNMsyhoablw" role="_tzs8kYvdEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_FwY_TIveEe6PNMsyhoablw">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_FwZmQIveEe6PNMsyhoablw" partWithPort="_VuV1MYvUEe6PNMsyhoablw" role="_8_xeIYvdEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_FwZmQYveEe6PNMsyhoablw" partWithPort="_k2rGQovUEe6PNMsyhoablw" role="_rDiiEYvdEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_GkNB3IveEe6PNMsyhoablw">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_GkNo0IveEe6PNMsyhoablw" partWithPort="_d4M4QYvUEe6PNMsyhoablw" role="_9h4FoYvdEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_GkNo0YveEe6PNMsyhoablw" partWithPort="_k2rGQovUEe6PNMsyhoablw" role="_wLLxUYvdEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedOperation xmi:type="uml:Operation" xmi:id="_R5oo8IveEe6PNMsyhoablw" name="Operation4 Cleaning" isAbstract="true" class="_JicmQIu3Ee6IxaWOJW89SA">
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_R5oo8YveEe6PNMsyhoablw" type="_5HKEkIMbEe6SXqY2mPXbMQ" direction="return"/>
+        </ownedOperation>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_QSzfwIu3Ee6IxaWOJW89SA" name="Application software">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_cK6WMou3Ee6IxaWOJW89SA" visibility="public" type="_V_LzwIu3Ee6IxaWOJW89SA" association="_cK5vXIu3Ee6IxaWOJW89SA"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_bFilkIvjEe6PNMsyhoablw" visibility="public" type="_WIutUIvjEe6PNMsyhoablw" association="_bFhXhIvjEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_ii1dkYvjEe6PNMsyhoablw" visibility="public" type="_dYXj0IvjEe6PNMsyhoablw" association="_ii02lIvjEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_sAdOkovjEe6PNMsyhoablw" visibility="public" type="_o-7-UIvjEe6PNMsyhoablw" association="_sAcnlIvjEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_twQp8IyAEe6AlpHfRKls-Q" visibility="public" type="_n7CjAIyAEe6AlpHfRKls-Q" association="_twPb0IyAEe6AlpHfRKls-Q"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_UMDacIyBEe6AlpHfRKls-Q" visibility="public" type="_SVmPIIyBEe6AlpHfRKls-Q" association="_UMCMjIyBEe6AlpHfRKls-Q"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_jWzQ4IyCEe6AlpHfRKls-Q" visibility="public" type="_X4BgcIyCEe6AlpHfRKls-Q" association="_jWyC_IyCEe6AlpHfRKls-Q"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_f81WMY4IEe6cPKy6yivACQ" visibility="public" end="_g0ev4I4IEe6cPKy6yivACQ _AiLl0I4LEe6cPKy6yivACQ" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_jUi44I4IEe6cPKy6yivACQ" visibility="public" end="_kt-xAY4IEe6cPKy6yivACQ" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_VSA80Y4JEe6cPKy6yivACQ" visibility="public" end="_ZR89IY4JEe6cPKy6yivACQ _aRg8sI4JEe6cPKy6yivACQ _c7hE0Y4JEe6cPKy6yivACQ" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_21-ioY6AEe62a4GaX4HNlw" visibility="public" type="_wGB40I6AEe62a4GaX4HNlw" association="_219UgI6AEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_33WOII6CEe62a4GaX4HNlw" visibility="public" type="_V_LzwIu3Ee6IxaWOJW89SA" aggregation="composite" association="_33VnTI6CEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_VORE0o6DEe62a4GaX4HNlw" visibility="public" type="_V_LzwIu3Ee6IxaWOJW89SA" association="_VOPP3I6DEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_3r_dQI6DEe62a4GaX4HNlw" visibility="public" type="_n7CjAIyAEe6AlpHfRKls-Q" aggregation="composite" association="_3r-2bI6DEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_5HULwI6DEe62a4GaX4HNlw" visibility="public" type="_wGB40I6AEe62a4GaX4HNlw" aggregation="composite" association="_5HTk7I6DEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_5_LA0Y6DEe62a4GaX4HNlw" visibility="public" type="_X4BgcIyCEe6AlpHfRKls-Q" aggregation="composite" association="_5_LA0I6DEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_6_enQI6DEe62a4GaX4HNlw" visibility="public" type="_SVmPIIyBEe6AlpHfRKls-Q" aggregation="composite" association="_6_eAbI6DEe62a4GaX4HNlw"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_V_LzwIu3Ee6IxaWOJW89SA" name="Automated gym">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_Y23ykYu3Ee6IxaWOJW89SA" visibility="public" type="_4KTOsIu2Ee6IxaWOJW89SA" aggregation="composite" association="_Y23ykIu3Ee6IxaWOJW89SA"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_ZZU_YIu3Ee6IxaWOJW89SA" visibility="public" type="_yYGRcIu0Ee6IxaWOJW89SA" aggregation="composite" association="_ZZUYjIu3Ee6IxaWOJW89SA"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_bfxHcIu3Ee6IxaWOJW89SA" visibility="public" type="_JicmQIu3Ee6IxaWOJW89SA" aggregation="composite" association="_bfwgnIu3Ee6IxaWOJW89SA"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_cK5vXYu3Ee6IxaWOJW89SA" visibility="public" type="_QSzfwIu3Ee6IxaWOJW89SA" aggregation="composite" association="_cK5vXIu3Ee6IxaWOJW89SA"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_ve0O0IvCEe6PNMsyhoablw" visibility="public" type="_wCNMsILjEe6SXqY2mPXbMQ" association="_veyZyIvCEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_DaKAVYvhEe6PNMsyhoablw" visibility="public" type="_p9rl4IvgEe6PNMsyhoablw" aggregation="composite" association="_DaKAVIvhEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_xTh04I4LEe6cPKy6yivACQ" visibility="public" type="_a2FxQIMEEe6SXqY2mPXbMQ" association="_xTbHMI4LEe6cPKy6yivACQ"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_0FC6QI4LEe6cPKy6yivACQ" visibility="public" type="_aBflMIL8Ee6SXqY2mPXbMQ" association="_0FBsXI4LEe6cPKy6yivACQ"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_33XcQY6CEe62a4GaX4HNlw" visibility="public" type="_QSzfwIu3Ee6IxaWOJW89SA" association="_33VnTI6CEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_VOP2sI6DEe62a4GaX4HNlw" visibility="public" type="_QSzfwIu3Ee6IxaWOJW89SA" aggregation="composite" association="_VOPP3I6DEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_Db7-1Y6bEe62a4GaX4HNlw" visibility="public" type="_4KTOsIu2Ee6IxaWOJW89SA" aggregation="composite" association="_Db7-1I6bEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_y7hrAI6bEe62a4GaX4HNlw" visibility="public" type="_SFeI0IMHEe6SXqY2mPXbMQ" association="_y7fOwI6bEe62a4GaX4HNlw"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_Y23ykIu3Ee6IxaWOJW89SA" memberEnd="_Y23ykYu3Ee6IxaWOJW89SA _Y24Zoou3Ee6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_ZZUYjIu3Ee6IxaWOJW89SA" memberEnd="_ZZU_YIu3Ee6IxaWOJW89SA _ZZVmcYu3Ee6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_bfwgnIu3Ee6IxaWOJW89SA" memberEnd="_bfxHcIu3Ee6IxaWOJW89SA _bfxugYu3Ee6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_cK5vXIu3Ee6IxaWOJW89SA" memberEnd="_cK5vXYu3Ee6IxaWOJW89SA _cK6WMou3Ee6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_xPIXHIu3Ee6IxaWOJW89SA" memberEnd="_xPI98Iu3Ee6IxaWOJW89SA _xPJlAYu3Ee6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_bXXHcIu5Ee6IxaWOJW89SA" memberEnd="_bXXHcYu5Ee6IxaWOJW89SA _bXYVkYu5Ee6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_1ZHHMIu7Ee6IxaWOJW89SA" name="Runtrack 1">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_1ZIVUou7Ee6IxaWOJW89SA" visibility="public" type="_HFpCEIu2Ee6IxaWOJW89SA" association="_1ZHuQIu7Ee6IxaWOJW89SA"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_Wh8JQYu8Ee6IxaWOJW89SA" name="B1.1" visibility="public" end="_QSxb0Yu9Ee6IxaWOJW89SA" aggregation="composite"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_1ZHuQIu7Ee6IxaWOJW89SA" memberEnd="_1ZHuQYu7Ee6IxaWOJW89SA _1ZIVUou7Ee6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_s5NtQIu8Ee6IxaWOJW89SA" name="Runtrack 2">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_s5PicYu8Ee6IxaWOJW89SA" visibility="public" type="_HFpCEIu2Ee6IxaWOJW89SA" association="_s5OUUIu8Ee6IxaWOJW89SA"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_yWcgEYu-Ee6IxaWOJW89SA" name="B2.2" visibility="public" end="_15M1Pou-Ee6IxaWOJW89SA" aggregation="composite"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_s5OUUIu8Ee6IxaWOJW89SA" memberEnd="_s5O7YIu8Ee6IxaWOJW89SA _s5PicYu8Ee6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:InformationFlow" xmi:id="_z8WRcIu_Ee6IxaWOJW89SA" name="Runtrack2" conveyed="_gKZsEIMbEe6SXqY2mPXbMQ" informationSource="_s5O7YIu8Ee6IxaWOJW89SA" informationTarget="_xPI98Iu3Ee6IxaWOJW89SA" realizingConnector="_z8Pj3Iu_Ee6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:InformationFlow" xmi:id="_Jl6a4ovAEe6IxaWOJW89SA" name="Runtrack1" conveyed="_gKZsEIMbEe6SXqY2mPXbMQ" informationSource="_1ZHuQYu7Ee6IxaWOJW89SA" informationTarget="_jV1hQIu2Ee6IxaWOJW89SA" realizingConnector="_Jl5z7IvAEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:InformationFlow" xmi:id="_Kqx7wovBEe6IxaWOJW89SA" name="" conveyed="_gKZsEIMbEe6SXqY2mPXbMQ" informationSource="_bXXHcYu5Ee6IxaWOJW89SA" informationTarget="_KG1XoIu1Ee6IxaWOJW89SA" realizingConnector="_KqwtvIvBEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_3ir-oIvCEe6PNMsyhoablw" name="Strength equippment">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_kjX_gYvDEe6PNMsyhoablw" name="Book Strength equippment 1" visibility="public" type="_VhVHMIvEEe6PNMsyhoablw" end="_JXH9sYvQEe6PNMsyhoablw" aggregation="composite" association="_kjX_gIvDEe6PNMsyhoablw">
+          <defaultValue xmi:type="uml:LiteralString" xmi:id="_ZU3-YIvREe6PNMsyhoablw" value="0"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_YoKboIvMEe6PNMsyhoablw" name="Book Strength equippment 2" visibility="public" type="_YoJ0kIvMEe6PNMsyhoablw" aggregation="composite" association="_YoLCsIvMEe6PNMsyhoablw">
+          <defaultValue xmi:type="uml:LiteralString" xmi:id="_Z2RbQIvREe6PNMsyhoablw" value="0"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_iZBLUYvEEe6PNMsyhoablw" name="Gym service system book strength equippment 1" visibility="public" type="_yYGRcIu0Ee6IxaWOJW89SA" end="_JXH9sIvQEe6PNMsyhoablw" aggregation="composite" association="_iZBLUIvEEe6PNMsyhoablw">
+          <defaultValue xmi:type="uml:LiteralString" xmi:id="_4VXt4IvEEe6PNMsyhoablw" value="0"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_OTMu_YvTEe6PNMsyhoablw" name="Gym service system book strength equippment " visibility="public" type="_yYGRcIu0Ee6IxaWOJW89SA" aggregation="composite" association="_OTMu_IvTEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_Km7xAYvWEe6PNMsyhoablw" name="c1.1" visibility="public" end="_3AobYIx7Ee6AlpHfRKls-Q _t89l4I4EEe6cPKy6yivACQ _xhLTgI4EEe6cPKy6yivACQ _lN2lQIvWEe6PNMsyhoablw" aggregation="composite" isBehavior="true"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_MT5CEIvWEe6PNMsyhoablw" name="c1.2" visibility="public" end="_m07QwIvWEe6PNMsyhoablw" aggregation="composite" isService="false"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="___VzgY6DEe62a4GaX4HNlw" visibility="public" type="_yYGRcIu0Ee6IxaWOJW89SA" association="___T-jI6DEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_WefYwY6SEe62a4GaX4HNlw" name="RFID" visibility="public" type="_3ir-oIvCEe6PNMsyhoablw" aggregation="composite" association="_WefYwI6SEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_Wegm4I6SEe62a4GaX4HNlw" visibility="public" type="_3ir-oIvCEe6PNMsyhoablw" association="_WefYwI6SEe62a4GaX4HNlw"/>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_HkeUbIvQEe6PNMsyhoablw">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_HkeUbYvQEe6PNMsyhoablw" role="_Eglz8YvNEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_HkeUbovQEe6PNMsyhoablw" partWithPort="_YoKboIvMEe6PNMsyhoablw" role="_GvzWIIvQEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_IKrYsIvQEe6PNMsyhoablw">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_IKrYsYvQEe6PNMsyhoablw" partWithPort="_iZBLUYvEEe6PNMsyhoablw" role="_DYqikYvNEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_IKrYsovQEe6PNMsyhoablw" partWithPort="_kjX_gYvDEe6PNMsyhoablw" role="_FTGO8YvNEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_JXHWvIvQEe6PNMsyhoablw">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_JXH9sIvQEe6PNMsyhoablw" role="_iZBLUYvEEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_JXH9sYvQEe6PNMsyhoablw" role="_kjX_gYvDEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_lN1-TIvWEe6PNMsyhoablw">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_lN2lQIvWEe6PNMsyhoablw" role="_Km7xAYvWEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_lN2lQYvWEe6PNMsyhoablw" partWithPort="_OTMu_YvTEe6PNMsyhoablw" role="_VKdY8Iu8Ee6IxaWOJW89SA"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_m06pzIvWEe6PNMsyhoablw">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_m07QwIvWEe6PNMsyhoablw" role="_MT5CEIvWEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_m07QwYvWEe6PNMsyhoablw" partWithPort="_OTMu_YvTEe6PNMsyhoablw" role="_7Mry4Yu8Ee6IxaWOJW89SA"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_oBvpTIvWEe6PNMsyhoablw">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_oBwQQIvWEe6PNMsyhoablw" partWithPort="_YoKboIvMEe6PNMsyhoablw" role="_GvzWIIvQEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_oBwQQYvWEe6PNMsyhoablw" partWithPort="_OTMu_YvTEe6PNMsyhoablw" role="_Eglz8YvNEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_o0jmTIvWEe6PNMsyhoablw">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_o0kNQIvWEe6PNMsyhoablw" partWithPort="_kjX_gYvDEe6PNMsyhoablw" role="_FTGO8YvNEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_o0kNQYvWEe6PNMsyhoablw" partWithPort="_OTMu_YvTEe6PNMsyhoablw" role="_DYqikYvNEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedOperation xmi:type="uml:Operation" xmi:id="_PLq6wIvGEe6PNMsyhoablw" name="Operation3-Book gym strength equippment " isAbstract="true" class="_3ir-oIvCEe6PNMsyhoablw">
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_PLq6wYvGEe6PNMsyhoablw" type="_5HKEkIMbEe6SXqY2mPXbMQ" direction="return"/>
+        </ownedOperation>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_-7JZ8IvCEe6PNMsyhoablw" name="Stretching equippment">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_l4weEIvDEe6PNMsyhoablw" name="Book streatching area 1" visibility="public" type="_yYGRcIu0Ee6IxaWOJW89SA" aggregation="composite" association="_l4v3PIvDEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_IiaxOYvVEe6PNMsyhoablw" name="Book streatching area " visibility="public" type="_yYGRcIu0Ee6IxaWOJW89SA" aggregation="composite" association="_IiaxOIvVEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_vAbDkIx7Ee6AlpHfRKls-Q" name="c.1.2" visibility="public" end="_3wH-oIx7Ee6AlpHfRKls-Q _tjdrUI4FEe6cPKy6yivACQ _vLicYY4FEe6cPKy6yivACQ _13c6wI4FEe6cPKy6yivACQ _3tkH0Y4FEe6cPKy6yivACQ _5_iKcI4FEe6cPKy6yivACQ" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_OYIbYIx-Ee6AlpHfRKls-Q" name="Area 1" visibility="public" type="_-7JZ8IvCEe6PNMsyhoablw" end="_f1Tc4Ix-Ee6AlpHfRKls-Q" aggregation="composite" association="_OYH0UIx-Ee6AlpHfRKls-Q"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_OYKQkIx-Ee6AlpHfRKls-Q" name="Area 2" visibility="public" type="_-7JZ8IvCEe6PNMsyhoablw" end="_gwvKYIx-Ee6AlpHfRKls-Q" aggregation="composite" association="_OYH0UIx-Ee6AlpHfRKls-Q"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_i8MVUIx-Ee6AlpHfRKls-Q" name="D01" visibility="public" end="_lcCb4Ix-Ee6AlpHfRKls-Q _mL39YIx-Ee6AlpHfRKls-Q _oAmqYIx-Ee6AlpHfRKls-Q _pgvAYIx-Ee6AlpHfRKls-Q _SVWCYIx_Ee6AlpHfRKls-Q _mEiJ0Yx_Ee6AlpHfRKls-Q" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_7sMEMYx-Ee6AlpHfRKls-Q" name="D02" visibility="public" end="_PvZT0Ix_Ee6AlpHfRKls-Q _jWIC0Yx_Ee6AlpHfRKls-Q" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_B77cAY6EEe62a4GaX4HNlw" visibility="public" type="_yYGRcIu0Ee6IxaWOJW89SA" association="_B75nDI6EEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_kp35YY6SEe62a4GaX4HNlw" name="RFID" visibility="public" type="_-7JZ8IvCEe6PNMsyhoablw" aggregation="composite" association="_kp35YI6SEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_kp5HgI6SEe62a4GaX4HNlw" visibility="public" type="_-7JZ8IvCEe6PNMsyhoablw" association="_kp35YI6SEe62a4GaX4HNlw"/>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_f1S17Ix-Ee6AlpHfRKls-Q">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_f1Tc4Ix-Ee6AlpHfRKls-Q" role="_OYIbYIx-Ee6AlpHfRKls-Q"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_f1Tc4Yx-Ee6AlpHfRKls-Q" partWithPort="_l4weEIvDEe6PNMsyhoablw" role="_bfNb0Ix9Ee6AlpHfRKls-Q"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_gwujbIx-Ee6AlpHfRKls-Q">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_gwvKYIx-Ee6AlpHfRKls-Q" role="_OYKQkIx-Ee6AlpHfRKls-Q"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_gwvKYYx-Ee6AlpHfRKls-Q" partWithPort="_IiaxOYvVEe6PNMsyhoablw" role="_bfNb0Ix9Ee6AlpHfRKls-Q"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_lcB07Ix-Ee6AlpHfRKls-Q">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_lcCb4Ix-Ee6AlpHfRKls-Q" partWithPort="_OYIbYIx-Ee6AlpHfRKls-Q" role="_i8MVUIx-Ee6AlpHfRKls-Q"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_lcCb4Yx-Ee6AlpHfRKls-Q" partWithPort="_l4weEIvDEe6PNMsyhoablw" role="_bfNb0Ix9Ee6AlpHfRKls-Q"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_mL3WbIx-Ee6AlpHfRKls-Q">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_mL39YIx-Ee6AlpHfRKls-Q" partWithPort="_OYKQkIx-Ee6AlpHfRKls-Q" role="_i8MVUIx-Ee6AlpHfRKls-Q"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_mL39YYx-Ee6AlpHfRKls-Q" partWithPort="_IiaxOYvVEe6PNMsyhoablw" role="_bfNb0Ix9Ee6AlpHfRKls-Q"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_oAmDbIx-Ee6AlpHfRKls-Q">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_oAmqYIx-Ee6AlpHfRKls-Q" role="_i8MVUIx-Ee6AlpHfRKls-Q"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_oAmqYYx-Ee6AlpHfRKls-Q" partWithPort="_l4weEIvDEe6PNMsyhoablw" role="_Eglz8YvNEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_pguZbIx-Ee6AlpHfRKls-Q">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_pgvAYIx-Ee6AlpHfRKls-Q" role="_i8MVUIx-Ee6AlpHfRKls-Q"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_pgvAYYx-Ee6AlpHfRKls-Q" partWithPort="_IiaxOYvVEe6PNMsyhoablw" role="_Eglz8YvNEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_PvYs3Ix_Ee6AlpHfRKls-Q">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_PvZT0Ix_Ee6AlpHfRKls-Q" partWithPort="_OYKQkIx-Ee6AlpHfRKls-Q" role="_7sMEMYx-Ee6AlpHfRKls-Q"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_PvZT0Yx_Ee6AlpHfRKls-Q" partWithPort="_IiaxOYvVEe6PNMsyhoablw" role="_b-CF0Yx9Ee6AlpHfRKls-Q"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_SVVbbIx_Ee6AlpHfRKls-Q">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_SVWCYIx_Ee6AlpHfRKls-Q" partWithPort="_OYIbYIx-Ee6AlpHfRKls-Q" role="_i8MVUIx-Ee6AlpHfRKls-Q"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_SVWCYYx_Ee6AlpHfRKls-Q" partWithPort="_l4weEIvDEe6PNMsyhoablw" role="_bfNb0Ix9Ee6AlpHfRKls-Q"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_jWHb3Ix_Ee6AlpHfRKls-Q">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_jWIC0Ix_Ee6AlpHfRKls-Q" partWithPort="_IiaxOYvVEe6PNMsyhoablw" role="_fLBqsYvXEe6PNMsyhoablw"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_jWIC0Yx_Ee6AlpHfRKls-Q" role="_7sMEMYx-Ee6AlpHfRKls-Q"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_mEiJ0Ix_Ee6AlpHfRKls-Q">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_mEiJ0Yx_Ee6AlpHfRKls-Q" role="_i8MVUIx-Ee6AlpHfRKls-Q"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_mEiJ0ox_Ee6AlpHfRKls-Q" partWithPort="_l4weEIvDEe6PNMsyhoablw" role="_fLBqsYvXEe6PNMsyhoablw"/>
+        </ownedConnector>
+        <ownedOperation xmi:type="uml:Operation" xmi:id="_zrJ34Ix8Ee6AlpHfRKls-Q" name="Operation4 Book stretching equippment" visibility="public" class="_-7JZ8IvCEe6PNMsyhoablw"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_kjX_gIvDEe6PNMsyhoablw" memberEnd="_kjX_gYvDEe6PNMsyhoablw _kjZNoIvDEe6PNMsyhoablw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_YoLCsIvMEe6PNMsyhoablw" memberEnd="_YoKboIvMEe6PNMsyhoablw _YoJ0kYvMEe6PNMsyhoablw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_l4v3PIvDEe6PNMsyhoablw" memberEnd="_l4weEIvDEe6PNMsyhoablw _l4xsMIvDEe6PNMsyhoablw"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_VhVHMIvEEe6PNMsyhoablw" name="Strength equippment 1">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_kjZNoIvDEe6PNMsyhoablw" name="Strength equippment 1" visibility="public" type="_3ir-oIvCEe6PNMsyhoablw" association="_kjX_gIvDEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_FTGO8YvNEe6PNMsyhoablw" name="B3.1" visibility="public" end="_IKrYsovQEe6PNMsyhoablw _o0kNQIvWEe6PNMsyhoablw" aggregation="composite"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_YoJ0kIvMEe6PNMsyhoablw" name="Strength equippment 2">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_YoJ0kYvMEe6PNMsyhoablw" name="Strength equippment 2" visibility="public" type="_3ir-oIvCEe6PNMsyhoablw" association="_YoLCsIvMEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_GvzWIIvQEe6PNMsyhoablw" name="B3.2" visibility="public" end="_HkeUbovQEe6PNMsyhoablw _oBwQQIvWEe6PNMsyhoablw" aggregation="composite"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_iZBLUIvEEe6PNMsyhoablw" memberEnd="_iZBLUYvEEe6PNMsyhoablw _iZCZcYvEEe6PNMsyhoablw"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_Heu5sIvFEe6PNMsyhoablw" name="Create &amp; modify programs">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_UfqmgY6QEe62a4GaX4HNlw" visibility="public" type="_yYGRcIu0Ee6IxaWOJW89SA" association="_UfpYYI6QEe62a4GaX4HNlw"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:InformationFlow" xmi:id="_AdSTYIvJEe6PNMsyhoablw" conveyed="_gKZsEIMbEe6SXqY2mPXbMQ" informationSource="_bXYVkYu5Ee6IxaWOJW89SA" informationTarget="_iZCZcYvEEe6PNMsyhoablw" realizingConnector="_AdQeMIvJEe6PNMsyhoablw"/>
+      <packagedElement xmi:type="uml:InformationFlow" xmi:id="_JXH9sovQEe6PNMsyhoablw" conveyed="_gKZsEIMbEe6SXqY2mPXbMQ" informationSource="_kjX_gYvDEe6PNMsyhoablw" informationTarget="_iZBLUYvEEe6PNMsyhoablw" realizingConnector="_JXHWvIvQEe6PNMsyhoablw"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_vsr4cIvSEe6PNMsyhoablw" name="Telerobot">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_4Li7IIvSEe6PNMsyhoablw" visibility="public" type="_yYGRcIu0Ee6IxaWOJW89SA" association="_4LhF8IvSEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_6PKz8Ix7Ee6AlpHfRKls-Q" name="d1" visibility="public" end="_ArfXIIx8Ee6AlpHfRKls-Q" aggregation="composite"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_4LhF8IvSEe6PNMsyhoablw" memberEnd="_4LhtAIvSEe6PNMsyhoablw _4Li7IIvSEe6PNMsyhoablw"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_CZ6MkIvTEe6PNMsyhoablw" name="Equippment cleaning robot">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_Nu4rUIvUEe6PNMsyhoablw" visibility="public" type="_JicmQIu3Ee6IxaWOJW89SA" association="_Nu3dMIvUEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_VuXDUIvUEe6PNMsyhoablw" visibility="public" type="_JicmQIu3Ee6IxaWOJW89SA" association="_VuV1MIvUEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_d4NfUovUEe6PNMsyhoablw" visibility="public" type="_JicmQIu3Ee6IxaWOJW89SA" association="_d4M4QIvUEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_2ZIhUYvdEe6PNMsyhoablw" visibility="public" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_8RAToYvdEe6PNMsyhoablw" visibility="public" end="_D5xb0IveEe6PNMsyhoablw" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_8_xeIYvdEe6PNMsyhoablw" visibility="public" end="_FwZmQIveEe6PNMsyhoablw" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_9h4FoYvdEe6PNMsyhoablw" visibility="public" end="_GkNo0IveEe6PNMsyhoablw" aggregation="composite"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_OTMu_IvTEe6PNMsyhoablw" memberEnd="_OTMu_YvTEe6PNMsyhoablw _OTN84IvTEe6PNMsyhoablw"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_hn-LEIvTEe6PNMsyhoablw" name="Floor cleaner robot">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_nraUMIvTEe6PNMsyhoablw" visibility="public" type="_JicmQIu3Ee6IxaWOJW89SA" association="_nrZGEIvTEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_AfBXwovUEe6PNMsyhoablw" visibility="public" type="_JicmQIu3Ee6IxaWOJW89SA" association="_AfAwsIvUEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_0cvGEYvdEe6PNMsyhoablw" visibility="public" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_2BTQIIvdEe6PNMsyhoablw" visibility="public" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_4Pb7oYvdEe6PNMsyhoablw" visibility="public" end="_Aw9QwYveEe6PNMsyhoablw" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_7q7yIYvdEe6PNMsyhoablw" visibility="public" end="_DAecUIveEe6PNMsyhoablw" aggregation="composite"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_nrZGEIvTEe6PNMsyhoablw" memberEnd="_nrZtIIvTEe6PNMsyhoablw _nraUMIvTEe6PNMsyhoablw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_AfAwsIvUEe6PNMsyhoablw" memberEnd="_AfAwsYvUEe6PNMsyhoablw _AfBXwovUEe6PNMsyhoablw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_Nu3dMIvUEe6PNMsyhoablw" memberEnd="_Nu4EQIvUEe6PNMsyhoablw _Nu4rUIvUEe6PNMsyhoablw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_VuV1MIvUEe6PNMsyhoablw" memberEnd="_VuV1MYvUEe6PNMsyhoablw _VuXDUIvUEe6PNMsyhoablw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_d4M4QIvUEe6PNMsyhoablw" memberEnd="_d4M4QYvUEe6PNMsyhoablw _d4NfUovUEe6PNMsyhoablw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_k2rGQYvUEe6PNMsyhoablw" memberEnd="_k2rGQovUEe6PNMsyhoablw _k2sUYIvUEe6PNMsyhoablw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_IiaxOIvVEe6PNMsyhoablw" memberEnd="_IiaxOYvVEe6PNMsyhoablw _IibYEovVEe6PNMsyhoablw"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_hrJzMIvZEe6PNMsyhoablw" client="_V_LzwIu3Ee6IxaWOJW89SA" supplier="_DmGE8IupEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_EsIpsIvaEe6PNMsyhoablw" client="_V_LzwIu3Ee6IxaWOJW89SA" supplier="_f9TLEIupEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_JYlxwIvaEe6PNMsyhoablw" client="_V_LzwIu3Ee6IxaWOJW89SA" supplier="_pWS6wIupEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_QpE80IvaEe6PNMsyhoablw" client="_V_LzwIu3Ee6IxaWOJW89SA" supplier="_4yvaoIupEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_YkRRwIvaEe6PNMsyhoablw" client="_V_LzwIu3Ee6IxaWOJW89SA" supplier="_ErZqsIuqEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_kXSM0IvaEe6PNMsyhoablw" client="_V_LzwIu3Ee6IxaWOJW89SA" supplier="_Y4qDoIupEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_sfFaYIvaEe6PNMsyhoablw" client="_V_LzwIu3Ee6IxaWOJW89SA" supplier="_XDQLwIuqEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_2I_T4IvaEe6PNMsyhoablw" client="_V_LzwIu3Ee6IxaWOJW89SA" supplier="_lm0i4IuqEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_J2KCEIvbEe6PNMsyhoablw" client="_V_LzwIu3Ee6IxaWOJW89SA" supplier="_vCX3UIuqEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_Rn5gEIvbEe6PNMsyhoablw" client="_V_LzwIu3Ee6IxaWOJW89SA" supplier="_33fd4IuqEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_a_BngIvbEe6PNMsyhoablw" client="_V_LzwIu3Ee6IxaWOJW89SA" supplier="_XOLz8IurEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_j_b4EIvbEe6PNMsyhoablw" client="_V_LzwIu3Ee6IxaWOJW89SA" supplier="_jpdo4IurEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_phrYoIvbEe6PNMsyhoablw" client="_V_LzwIu3Ee6IxaWOJW89SA" supplier="_4I9L4IurEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_wzZ50IvbEe6PNMsyhoablw" client="_V_LzwIu3Ee6IxaWOJW89SA" supplier="_H-YMcIusEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_3Aa1sIvbEe6PNMsyhoablw" client="_V_LzwIu3Ee6IxaWOJW89SA" supplier="_-VyhkIurEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_8dT8MIvbEe6PNMsyhoablw" client="_V_LzwIu3Ee6IxaWOJW89SA" supplier="_XKOEgIusEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_DaVYsIvcEe6PNMsyhoablw" client="_V_LzwIu3Ee6IxaWOJW89SA" supplier="_NsDg8IusEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_MGl-MIvcEe6PNMsyhoablw" client="_V_LzwIu3Ee6IxaWOJW89SA" supplier="_qHEJAIusEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_VnH5QIvcEe6PNMsyhoablw" client="_V_LzwIu3Ee6IxaWOJW89SA" supplier="_1dLFoIusEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_bPKf0IvcEe6PNMsyhoablw" client="_V_LzwIu3Ee6IxaWOJW89SA" supplier="_G02jIIutEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_Ad1OgIvgEe6PNMsyhoablw" client="_yYGRcIu0Ee6IxaWOJW89SA" supplier="_BeTSgIMYEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_Gk7IkIvgEe6PNMsyhoablw" client="_4KTOsIu2Ee6IxaWOJW89SA" supplier="_SbU0UIMYEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_USUFoIvgEe6PNMsyhoablw" client="_yYGRcIu0Ee6IxaWOJW89SA" supplier="_dDH5cIMYEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_aaTXkIvgEe6PNMsyhoablw" client="_4KTOsIu2Ee6IxaWOJW89SA" supplier="_5TPgIIMYEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_jDmIoIvgEe6PNMsyhoablw" client="_4KTOsIu2Ee6IxaWOJW89SA" supplier="_kHHrMIMZEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_p9rl4IvgEe6PNMsyhoablw" name="HVAC">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_DaLOYYvhEe6PNMsyhoablw" visibility="public" type="_V_LzwIu3Ee6IxaWOJW89SA" association="_DaKAVIvhEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_vvB8YIyDEe6AlpHfRKls-Q" name="Enable automatic HVAC" visibility="public" type="_p9rl4IvgEe6PNMsyhoablw" aggregation="composite" association="_vvBVUIyDEe6AlpHfRKls-Q"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_vvCjcYyDEe6AlpHfRKls-Q" visibility="public" type="_p9rl4IvgEe6PNMsyhoablw" association="_vvBVUIyDEe6AlpHfRKls-Q"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_FduA0Y4NEe6cPKy6yivACQ" name="PLC" visibility="public" type="_9qy3EI4MEe6cPKy6yivACQ" aggregation="composite" association="_FduA0I4NEe6cPKy6yivACQ">
+          <defaultValue xmi:type="uml:LiteralString" xmi:id="_XxXscI4PEe6cPKy6yivACQ" value=""/>
+        </ownedAttribute>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_VlpGoY4NEe6cPKy6yivACQ" name="Sensor" visibility="public" type="_VlofkI4NEe6cPKy6yivACQ" aggregation="composite" association="_VlqUwY4NEe6cPKy6yivACQ">
+          <defaultValue xmi:type="uml:LiteralString" xmi:id="_YsCk8I4PEe6cPKy6yivACQ" value=""/>
+        </ownedAttribute>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_ztjDcI4PEe6cPKy6yivACQ" name="sensor CO2" visibility="public" type="_pAiuMI4PEe6cPKy6yivACQ" aggregation="composite" association="_zticYI4PEe6cPKy6yivACQ"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_63s9AY4PEe6cPKy6yivACQ" name="Moving sensor" visibility="public" type="_49w_4I4PEe6cPKy6yivACQ" aggregation="composite" association="_63s9AI4PEe6cPKy6yivACQ"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_XjUz8I4QEe6cPKy6yivACQ" name="KNX accesori 1" visibility="public" type="_Ss3bUI4QEe6cPKy6yivACQ" aggregation="composite" association="_XjUM4I4QEe6cPKy6yivACQ"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_hH1QEY4QEe6cPKy6yivACQ" name="Regulator" visibility="public" type="_fn2rEI4QEe6cPKy6yivACQ" aggregation="composite" association="_hH1QEI4QEe6cPKy6yivACQ"/>
+        <ownedOperation xmi:type="uml:Operation" xmi:id="_B4N-sI6aEe62a4GaX4HNlw" name="Operation9 -Environmental management system" visibility="public" class="_p9rl4IvgEe6PNMsyhoablw"/>
+        <nestedClassifier xmi:type="uml:Class" xmi:id="_9qy3EI4MEe6cPKy6yivACQ" name="PLC ">
+          <ownedAttribute xmi:type="uml:Property" xmi:id="_FdvO8I4NEe6cPKy6yivACQ" name="PLC" visibility="public" type="_p9rl4IvgEe6PNMsyhoablw" association="_FduA0I4NEe6cPKy6yivACQ">
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_1t41cI4NEe6cPKy6yivACQ" value="1"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_1t5cgI4NEe6cPKy6yivACQ" value="1"/>
+          </ownedAttribute>
+        </nestedClassifier>
+        <nestedClassifier xmi:type="uml:Class" xmi:id="_VlofkI4NEe6cPKy6yivACQ" name="Sensor Temp">
+          <ownedAttribute xmi:type="uml:Property" xmi:id="_VlqUwI4NEe6cPKy6yivACQ" name="sensor" visibility="public" type="_p9rl4IvgEe6PNMsyhoablw" association="_VlqUwY4NEe6cPKy6yivACQ">
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_-D5eII4NEe6cPKy6yivACQ" value="1"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_-D6FMI4NEe6cPKy6yivACQ" value="1"/>
+            <defaultValue xmi:type="uml:LiteralString" xmi:id="_9bG_0I4NEe6cPKy6yivACQ" value=""/>
+          </ownedAttribute>
+        </nestedClassifier>
+        <nestedClassifier xmi:type="uml:Class" xmi:id="_pAiuMI4PEe6cPKy6yivACQ" name="sensor CO2">
+          <ownedAttribute xmi:type="uml:Property" xmi:id="_ztkRkI4PEe6cPKy6yivACQ" visibility="public" type="_p9rl4IvgEe6PNMsyhoablw" association="_zticYI4PEe6cPKy6yivACQ"/>
+        </nestedClassifier>
+        <nestedClassifier xmi:type="uml:Class" xmi:id="_49w_4I4PEe6cPKy6yivACQ" name="Moving sensor">
+          <ownedAttribute xmi:type="uml:Property" xmi:id="_63uLIo4PEe6cPKy6yivACQ" visibility="public" type="_p9rl4IvgEe6PNMsyhoablw" association="_63s9AI4PEe6cPKy6yivACQ"/>
+        </nestedClassifier>
+        <nestedClassifier xmi:type="uml:Class" xmi:id="_Ss3bUI4QEe6cPKy6yivACQ" name="KNX control system accesories">
+          <ownedAttribute xmi:type="uml:Property" xmi:id="_XjWCEo4QEe6cPKy6yivACQ" visibility="public" type="_p9rl4IvgEe6PNMsyhoablw" association="_XjUM4I4QEe6cPKy6yivACQ"/>
+        </nestedClassifier>
+        <nestedClassifier xmi:type="uml:Class" xmi:id="_fn2rEI4QEe6cPKy6yivACQ" name="Regulator">
+          <ownedAttribute xmi:type="uml:Property" xmi:id="_hH2eMo4QEe6cPKy6yivACQ" visibility="public" type="_p9rl4IvgEe6PNMsyhoablw" association="_hH1QEI4QEe6cPKy6yivACQ"/>
+        </nestedClassifier>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_DaKAVIvhEe6PNMsyhoablw" memberEnd="_DaKAVYvhEe6PNMsyhoablw _DaLOYYvhEe6PNMsyhoablw"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_Qr14wIvhEe6PNMsyhoablw" client="_4KTOsIu2Ee6IxaWOJW89SA" supplier="_Ehj9QIMaEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_SG3FQIvhEe6PNMsyhoablw" client="_yYGRcIu0Ee6IxaWOJW89SA" supplier="_Ehj9QIMaEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_dxjx0IvhEe6PNMsyhoablw" client="_QSzfwIu3Ee6IxaWOJW89SA" supplier="_989LUIMaEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_ePiuUIvhEe6PNMsyhoablw" client="_QSzfwIu3Ee6IxaWOJW89SA" supplier="_Ehj9QIMaEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_jx2gUIvhEe6PNMsyhoablw" client="_QSzfwIu3Ee6IxaWOJW89SA" supplier="_SbU0UIMYEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_qoMtEIvhEe6PNMsyhoablw" client="_yYGRcIu0Ee6IxaWOJW89SA" supplier="_gKZsEIMbEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_wALeYIvhEe6PNMsyhoablw" client="_JicmQIu3Ee6IxaWOJW89SA" supplier="_ZWyNwIMcEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_yCfUYIvhEe6PNMsyhoablw" client="_JicmQIu3Ee6IxaWOJW89SA" supplier="_xkAT0IMpEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_5H1mcIvhEe6PNMsyhoablw" client="_4KTOsIu2Ee6IxaWOJW89SA" supplier="_DW_NQIMqEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_9CnZ8IvhEe6PNMsyhoablw" client="_4KTOsIu2Ee6IxaWOJW89SA" supplier="_TRzEIIMqEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_L9SpgIviEe6PNMsyhoablw" client="_4KTOsIu2Ee6IxaWOJW89SA" supplier="_6HKLMIMqEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_Tk5UEIviEe6PNMsyhoablw" client="_yYGRcIu0Ee6IxaWOJW89SA" supplier="_9iVmsIMsEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_bI-JgIviEe6PNMsyhoablw" client="_4KTOsIu2Ee6IxaWOJW89SA" supplier="_DSrVgIuwEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_iGnREIviEe6PNMsyhoablw" client="_QSzfwIu3Ee6IxaWOJW89SA" supplier="_DSrVgIuwEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_WIutUIvjEe6PNMsyhoablw" name="User identification sub-system">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_bFhXhYvjEe6PNMsyhoablw" visibility="public" type="_QSzfwIu3Ee6IxaWOJW89SA" aggregation="composite" association="_bFhXhIvjEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_GObIwI6AEe62a4GaX4HNlw" visibility="public" type="_4KTOsIu2Ee6IxaWOJW89SA" association="_GOWQQI6AEe62a4GaX4HNlw"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_bFhXhIvjEe6PNMsyhoablw" memberEnd="_bFhXhYvjEe6PNMsyhoablw _bFilkIvjEe6PNMsyhoablw"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_dYXj0IvjEe6PNMsyhoablw" name="Payment sub-system">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_ii02lYvjEe6PNMsyhoablw" visibility="public" type="_QSzfwIu3Ee6IxaWOJW89SA" aggregation="composite" association="_ii02lIvjEe6PNMsyhoablw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_QmR38Y6BEe62a4GaX4HNlw" visibility="public" type="_4KTOsIu2Ee6IxaWOJW89SA" association="_QmQCwI6BEe62a4GaX4HNlw"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_ii02lIvjEe6PNMsyhoablw" memberEnd="_ii02lYvjEe6PNMsyhoablw _ii1dkYvjEe6PNMsyhoablw"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_o-7-UIvjEe6PNMsyhoablw" name="Instructions sub-system">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_sAcnlYvjEe6PNMsyhoablw" visibility="public" type="_QSzfwIu3Ee6IxaWOJW89SA" aggregation="composite" association="_sAcnlIvjEe6PNMsyhoablw"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_sAcnlIvjEe6PNMsyhoablw" memberEnd="_sAcnlYvjEe6PNMsyhoablw _sAdOkovjEe6PNMsyhoablw"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_DF45EIvkEe6PNMsyhoablw" client="_o-7-UIvjEe6PNMsyhoablw" supplier="_G56sgIuxEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_Fi01kIvkEe6PNMsyhoablw" client="_o-7-UIvjEe6PNMsyhoablw" supplier="_RVRREIuxEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_L_vOoIvkEe6PNMsyhoablw" client="_dYXj0IvjEe6PNMsyhoablw" supplier="_5mP3AIuwEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_ndAcEIvkEe6PNMsyhoablw" client="_WIutUIvjEe6PNMsyhoablw" supplier="_r9TDIIuyEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_n01GMIvkEe6PNMsyhoablw" client="_WIutUIvjEe6PNMsyhoablw" supplier="_YX80MIuyEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_zTjMQIvkEe6PNMsyhoablw" client="_o-7-UIvjEe6PNMsyhoablw" supplier="_wER8EIuxEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_-MC_0IvkEe6PNMsyhoablw" client="_QSzfwIu3Ee6IxaWOJW89SA" supplier="_h9fAgIuxEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_NRswUIvlEe6PNMsyhoablw" client="_QSzfwIu3Ee6IxaWOJW89SA" supplier="_9s2DgIuxEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_WEwhYIvlEe6PNMsyhoablw" client="_QSzfwIu3Ee6IxaWOJW89SA" supplier="_1rKPkIuyEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_1py1cIvlEe6PNMsyhoablw" client="_QSzfwIu3Ee6IxaWOJW89SA" supplier="_HaW1MIuzEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_5kgXgIvlEe6PNMsyhoablw" client="_QSzfwIu3Ee6IxaWOJW89SA" supplier="_UOEYQIuzEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="__nPWAIvlEe6PNMsyhoablw" client="_WIutUIvjEe6PNMsyhoablw" supplier="_eg3dwIuzEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_LQiUYIvmEe6PNMsyhoablw" client="_p9rl4IvgEe6PNMsyhoablw" supplier="_893BIIuyEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_SYCikIvmEe6PNMsyhoablw" client="_QSzfwIu3Ee6IxaWOJW89SA" supplier="_893BIIuyEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_OYH0UIx-Ee6AlpHfRKls-Q" memberEnd="_OYIbYIx-Ee6AlpHfRKls-Q _OYKQkIx-Ee6AlpHfRKls-Q"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_n7CjAIyAEe6AlpHfRKls-Q" name="Identify user">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_twQC4IyAEe6AlpHfRKls-Q" name="Identify user" visibility="public" type="_QSzfwIu3Ee6IxaWOJW89SA" aggregation="composite" association="_twPb0IyAEe6AlpHfRKls-Q"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_0tEEAYyAEe6AlpHfRKls-Q" name="Register user" visibility="public" type="_n7CjAIyAEe6AlpHfRKls-Q" aggregation="composite" association="_0tEEAIyAEe6AlpHfRKls-Q"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_0tFSIIyAEe6AlpHfRKls-Q" visibility="public" type="_n7CjAIyAEe6AlpHfRKls-Q" association="_0tEEAIyAEe6AlpHfRKls-Q"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_JJTpII4KEe6cPKy6yivACQ" name="Flow Property3 - Data - request - responce" visibility="public" aggregation="composite">
+          <type xmi:type="uml:DataType" href="http://www.omg.org/spec/SysML/20161101/SysML.xmi#SysML_dataType.Real"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_SS5nQY6AEe62a4GaX4HNlw" visibility="public" type="_4KTOsIu2Ee6IxaWOJW89SA" association="_SS3yEI6AEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_3sBScI6DEe62a4GaX4HNlw" visibility="public" type="_QSzfwIu3Ee6IxaWOJW89SA" association="_3r-2bI6DEe62a4GaX4HNlw"/>
+        <ownedOperation xmi:type="uml:Operation" xmi:id="_IbsVUIyCEe6AlpHfRKls-Q" name="Operation6- Identify user" visibility="public" class="_n7CjAIyAEe6AlpHfRKls-Q"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_twPb0IyAEe6AlpHfRKls-Q" memberEnd="_twQC4IyAEe6AlpHfRKls-Q _twQp8IyAEe6AlpHfRKls-Q"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_0tEEAIyAEe6AlpHfRKls-Q" memberEnd="_0tEEAYyAEe6AlpHfRKls-Q _0tFSIIyAEe6AlpHfRKls-Q"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_SVmPIIyBEe6AlpHfRKls-Q" name="Offer services">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_UMCzYIyBEe6AlpHfRKls-Q" name="Offer services" visibility="public" type="_QSzfwIu3Ee6IxaWOJW89SA" end="_e-4VoY4HEe6cPKy6yivACQ _ftDDMI4HEe6cPKy6yivACQ" aggregation="composite" association="_UMCMjIyBEe6AlpHfRKls-Q"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_pRne8IyBEe6AlpHfRKls-Q" name="Get selected service" visibility="public" type="_SVmPIIyBEe6AlpHfRKls-Q" end="_e-4VoI4HEe6cPKy6yivACQ _ftDDMY4HEe6cPKy6yivACQ" aggregation="composite" association="_pRm34IyBEe6AlpHfRKls-Q"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_pRoGAYyBEe6AlpHfRKls-Q" visibility="public" type="_SVmPIIyBEe6AlpHfRKls-Q" association="_pRm34IyBEe6AlpHfRKls-Q"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_aF1jEI4HEe6cPKy6yivACQ" name="Flow Property2 - Data- request - responce" visibility="public" aggregation="composite">
+          <type xmi:type="uml:DataType" href="http://www.omg.org/spec/SysML/20161101/SysML.xmi#SysML_dataType.Real"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_7qZ0AI4JEe6cPKy6yivACQ"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_7qZ0AY4JEe6cPKy6yivACQ" value="1"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_V8EmcI4JEe6cPKy6yivACQ" name="e01" visibility="public" end="_ZR89II4JEe6cPKy6yivACQ _aRg8sY4JEe6cPKy6yivACQ _c7hE0I4JEe6cPKy6yivACQ" aggregation="composite" isBehavior="true"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_6_f1Yo6DEe62a4GaX4HNlw" visibility="public" type="_QSzfwIu3Ee6IxaWOJW89SA" association="_6_eAbI6DEe62a4GaX4HNlw"/>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_e-3urI4HEe6cPKy6yivACQ">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_e-4VoI4HEe6cPKy6yivACQ" role="_pRne8IyBEe6AlpHfRKls-Q"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_e-4VoY4HEe6cPKy6yivACQ" role="_UMCzYIyBEe6AlpHfRKls-Q"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_ftCcPI4HEe6cPKy6yivACQ">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_ftDDMI4HEe6cPKy6yivACQ" role="_UMCzYIyBEe6AlpHfRKls-Q"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_ftDDMY4HEe6cPKy6yivACQ" role="_pRne8IyBEe6AlpHfRKls-Q"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_ZR8WLI4JEe6cPKy6yivACQ">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_ZR89II4JEe6cPKy6yivACQ" partWithPort="_pRne8IyBEe6AlpHfRKls-Q" role="_V8EmcI4JEe6cPKy6yivACQ"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_ZR89IY4JEe6cPKy6yivACQ" partWithPort="_UMCzYIyBEe6AlpHfRKls-Q" role="_VSA80Y4JEe6cPKy6yivACQ"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_aRgVvI4JEe6cPKy6yivACQ">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_aRg8sI4JEe6cPKy6yivACQ" partWithPort="_UMCzYIyBEe6AlpHfRKls-Q" role="_VSA80Y4JEe6cPKy6yivACQ"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_aRg8sY4JEe6cPKy6yivACQ" partWithPort="_pRne8IyBEe6AlpHfRKls-Q" role="_V8EmcI4JEe6cPKy6yivACQ"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_c7gd3I4JEe6cPKy6yivACQ">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_c7hE0I4JEe6cPKy6yivACQ" partWithPort="_pRne8IyBEe6AlpHfRKls-Q" role="_V8EmcI4JEe6cPKy6yivACQ"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_c7hE0Y4JEe6cPKy6yivACQ" partWithPort="_UMCzYIyBEe6AlpHfRKls-Q" role="_VSA80Y4JEe6cPKy6yivACQ"/>
+        </ownedConnector>
+        <ownedOperation xmi:type="uml:Operation" xmi:id="_AqtsUIyCEe6AlpHfRKls-Q" name="Operation5 - Offer services" visibility="public" class="_SVmPIIyBEe6AlpHfRKls-Q"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_UMCMjIyBEe6AlpHfRKls-Q" memberEnd="_UMCzYIyBEe6AlpHfRKls-Q _UMDacIyBEe6AlpHfRKls-Q"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_pRm34IyBEe6AlpHfRKls-Q" memberEnd="_pRne8IyBEe6AlpHfRKls-Q _pRoGAYyBEe6AlpHfRKls-Q"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_X4BgcIyCEe6AlpHfRKls-Q" name="Handle emergency calling">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_jWyp0IyCEe6AlpHfRKls-Q" name="Handle emergency calling" visibility="public" type="_QSzfwIu3Ee6IxaWOJW89SA" aggregation="composite" association="_jWyC_IyCEe6AlpHfRKls-Q"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_ssHacYyCEe6AlpHfRKls-Q" name="Call administrator or 112" visibility="public" type="_X4BgcIyCEe6AlpHfRKls-Q" aggregation="composite" association="_ssHacIyCEe6AlpHfRKls-Q"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_ssIBgoyCEe6AlpHfRKls-Q" visibility="public" type="_X4BgcIyCEe6AlpHfRKls-Q" association="_ssHacIyCEe6AlpHfRKls-Q"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_uMLmQI4HEe6cPKy6yivACQ" name="User e-stop" visibility="public" type="_ypZYiI4HEe6cPKy6yivACQ" end="_g0ev4Y4IEe6cPKy6yivACQ" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Port" xmi:id="_jx_p4I4IEe6cPKy6yivACQ" name="f03" visibility="public" end="_kt-xAI4IEe6cPKy6yivACQ _AiLl0Y4LEe6cPKy6yivACQ" aggregation="composite"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_R2GksI4LEe6cPKy6yivACQ" name="Flow Property4 - Data" visibility="public" aggregation="composite">
+          <type xmi:type="uml:DataType" href="http://www.omg.org/spec/SysML/20161101/SysML.xmi#SysML_dataType.Real"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_YuSkgI4LEe6cPKy6yivACQ" name="Flow Property5 - Signal" visibility="public" aggregation="composite">
+          <type xmi:type="uml:DataType" href="http://www.omg.org/spec/SysML/20161101/SysML.xmi#SysML_dataType.Real"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_5_M2AI6DEe62a4GaX4HNlw" visibility="public" type="_QSzfwIu3Ee6IxaWOJW89SA" association="_5_LA0I6DEe62a4GaX4HNlw"/>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_g0eI644IEe6cPKy6yivACQ">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_g0ev4I4IEe6cPKy6yivACQ" partWithPort="_jWyp0IyCEe6AlpHfRKls-Q" role="_f81WMY4IEe6cPKy6yivACQ"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_g0ev4Y4IEe6cPKy6yivACQ" role="_uMLmQI4HEe6cPKy6yivACQ"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_kt-KDI4IEe6cPKy6yivACQ">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_kt-xAI4IEe6cPKy6yivACQ" partWithPort="_ssHacYyCEe6AlpHfRKls-Q" role="_jx_p4I4IEe6cPKy6yivACQ"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_kt-xAY4IEe6cPKy6yivACQ" partWithPort="_jWyp0IyCEe6AlpHfRKls-Q" role="_jUi44I4IEe6cPKy6yivACQ"/>
+        </ownedConnector>
+        <ownedConnector xmi:type="uml:Connector" xmi:id="_AiK-3I4LEe6cPKy6yivACQ">
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_AiLl0I4LEe6cPKy6yivACQ" partWithPort="_jWyp0IyCEe6AlpHfRKls-Q" role="_f81WMY4IEe6cPKy6yivACQ"/>
+          <end xmi:type="uml:ConnectorEnd" xmi:id="_AiLl0Y4LEe6cPKy6yivACQ" role="_jx_p4I4IEe6cPKy6yivACQ"/>
+        </ownedConnector>
+        <ownedOperation xmi:type="uml:Operation" xmi:id="_pt9AEI4KEe6cPKy6yivACQ" name="Operation5 - Call admin or 112" visibility="public" isAbstract="true" class="_X4BgcIyCEe6AlpHfRKls-Q"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_jWyC_IyCEe6AlpHfRKls-Q" memberEnd="_jWyp0IyCEe6AlpHfRKls-Q _jWzQ4IyCEe6AlpHfRKls-Q"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_ssHacIyCEe6AlpHfRKls-Q" memberEnd="_ssHacYyCEe6AlpHfRKls-Q _ssIBgoyCEe6AlpHfRKls-Q"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_vvBVUIyDEe6AlpHfRKls-Q" memberEnd="_vvB8YIyDEe6AlpHfRKls-Q _vvCjcYyDEe6AlpHfRKls-Q"/>
+      <packagedElement xmi:type="uml:InformationFlow" xmi:id="_t8-0AI4EEe6cPKy6yivACQ" conveyed="_lm0i4IuqEe6IxaWOJW89SA _UOEYQIuzEe6IxaWOJW89SA" informationSource="_Km7xAYvWEe6PNMsyhoablw" informationTarget="_fLBqsYvXEe6PNMsyhoablw" realizingConnector="_t82RII4EEe6cPKy6yivACQ"/>
+      <packagedElement xmi:type="uml:InformationFlow" xmi:id="_xhLTgY4EEe6cPKy6yivACQ" name="ResponceON_bookingStatus" conveyed="_lm0i4IuqEe6IxaWOJW89SA _UOEYQIuzEe6IxaWOJW89SA" informationSource="_fLBqsYvXEe6PNMsyhoablw" informationTarget="_Km7xAYvWEe6PNMsyhoablw" realizingConnector="_xhI3XI4EEe6cPKy6yivACQ"/>
+      <packagedElement xmi:type="uml:InformationFlow" xmi:id="_tjdrUo4FEe6cPKy6yivACQ" informationSource="_vAbDkIx7Ee6AlpHfRKls-Q" informationTarget="_fscVsYvXEe6PNMsyhoablw" realizingConnector="_tjb2PI4FEe6cPKy6yivACQ"/>
+      <packagedElement xmi:type="uml:InformationFlow" xmi:id="_vLicYo4FEe6cPKy6yivACQ" informationSource="_fscVsYvXEe6PNMsyhoablw" informationTarget="_vAbDkIx7Ee6AlpHfRKls-Q" realizingConnector="_vLhOXI4FEe6cPKy6yivACQ"/>
+      <packagedElement xmi:type="uml:InformationFlow" xmi:id="_13c6wo4FEe6cPKy6yivACQ" informationSource="_vAbDkIx7Ee6AlpHfRKls-Q" informationTarget="_fscVsYvXEe6PNMsyhoablw" realizingConnector="_13bsoI4FEe6cPKy6yivACQ"/>
+      <packagedElement xmi:type="uml:InformationFlow" xmi:id="_3tku4I4FEe6cPKy6yivACQ" informationSource="_fscVsYvXEe6PNMsyhoablw" informationTarget="_vAbDkIx7Ee6AlpHfRKls-Q" realizingConnector="_3ti5zI4FEe6cPKy6yivACQ"/>
+      <packagedElement xmi:type="uml:InformationFlow" xmi:id="_5_ixgI4FEe6cPKy6yivACQ" informationSource="_fscVsYvXEe6PNMsyhoablw" informationTarget="_vAbDkIx7Ee6AlpHfRKls-Q" realizingConnector="_5_g8bI4FEe6cPKy6yivACQ"/>
+      <packagedElement xmi:type="uml:InformationFlow" xmi:id="_e-4Voo4HEe6cPKy6yivACQ" informationSource="_pRne8IyBEe6AlpHfRKls-Q" informationTarget="_UMCzYIyBEe6AlpHfRKls-Q" realizingConnector="_e-3urI4HEe6cPKy6yivACQ"/>
+      <packagedElement xmi:type="uml:InformationFlow" xmi:id="_ftDDMo4HEe6cPKy6yivACQ" informationSource="_UMCzYIyBEe6AlpHfRKls-Q" informationTarget="_pRne8IyBEe6AlpHfRKls-Q" realizingConnector="_ftCcPI4HEe6cPKy6yivACQ"/>
+      <packagedElement xmi:type="uml:Interface" xmi:id="_ypW8MI4HEe6cPKy6yivACQ" name="Call 112"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_ypZYiI4HEe6cPKy6yivACQ" name="Call admin or 112"/>
+      <packagedElement xmi:type="uml:Usage" xmi:id="_ypZYio4HEe6cPKy6yivACQ" client="_ypZYiI4HEe6cPKy6yivACQ" supplier="_ypW8MI4HEe6cPKy6yivACQ">
+        <name xsi:nil="true"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:InformationFlow" xmi:id="_g0ev4o4IEe6cPKy6yivACQ" informationSource="_f81WMY4IEe6cPKy6yivACQ" informationTarget="_uMLmQI4HEe6cPKy6yivACQ" realizingConnector="_g0eI644IEe6cPKy6yivACQ"/>
+      <packagedElement xmi:type="uml:InformationFlow" xmi:id="_kt-xAo4IEe6cPKy6yivACQ" informationSource="_jx_p4I4IEe6cPKy6yivACQ" informationTarget="_jUi44I4IEe6cPKy6yivACQ" realizingConnector="_kt-KDI4IEe6cPKy6yivACQ"/>
+      <packagedElement xmi:type="uml:Interface" xmi:id="_oDQqwI4IEe6cPKy6yivACQ" name="Call admin"/>
+      <packagedElement xmi:type="uml:Usage" xmi:id="_oDR4-I4IEe6cPKy6yivACQ" client="_ypZYiI4HEe6cPKy6yivACQ" supplier="_oDQqwI4IEe6cPKy6yivACQ">
+        <name xsi:nil="true"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:InformationFlow" xmi:id="_ZR89Io4JEe6cPKy6yivACQ" name="Request" conveyed="_UOEYQIuzEe6IxaWOJW89SA" informationSource="_V8EmcI4JEe6cPKy6yivACQ" informationTarget="_VSA80Y4JEe6cPKy6yivACQ" realizingConnector="_ZR8WLI4JEe6cPKy6yivACQ"/>
+      <packagedElement xmi:type="uml:InformationFlow" xmi:id="_aRg8so4JEe6cPKy6yivACQ" name="Responce" conveyed="_UOEYQIuzEe6IxaWOJW89SA" informationSource="_VSA80Y4JEe6cPKy6yivACQ" informationTarget="_V8EmcI4JEe6cPKy6yivACQ" realizingConnector="_aRgVvI4JEe6cPKy6yivACQ"/>
+      <packagedElement xmi:type="uml:InformationFlow" xmi:id="_AiLl0o4LEe6cPKy6yivACQ" informationSource="_f81WMY4IEe6cPKy6yivACQ" informationTarget="_jx_p4I4IEe6cPKy6yivACQ" realizingConnector="_AiK-3I4LEe6cPKy6yivACQ"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_FduA0I4NEe6cPKy6yivACQ" memberEnd="_FduA0Y4NEe6cPKy6yivACQ _FdvO8I4NEe6cPKy6yivACQ"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_VlqUwY4NEe6cPKy6yivACQ" memberEnd="_VlpGoY4NEe6cPKy6yivACQ _VlqUwI4NEe6cPKy6yivACQ"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_zticYI4PEe6cPKy6yivACQ" memberEnd="_ztjDcI4PEe6cPKy6yivACQ _ztkRkI4PEe6cPKy6yivACQ"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_63s9AI4PEe6cPKy6yivACQ" memberEnd="_63s9AY4PEe6cPKy6yivACQ _63uLIo4PEe6cPKy6yivACQ"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_XjUM4I4QEe6cPKy6yivACQ" memberEnd="_XjUz8I4QEe6cPKy6yivACQ _XjWCEo4QEe6cPKy6yivACQ"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_hH1QEI4QEe6cPKy6yivACQ" memberEnd="_hH1QEY4QEe6cPKy6yivACQ _hH2eMo4QEe6cPKy6yivACQ"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_GOWQQI6AEe62a4GaX4HNlw" memberEnd="_GOXeYI6AEe62a4GaX4HNlw _GObIwI6AEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_SS3yEI6AEe62a4GaX4HNlw" memberEnd="_SS4ZII6AEe62a4GaX4HNlw _SS5nQY6AEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_wGB40I6AEe62a4GaX4HNlw" name="Payment">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_2197kI6AEe62a4GaX4HNlw" name="Payment" visibility="public" type="_QSzfwIu3Ee6IxaWOJW89SA" aggregation="composite" association="_219UgI6AEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_QZinAY6CEe62a4GaX4HNlw" name="Verify payment" visibility="public" type="_wGB40I6AEe62a4GaX4HNlw" aggregation="composite" association="_QZinAI6CEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_QZjOEo6CEe62a4GaX4HNlw" visibility="public" type="_wGB40I6AEe62a4GaX4HNlw" association="_QZinAI6CEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_5HVZ4Y6DEe62a4GaX4HNlw" visibility="public" type="_QSzfwIu3Ee6IxaWOJW89SA" association="_5HTk7I6DEe62a4GaX4HNlw"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_219UgI6AEe62a4GaX4HNlw" memberEnd="_2197kI6AEe62a4GaX4HNlw _21-ioY6AEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_QmQCwI6BEe62a4GaX4HNlw" memberEnd="_QmQp0I6BEe62a4GaX4HNlw _QmR38Y6BEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_QZhY4I6CEe62a4GaX4HNlw" name="Smart camera">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_F6dbMo6REe62a4GaX4HNlw" name="Smart Camera" visibility="public" type="_yYGRcIu0Ee6IxaWOJW89SA" aggregation="composite" association="_F6bmMI6REe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_Q3wPMI6REe62a4GaX4HNlw" name="Activity identification" visibility="public" type="_QZhY4I6CEe62a4GaX4HNlw" aggregation="composite" association="_Q3voII6REe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_Q3w2QI6REe62a4GaX4HNlw" visibility="public" type="_QZhY4I6CEe62a4GaX4HNlw" association="_Q3voII6REe62a4GaX4HNlw"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_QZinAI6CEe62a4GaX4HNlw" memberEnd="_QZinAY6CEe62a4GaX4HNlw _QZjOEo6CEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_33VnTI6CEe62a4GaX4HNlw" memberEnd="_33WOII6CEe62a4GaX4HNlw _33XcQY6CEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_VOPP3I6DEe62a4GaX4HNlw" memberEnd="_VOP2sI6DEe62a4GaX4HNlw _VORE0o6DEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_3r-2bI6DEe62a4GaX4HNlw" memberEnd="_3r_dQI6DEe62a4GaX4HNlw _3sBScI6DEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_5HTk7I6DEe62a4GaX4HNlw" memberEnd="_5HULwI6DEe62a4GaX4HNlw _5HVZ4Y6DEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_5_LA0I6DEe62a4GaX4HNlw" memberEnd="_5_LA0Y6DEe62a4GaX4HNlw _5_M2AI6DEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_6_eAbI6DEe62a4GaX4HNlw" memberEnd="_6_enQI6DEe62a4GaX4HNlw _6_f1Yo6DEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_-k-uVY6DEe62a4GaX4HNlw" memberEnd="_-k-uVo6DEe62a4GaX4HNlw _-k_8co6DEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="___T-jI6DEe62a4GaX4HNlw" memberEnd="___UlYI6DEe62a4GaX4HNlw ___VzgY6DEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_B75nDI6EEe62a4GaX4HNlw" memberEnd="_B76N4I6EEe62a4GaX4HNlw _B77cAY6EEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_5VzeQI6EEe62a4GaX4HNlw" name="Enable automatic HVAC">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_AA5dQo6FEe62a4GaX4HNlw" visibility="public" type="_4KTOsIu2Ee6IxaWOJW89SA" association="_AA4PII6FEe62a4GaX4HNlw"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_AA4PII6FEe62a4GaX4HNlw" memberEnd="_AA42MI6FEe62a4GaX4HNlw _AA5dQo6FEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_UfpYYI6QEe62a4GaX4HNlw" memberEnd="_UfpYYY6QEe62a4GaX4HNlw _UfqmgY6QEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_F6bmMI6REe62a4GaX4HNlw" memberEnd="_F6cNEI6REe62a4GaX4HNlw _F6dbMo6REe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_Q3voII6REe62a4GaX4HNlw" memberEnd="_Q3wPMI6REe62a4GaX4HNlw _Q3w2QI6REe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_HgUwUI6SEe62a4GaX4HNlw" name="RFID"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_WefYwI6SEe62a4GaX4HNlw" memberEnd="_WefYwY6SEe62a4GaX4HNlw _Wegm4I6SEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_kp35YI6SEe62a4GaX4HNlw" memberEnd="_kp35YY6SEe62a4GaX4HNlw _kp5HgI6SEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_-x3V8I6SEe62a4GaX4HNlw" memberEnd="_-x3V8Y6SEe62a4GaX4HNlw _-x39Ao6SEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_SvpoII6VEe62a4GaX4HNlw" name="Surveilance camera">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_YWyPwY6VEe62a4GaX4HNlw" visibility="public" type="_4KTOsIu2Ee6IxaWOJW89SA" association="_YWxBoI6VEe62a4GaX4HNlw"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_YWxBoI6VEe62a4GaX4HNlw" memberEnd="_YWxosI6VEe62a4GaX4HNlw _YWyPwY6VEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_0_ijcI6WEe62a4GaX4HNlw" name="logging">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_62nEgI6WEe62a4GaX4HNlw" visibility="public" type="_yYGRcIu0Ee6IxaWOJW89SA" association="_62koQI6WEe62a4GaX4HNlw"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_TIKj4o6XEe62a4GaX4HNlw" visibility="public" type="_4KTOsIu2Ee6IxaWOJW89SA" association="_TIJVwI6XEe62a4GaX4HNlw"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_62koQI6WEe62a4GaX4HNlw" memberEnd="_62lPUI6WEe62a4GaX4HNlw _62nEgI6WEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_TIJVwI6XEe62a4GaX4HNlw" memberEnd="_TIJ80I6XEe62a4GaX4HNlw _TIKj4o6XEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_pUgqQI6XEe62a4GaX4HNlw" name="Access locker">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_t1YNYY6XEe62a4GaX4HNlw" visibility="public" type="_4KTOsIu2Ee6IxaWOJW89SA" association="_t1W_QI6XEe62a4GaX4HNlw"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_t1W_QI6XEe62a4GaX4HNlw" memberEnd="_t1W_QY6XEe62a4GaX4HNlw _t1YNYY6XEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_z3aBQI6XEe62a4GaX4HNlw" name="Locker">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_09ZY8o6XEe62a4GaX4HNlw" visibility="public" type="_4KTOsIu2Ee6IxaWOJW89SA" association="_09YK0I6XEe62a4GaX4HNlw"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_09YK0I6XEe62a4GaX4HNlw" memberEnd="_09YK0Y6XEe62a4GaX4HNlw _09ZY8o6XEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_3ZFtYI6ZEe62a4GaX4HNlw" memberEnd="_3ZGUcI6ZEe62a4GaX4HNlw _3ZHikI6ZEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_g6aEYI6aEe62a4GaX4HNlw" memberEnd="_g6arcI6aEe62a4GaX4HNlw _g6b5kY6aEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_hkI94I6aEe62a4GaX4HNlw" memberEnd="_hkJk8I6aEe62a4GaX4HNlw _hkKzEI6aEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_inqQYI6aEe62a4GaX4HNlw" memberEnd="_inq3cI6aEe62a4GaX4HNlw _insFkY6aEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_jLvN0I6aEe62a4GaX4HNlw" memberEnd="_jLv04I6aEe62a4GaX4HNlw _jLxDAI6aEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_Db7-1I6bEe62a4GaX4HNlw" memberEnd="_Db7-1Y6bEe62a4GaX4HNlw _Db9M4o6bEe62a4GaX4HNlw"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_xiLyUI7DEe65ju3mQ0Gw9Q" client="_4KTOsIu2Ee6IxaWOJW89SA" supplier="_DW_NQIMqEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_1KpGwI7DEe65ju3mQ0Gw9Q" client="_4KTOsIu2Ee6IxaWOJW89SA" supplier="_5TPgIIMYEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_2ucb0I7DEe65ju3mQ0Gw9Q" client="_4KTOsIu2Ee6IxaWOJW89SA" supplier="_kHHrMIMZEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_3UrVYI7DEe65ju3mQ0Gw9Q" client="_4KTOsIu2Ee6IxaWOJW89SA" supplier="_TRzEIIMqEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_32ZiYI7DEe65ju3mQ0Gw9Q" client="_4KTOsIu2Ee6IxaWOJW89SA" supplier="_6HKLMIMqEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_4wGxkI7DEe65ju3mQ0Gw9Q" client="_4KTOsIu2Ee6IxaWOJW89SA" supplier="_SbU0UIMYEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_Mlsb8I7EEe65ju3mQ0Gw9Q" client="_QSzfwIu3Ee6IxaWOJW89SA" supplier="_Ehj9QIMaEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_NND98I7EEe65ju3mQ0Gw9Q" client="_QSzfwIu3Ee6IxaWOJW89SA" supplier="_989LUIMaEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_N4UhcI7EEe65ju3mQ0Gw9Q" client="_QSzfwIu3Ee6IxaWOJW89SA" supplier="_DSrVgIuwEe6IxaWOJW89SA"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_CKL_AI7HEe65ju3mQ0Gw9Q" client="_p9rl4IvgEe6PNMsyhoablw" supplier="_vQNBQI7GEe65ju3mQ0Gw9Q"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_3qt6AI7HEe65ju3mQ0Gw9Q" client="_4KTOsIu2Ee6IxaWOJW89SA" supplier="_cjo_AI7HEe65ju3mQ0Gw9Q"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_Pe5g4I7IEe65ju3mQ0Gw9Q" client="_yYGRcIu0Ee6IxaWOJW89SA" supplier="_dDH5cIMYEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_QEcd8I7IEe65ju3mQ0Gw9Q" client="_yYGRcIu0Ee6IxaWOJW89SA" supplier="_BeTSgIMYEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_SN2acI7IEe65ju3mQ0Gw9Q" client="_yYGRcIu0Ee6IxaWOJW89SA" supplier="_gKZsEIMbEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_SwVccI7IEe65ju3mQ0Gw9Q" client="_yYGRcIu0Ee6IxaWOJW89SA" supplier="_xkAT0IMpEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_ibqF0I7IEe65ju3mQ0Gw9Q" client="_JicmQIu3Ee6IxaWOJW89SA" supplier="_xkAT0IMpEe6SXqY2mPXbMQ"/>
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_3RN_cI7IEe65ju3mQ0Gw9Q" client="_p9rl4IvgEe6PNMsyhoablw" supplier="_XDQLwIuqEe6IxaWOJW89SA"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_DXIc4IueEe6IxaWOJW89SA" name="4-Behavior"/>
+    <profileApplication xmi:type="uml:ProfileApplication" xmi:id="_VipksILjEe6SXqY2mPXbMQ" applyingPackage="_VinvgILjEe6SXqY2mPXbMQ">
+      <appliedProfile xmi:type="uml:Profile" href="http://www.omg.org/spec/SysML/20161101/SysML.xmi#SysML"/>
+    </profileApplication>
+  </uml:Model>
+  <sysml:Requirement xmi:id="_BesUEIMYEe6SXqY2mPXbMQ" id="SYSR001" text="Offer personalized workout recommendations and training plans based on users' goals and fitness levels." base_Class="_BeTSgIMYEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_SbWpgIMYEe6SXqY2mPXbMQ" id="SYSR002" text="Establish a platform for users to provide feedback, report issues, and suggest improvements." base_Class="_SbU0UIMYEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_dDKVsIMYEe6SXqY2mPXbMQ" id="SYSR003" text="Offer a range of audio and video entertainment options to keep users engaged during their workouts." base_Class="_dDH5cIMYEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_DmH6IIupEe6IxaWOJW89SA" id="STN001" text="24/7 Accessibility for active persons for equipment and gym serviceses." base_Class="_DmGE8IupEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_Y4qqsIupEe6IxaWOJW89SA" id="STN007" text="The ability to choose a personalized membership for different needs (Cardio workouts/weight rack) with the aim of reducing the membership cost." base_Class="_Y4qDoIupEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_XDQy0IuqEe6IxaWOJW89SA" id="STN017" text="System operator can enable automatic HVAC, which takes into account how many people are in the room." base_Class="_XDQLwIuqEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_pbMq0I7IEe65ju3mQ0Gw9Q" id="STN009" text="The system could also help coaches and athletes find each other if they are in need." base_Class="_pbMDwI7IEe65ju3mQ0Gw9Q"/>
+  <sysml:Requirement xmi:id="_lm1J8IuqEe6IxaWOJW89SA" id="STN010" text="Online Booking allows users to schedule workout sessions and equipment." base_Class="_lm0i4IuqEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_vCYeYIuqEe6IxaWOJW89SA" id="STN011" text="Gym rooms and equipment need to be clean to prevent disease spread." base_Class="_vCX3UIuqEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_33gE8IuqEe6IxaWOJW89SA" id="STN012" text="System need to attract and retain customers, generate revenue and ensure long-term success of the gym." base_Class="_33fd4IuqEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_XOMbAIurEe6IxaWOJW89SA" id="STN013" text="Customers want to be sure that their personal inforamation is secured." base_Class="_XOLz8IurEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_jpeP8IurEe6IxaWOJW89SA" id="STN015" text="Gym should make training easier to beginner (provide services that help beginners understand the basic knowledge needed to operate the facility efficiently and safely)." base_Class="_jpdo4IurEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_4I9y8IurEe6IxaWOJW89SA" id="STN016" text="System should be easily maintained and updated." base_Class="_4I9L4IurEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_-VzIoIurEe6IxaWOJW89SA" id="STN018" text="System need to be testable." base_Class="_-VyhkIurEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_NsEIAIusEe6IxaWOJW89SA" id="STN020" text="System will need to be available to learn by beginner." base_Class="_NsDg8IusEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_qHEwEIusEe6IxaWOJW89SA" id="STN021" text="Beginners want to use machines that are designed for basic training." base_Class="_qHEJAIusEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_1dLssIusEe6IxaWOJW89SA" id="STN022" text="Advanced athletes want to be able to use more targeted equipment. (The ability to use such equipment in other locations may be difficult)" base_Class="_1dLFoIusEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_G03KMIutEe6IxaWOJW89SA" id="STN023" text="System should be energy efficient and long-term sustainable." base_Class="_G02jIIutEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_XKOrkIusEe6IxaWOJW89SA" id="STN019" text="System need to be reliable." base_Class="_XKOEgIusEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_H-YzgIusEe6IxaWOJW89SA" id="STN017" text="System need to be producable." base_Class="_H-YMcIusEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_EraRwIuqEe6IxaWOJW89SA" id="STN006" text="The system will ensure security and access control" base_Class="_ErZqsIuqEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_4ywBsIupEe6IxaWOJW89SA" id="STN005" text="The system should provide mechanisms to identify both new and existing users." base_Class="_4yvaoIupEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_pWTh0IupEe6IxaWOJW89SA" id="STN003" text="The goal of the system is to ensure efficient resource utilization." base_Class="_pWS6wIupEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_f9TyIIupEe6IxaWOJW89SA" id="STN002" text="Safety for the trainers while using equipment and gym." base_Class="_f9TLEIupEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_5TRVUIMYEe6SXqY2mPXbMQ" id="SYSR004" text="Enable secure and automated payment processing for membership fees and any additional services." base_Class="_5TPgIIMYEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_kHJgYIMZEe6SXqY2mPXbMQ" id="SYSR005" text="Equip the gym with an emergency response system that can automatically call for help in case of accidents or medical emergencies." base_Class="_kHHrMIMZEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_cjqNII7HEe65ju3mQ0Gw9Q" id="SYSR006" text="Gym staff have the ability to remotely monitor the gym's status, security, and any potential issues in real-time." base_Class="_cjo_AI7HEe65ju3mQ0Gw9Q"/>
+  <sysml:Requirement xmi:id="_EhlycIMaEe6SXqY2mPXbMQ" id="SYSR007" text="The application provides a function for tracking the user's personal achievements to motivate them to continue going to the gym." base_Class="_Ehj9QIMaEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_98-ZcIMaEe6SXqY2mPXbMQ" id="SYSR008" text="The app contains instructions for using the equipment" base_Class="_989LUIMaEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_gKcIUIMbEe6SXqY2mPXbMQ" id="SYSR011" text="Provide a capability to book equipment in advance" base_Class="_gKZsEIMbEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_ZW0qAIMcEe6SXqY2mPXbMQ" id="SYSR012" text="System must clean automatically gym equipment." base_Class="_ZWyNwIMcEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_xkMhEIMpEe6SXqY2mPXbMQ" id="SYSR014" text="System must clean rooms (sauna, showers etc). Cleaning mechanism can also be controlled by real cleaner to make his work easier." base_Class="_xkAT0IMpEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_DXIXMIMqEe6SXqY2mPXbMQ" id="SYSR019" text="Provide different membership opportunities with minimum services and low  cost to personlised membership with higher fee." base_Class="_DW_NQIMqEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_TR05UIMqEe6SXqY2mPXbMQ" id="SYSR020" text="System must have user identification system to identify new and existing customers" base_Class="_TRzEIIMqEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_6HW_gIMqEe6SXqY2mPXbMQ" id="SYSR021" text="System ensures access to different gym services. Locker and sauna usage, access to gym equipment." base_Class="_6HKLMIMqEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_9iXb4IMsEe6SXqY2mPXbMQ" id="SYSR022" text="Customer can ask help from coach if he needs instrcutions or help with training." base_Class="_9iVmsIMsEe6SXqY2mPXbMQ"/>
+  <sysml:Requirement xmi:id="_DSsjoIuwEe6IxaWOJW89SA" id="SYSR023" text=" Encrypt user data. Use strong encryption algorithms to protect data both in transit and at rest.&#xA;Implement end-to-end encryption whenever possible to ensure that data remains confidential even if intercepted." base_Class="_DSrVgIuwEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_vQQEkI7GEe65ju3mQ0Gw9Q" id="SYSR024" text="Gym must have a environmental management system to regulate  heating, Ventilation and Cooling." base_Class="_vQNBQI7GEe65ju3mQ0Gw9Q"/>
+  <sysml:Requirement xmi:id="_5mQeEIuwEe6IxaWOJW89SA" id="SSYS-002" text="The user is asked to select a training package (one-time, weekly, monthly, seasonal/quarterly (3-4 months), annual). The user can change her/his subscription later, extend it, or stop it for a while.. &#xA;&#xA;The payment process begins when a customer initiates a purchase or a financial transaction on your platform. The customer enters payment information. The payment data is encrypted using secure protocols (SSL/TLS) to ensure that sensitive information is protected during transmission. The encrypted payment data is sent to the merchant's server, where the payment processing logic resides. " base_Class="_5mP3AIuwEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_RVSfMIuxEe6IxaWOJW89SA" id="SSYS-004" text="Based on the data received, the system provides the person with a workout program suggestion that might suit.&#xA;&#xA;Based on the collected data, the program automatically (or with the help of a coach) creates a personalized workout plan for the client, tailored to their specific needs. Depending on various parameters (weight, height, gender, level of preparation, etc.), suitable exercises can be selected on the available equipment. The plan will also include recommended repetitions, weights, and so forth." base_Class="_RVRREIuxEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_h9gOoIuxEe6IxaWOJW89SA" id="SSYS-005" text=" The system must collect feedback in order to be able to improve&#xA;&#xA;The application should include a &quot;feedback&quot; section, allowing clients to always have the opportunity to write their complaints, wishes, recommendations, etc. Additionally, to improve the gym's operation and the workout programming system, it's necessary to create a questionnaire and periodically (for example, once a month) send it to clients. This way, information can be gathered on how effective and suitable the proposed exercises and training systems are." base_Class="_h9fAgIuxEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_wESjIIuxEe6IxaWOJW89SA" id="SSYS-006" text="  Each training equipment has a QR with a link to a video with instructions for using the training equipment.&#xA;&#xA;Use a QR code generation library or API to create unique QR codes for each training equipment with link to corresponding video. " base_Class="_wER8EIuxEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_9s2qkIuxEe6IxaWOJW89SA" id="SSYS-007" text="The user performs a certain algorithm (for example, visit the gym 100 times or run 40 kilometers in a day) for which he receives an achievement that is stored in his profile. The user has the opportunity to monitor his achievements in his profile.&#xA;&#xA;Define a database schema to store user profiles, achievements, and activity records. Use a server-side language and framework to handle requests and interact with the database. Use a frontend application to allow users to perform activities and view achievements." base_Class="_9s2DgIuxEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_YX9bQIuyEe6IxaWOJW89SA" id="SSYS-008" text="The user performs a certain algorithm (for example, visit the gym 100 times or run 40 kilometers in a day) for which he receives an achievement that is stored in his profile. The user has the opportunity to monitor his achievements in his profile.&#xA;&#xA;Define a database schema to store user profiles, achievements, and activity records. Use a server-side language and framework to handle requests and interact with the database. Use a frontend application to allow users to perform activities and view achievements." base_Class="_YX80MIuyEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_r9TqMIuyEe6IxaWOJW89SA" id="SSYS-009" text="to log into your account, the user must select a login method (Password and user email).&#xA;&#xA;Implement front-end validation to ensure that the user provides a valid email address and password format before sending the data to the server. This helps reduce unnecessary server requests. When the user submits the login form, initiate an asynchronous request to the server to authenticate the user." base_Class="_r9TDIIuyEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_1rK2oIuyEe6IxaWOJW89SA" id="SSYS-010" text="Power Backup and System Redundancy: Ensure the system remains operational during power outages and implement backup systems to take over in case the primary system fails." base_Class="_1rKPkIuyEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_893oMIuyEe6IxaWOJW89SA" id="SSYS-011" text="Install sensors to monitor temperature, humidity, air quality, and other environmental factors that can impact the gym's atmosphere." base_Class="_893BIIuyEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_HaXcQIuzEe6IxaWOJW89SA" id="SSYS-012" text=" Implement a UI element that allows users to specify the duration for which they want to rent the equipment.  &#xA;&#xA;This could be a calendar for selecting dates and a dropdown or input field for specifying the rental duration in hours." base_Class="_HaW1MIuzEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_UOE_UIuzEe6IxaWOJW89SA" id="SSYS-013" text="  Implement logic on the front end to perform real-time availability checks for the selected equipment during the chosen date and time. This may involve making asynchronous requests to the server to check the availability status.&#xA;&#xA;This may involve making asynchronous requests to the server to check the availability status." base_Class="_UOEYQIuzEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_eg4E0IuzEe6IxaWOJW89SA" id="SSYS-014" text=" along with a unique salt for each user. This ensures that even if the hashed passwords are somehow exposed, they are difficult to crack.  Describe me technical part of this process &#xA;&#xA;Bcrypt or Argon2: These are widely recommended for password hashing due to their adaptive nature and resistance to brute-force and rainbow table attacks. They are designed to be slow and computationally intensive, making it difficult for attackers to crack passwords." base_Class="_eg3dwIuzEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_qBu44IuzEe6IxaWOJW89SA" id="SSYS-015" text=" Encrypt sensitive user information, such as names, addresses, and contact details, stored in the database. Use strong encryption algorithms (e.g., AES-256) to protect this data. Decrypt this information only when necessary, and enforce strict access controls on who can access the decryption keys.&#xA;&#xA;Select a strong encryption algorithm such as Advanced Encryption Standard (AES) with a sufficient key length (e.g., AES-256). AES is widely used and considered secure for encrypting sensitive data. Establish a robust key management system. Encryption keys are a critical component of the encryption process. Ensure that encryption keys are stored securely and are only accessible to authorized personnel. Consider using hardware security modules (HSMs) for added security." base_Class="_qBuR0IuzEe6IxaWOJW89SA"/>
+  <sysml:Requirement xmi:id="_G57TkIuxEe6IxaWOJW89SA" id="SSYS-001" text="The client shall identify his/her goals and sex and set the initial parameters of his body. &#xA;&#xA;In the application, the client should fill out a questionnaire where their gender, body parameters, fitness goals, level of preparation, etc., will be specified." base_Class="_G56sgIuxEe6IxaWOJW89SA"/>
+  <sysml:Refine xmi:id="_EFfqAIvmEe6PNMsyhoablw" base_DirectedRelationship="_EFfC8IvmEe6PNMsyhoablw" base_Abstraction="_EFfC8IvmEe6PNMsyhoablw"/>
+  <sysml:Block xmi:id="_u1igwIugEe6IxaWOJW89SA" base_Class="_u1YvwIugEe6IxaWOJW89SA"/>
+  <sysml:Block xmi:id="_soO7sYugEe6IxaWOJW89SA" base_Class="_soO7sIugEe6IxaWOJW89SA"/>
+  <sysml:Block xmi:id="_FJD4EIufEe6IxaWOJW89SA" base_Class="_FJDRAIufEe6IxaWOJW89SA"/>
+  <sysml:FlowProperty xmi:id="_TvgvoI4GEe6cPKy6yivACQ" base_Property="_TvdFQI4GEe6cPKy6yivACQ"/>
+  <sysml:Block xmi:id="_yYG4gIu0Ee6IxaWOJW89SA" base_Class="_yYGRcIu0Ee6IxaWOJW89SA"/>
+  <sysml:Block xmi:id="_HFppIIu2Ee6IxaWOJW89SA" base_Class="_HFpCEIu2Ee6IxaWOJW89SA"/>
+  <sysml:Block xmi:id="_bA_E0I6YEe62a4GaX4HNlw" base_Class="_bA-dwI6YEe62a4GaX4HNlw"/>
+  <sysml:Block xmi:id="_dKPQUI6YEe62a4GaX4HNlw" base_Class="_dKOCMI6YEe62a4GaX4HNlw"/>
+  <sysml:Block xmi:id="_o1iZ0I6YEe62a4GaX4HNlw" base_Class="_o1hLsI6YEe62a4GaX4HNlw"/>
+  <sysml:Block xmi:id="_tXwn0I6YEe62a4GaX4HNlw" base_Class="_tXvZsI6YEe62a4GaX4HNlw"/>
+  <sysml:Block xmi:id="_v8LFUI6YEe62a4GaX4HNlw" base_Class="_v8KeQI6YEe62a4GaX4HNlw"/>
+  <sysml:Block xmi:id="_tcCOYI6ZEe62a4GaX4HNlw" base_Class="_tcBAQI6ZEe62a4GaX4HNlw"/>
+  <sysml:Block xmi:id="_4KT1wIu2Ee6IxaWOJW89SA" base_Class="_4KTOsIu2Ee6IxaWOJW89SA"/>
+  <sysml:Block xmi:id="_JicmQYu3Ee6IxaWOJW89SA" base_Class="_JicmQIu3Ee6IxaWOJW89SA"/>
+  <sysml:Block xmi:id="_QSzfwYu3Ee6IxaWOJW89SA" base_Class="_QSzfwIu3Ee6IxaWOJW89SA"/>
+  <sysml:Block xmi:id="_V_Ma0Iu3Ee6IxaWOJW89SA" base_Class="_V_LzwIu3Ee6IxaWOJW89SA"/>
+  <sysml:Block xmi:id="_1ZHHMYu7Ee6IxaWOJW89SA" base_Class="_1ZHHMIu7Ee6IxaWOJW89SA"/>
+  <sysml:Block xmi:id="_s5NtQYu8Ee6IxaWOJW89SA" base_Class="_s5NtQIu8Ee6IxaWOJW89SA"/>
+  <sysml:ItemFlow xmi:id="_z8YGoIu_Ee6IxaWOJW89SA" base_InformationFlow="_z8WRcIu_Ee6IxaWOJW89SA"/>
+  <sysml:ItemFlow xmi:id="_Jl6a44vAEe6IxaWOJW89SA" base_InformationFlow="_Jl6a4ovAEe6IxaWOJW89SA"/>
+  <sysml:ItemFlow xmi:id="_Kqx7w4vBEe6IxaWOJW89SA" base_InformationFlow="_Kqx7wovBEe6IxaWOJW89SA"/>
+  <sysml:Block xmi:id="_3itz0IvCEe6PNMsyhoablw" base_Class="_3ir-oIvCEe6PNMsyhoablw"/>
+  <sysml:Block xmi:id="_-7JZ8YvCEe6PNMsyhoablw" base_Class="_-7JZ8IvCEe6PNMsyhoablw"/>
+  <sysml:Block xmi:id="_VhVuQIvEEe6PNMsyhoablw" base_Class="_VhVHMIvEEe6PNMsyhoablw"/>
+  <sysml:Block xmi:id="_YoLpwIvMEe6PNMsyhoablw" base_Class="_YoJ0kIvMEe6PNMsyhoablw"/>
+  <sysml:Block xmi:id="_Heu5sYvFEe6PNMsyhoablw" base_Class="_Heu5sIvFEe6PNMsyhoablw"/>
+  <sysml:ItemFlow xmi:id="_AdUIkIvJEe6PNMsyhoablw" base_InformationFlow="_AdSTYIvJEe6PNMsyhoablw"/>
+  <sysml:ItemFlow xmi:id="_JXH9s4vQEe6PNMsyhoablw" base_InformationFlow="_JXH9sovQEe6PNMsyhoablw"/>
+  <sysml:Block xmi:id="_vssfgIvSEe6PNMsyhoablw" base_Class="_vsr4cIvSEe6PNMsyhoablw"/>
+  <sysml:ProxyPort xmi:id="_8RA6sIvdEe6PNMsyhoablw" base_Port="_8RAToYvdEe6PNMsyhoablw"/>
+  <sysml:ProxyPort xmi:id="_8_yFMIvdEe6PNMsyhoablw" base_Port="_8_xeIYvdEe6PNMsyhoablw"/>
+  <sysml:ProxyPort xmi:id="_9h4ssIvdEe6PNMsyhoablw" base_Port="_9h4FoYvdEe6PNMsyhoablw"/>
+  <sysml:Block xmi:id="_CZ6MkYvTEe6PNMsyhoablw" base_Class="_CZ6MkIvTEe6PNMsyhoablw"/>
+  <sysml:ProxyPort xmi:id="_4PdJwIvdEe6PNMsyhoablw" base_Port="_4Pb7oYvdEe6PNMsyhoablw"/>
+  <sysml:ProxyPort xmi:id="_7q8ZMIvdEe6PNMsyhoablw" base_Port="_7q7yIYvdEe6PNMsyhoablw"/>
+  <sysml:Block xmi:id="_hn-yIIvTEe6PNMsyhoablw" base_Class="_hn-LEIvTEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_hrZq0IvZEe6PNMsyhoablw" base_DirectedRelationship="_hrJzMIvZEe6PNMsyhoablw" base_Abstraction="_hrJzMIvZEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_EsJQwIvaEe6PNMsyhoablw" base_DirectedRelationship="_EsIpsIvaEe6PNMsyhoablw" base_Abstraction="_EsIpsIvaEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_JYmY0IvaEe6PNMsyhoablw" base_DirectedRelationship="_JYlxwIvaEe6PNMsyhoablw" base_Abstraction="_JYlxwIvaEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_QpGK8IvaEe6PNMsyhoablw" base_DirectedRelationship="_QpE80IvaEe6PNMsyhoablw" base_Abstraction="_QpE80IvaEe6PNMsyhoablw"/>
+  <sysml:Satisfy xmi:id="_YkTG8IvaEe6PNMsyhoablw" base_DirectedRelationship="_YkRRwIvaEe6PNMsyhoablw" base_Abstraction="_YkRRwIvaEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_kXSz4IvaEe6PNMsyhoablw" base_DirectedRelationship="_kXSM0IvaEe6PNMsyhoablw" base_Abstraction="_kXSM0IvaEe6PNMsyhoablw"/>
+  <sysml:Satisfy xmi:id="_sfGBcIvaEe6PNMsyhoablw" base_DirectedRelationship="_sfFaYIvaEe6PNMsyhoablw" base_Abstraction="_sfFaYIvaEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_2I_T4YvaEe6PNMsyhoablw" base_DirectedRelationship="_2I_T4IvaEe6PNMsyhoablw" base_Abstraction="_2I_T4IvaEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_J2LQMIvbEe6PNMsyhoablw" base_DirectedRelationship="_J2KCEIvbEe6PNMsyhoablw" base_Abstraction="_J2KCEIvbEe6PNMsyhoablw"/>
+  <sysml:Satisfy xmi:id="_Rn6HIIvbEe6PNMsyhoablw" base_DirectedRelationship="_Rn5gEIvbEe6PNMsyhoablw" base_Abstraction="_Rn5gEIvbEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_a_COkIvbEe6PNMsyhoablw" base_DirectedRelationship="_a_BngIvbEe6PNMsyhoablw" base_Abstraction="_a_BngIvbEe6PNMsyhoablw"/>
+  <sysml:Satisfy xmi:id="_j_cfIIvbEe6PNMsyhoablw" base_DirectedRelationship="_j_b4EIvbEe6PNMsyhoablw" base_Abstraction="_j_b4EIvbEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_phr_sIvbEe6PNMsyhoablw" base_DirectedRelationship="_phrYoIvbEe6PNMsyhoablw" base_Abstraction="_phrYoIvbEe6PNMsyhoablw"/>
+  <sysml:Satisfy xmi:id="_wzag4IvbEe6PNMsyhoablw" base_DirectedRelationship="_wzZ50IvbEe6PNMsyhoablw" base_Abstraction="_wzZ50IvbEe6PNMsyhoablw"/>
+  <sysml:Satisfy xmi:id="_3AbcwIvbEe6PNMsyhoablw" base_DirectedRelationship="_3Aa1sIvbEe6PNMsyhoablw" base_Abstraction="_3Aa1sIvbEe6PNMsyhoablw"/>
+  <sysml:Satisfy xmi:id="_8dUjQIvbEe6PNMsyhoablw" base_DirectedRelationship="_8dT8MIvbEe6PNMsyhoablw" base_Abstraction="_8dT8MIvbEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_DaV_wIvcEe6PNMsyhoablw" base_DirectedRelationship="_DaVYsIvcEe6PNMsyhoablw" base_Abstraction="_DaVYsIvcEe6PNMsyhoablw"/>
+  <sysml:Satisfy xmi:id="_MGmlQIvcEe6PNMsyhoablw" base_DirectedRelationship="_MGl-MIvcEe6PNMsyhoablw" base_Abstraction="_MGl-MIvcEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_VnIgUIvcEe6PNMsyhoablw" base_DirectedRelationship="_VnH5QIvcEe6PNMsyhoablw" base_Abstraction="_VnH5QIvcEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_bPLG4IvcEe6PNMsyhoablw" base_DirectedRelationship="_bPKf0IvcEe6PNMsyhoablw" base_Abstraction="_bPKf0IvcEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_Ad2coIvgEe6PNMsyhoablw" base_DirectedRelationship="_Ad1OgIvgEe6PNMsyhoablw" base_Abstraction="_Ad1OgIvgEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_Gk7voIvgEe6PNMsyhoablw" base_DirectedRelationship="_Gk7IkIvgEe6PNMsyhoablw" base_Abstraction="_Gk7IkIvgEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_USVTwIvgEe6PNMsyhoablw" base_DirectedRelationship="_USUFoIvgEe6PNMsyhoablw" base_Abstraction="_USUFoIvgEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_aaT-oIvgEe6PNMsyhoablw" base_DirectedRelationship="_aaTXkIvgEe6PNMsyhoablw" base_Abstraction="_aaTXkIvgEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_jDmvsIvgEe6PNMsyhoablw" base_DirectedRelationship="_jDmIoIvgEe6PNMsyhoablw" base_Abstraction="_jDmIoIvgEe6PNMsyhoablw"/>
+  <sysml:Block xmi:id="_9qzeII4MEe6cPKy6yivACQ" base_Class="_9qy3EI4MEe6cPKy6yivACQ"/>
+  <sysml:Block xmi:id="_VlpGoI4NEe6cPKy6yivACQ" base_Class="_VlofkI4NEe6cPKy6yivACQ"/>
+  <sysml:Block xmi:id="_pAjVQI4PEe6cPKy6yivACQ" base_Class="_pAiuMI4PEe6cPKy6yivACQ"/>
+  <sysml:Block xmi:id="_49yOAI4PEe6cPKy6yivACQ" base_Class="_49w_4I4PEe6cPKy6yivACQ"/>
+  <sysml:Block xmi:id="_Ss4CYI4QEe6cPKy6yivACQ" base_Class="_Ss3bUI4QEe6cPKy6yivACQ"/>
+  <sysml:Block xmi:id="_fn3SII4QEe6cPKy6yivACQ" base_Class="_fn2rEI4QEe6cPKy6yivACQ"/>
+  <sysml:Block xmi:id="_p9sM8IvgEe6PNMsyhoablw" base_Class="_p9rl4IvgEe6PNMsyhoablw"/>
+  <sysml:Satisfy xmi:id="_Qr2f0IvhEe6PNMsyhoablw" base_DirectedRelationship="_Qr14wIvhEe6PNMsyhoablw" base_Abstraction="_Qr14wIvhEe6PNMsyhoablw"/>
+  <sysml:Satisfy xmi:id="_SG4TYIvhEe6PNMsyhoablw" base_DirectedRelationship="_SG3FQIvhEe6PNMsyhoablw" base_Abstraction="_SG3FQIvhEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_dxkY4IvhEe6PNMsyhoablw" base_DirectedRelationship="_dxjx0IvhEe6PNMsyhoablw" base_Abstraction="_dxjx0IvhEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_ePjVYIvhEe6PNMsyhoablw" base_DirectedRelationship="_ePiuUIvhEe6PNMsyhoablw" base_Abstraction="_ePiuUIvhEe6PNMsyhoablw"/>
+  <sysml:Satisfy xmi:id="_jx3HYIvhEe6PNMsyhoablw" base_DirectedRelationship="_jx2gUIvhEe6PNMsyhoablw" base_Abstraction="_jx2gUIvhEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_qoN7MIvhEe6PNMsyhoablw" base_DirectedRelationship="_qoMtEIvhEe6PNMsyhoablw" base_Abstraction="_qoMtEIvhEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_wAMFcIvhEe6PNMsyhoablw" base_DirectedRelationship="_wALeYIvhEe6PNMsyhoablw" base_Abstraction="_wALeYIvhEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_yCf7cIvhEe6PNMsyhoablw" base_DirectedRelationship="_yCfUYIvhEe6PNMsyhoablw" base_Abstraction="_yCfUYIvhEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_5H2NgIvhEe6PNMsyhoablw" base_DirectedRelationship="_5H1mcIvhEe6PNMsyhoablw" base_Abstraction="_5H1mcIvhEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_9CoBAIvhEe6PNMsyhoablw" base_DirectedRelationship="_9CnZ8IvhEe6PNMsyhoablw" base_Abstraction="_9CnZ8IvhEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_L9TQkIviEe6PNMsyhoablw" base_DirectedRelationship="_L9SpgIviEe6PNMsyhoablw" base_Abstraction="_L9SpgIviEe6PNMsyhoablw"/>
+  <sysml:Satisfy xmi:id="_Tk6iMIviEe6PNMsyhoablw" base_DirectedRelationship="_Tk5UEIviEe6PNMsyhoablw" base_Abstraction="_Tk5UEIviEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_bI-wkIviEe6PNMsyhoablw" base_DirectedRelationship="_bI-JgIviEe6PNMsyhoablw" base_Abstraction="_bI-JgIviEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_iGn4IIviEe6PNMsyhoablw" base_DirectedRelationship="_iGnREIviEe6PNMsyhoablw" base_Abstraction="_iGnREIviEe6PNMsyhoablw"/>
+  <sysml:Block xmi:id="_WIvUYIvjEe6PNMsyhoablw" base_Class="_WIutUIvjEe6PNMsyhoablw"/>
+  <sysml:Block xmi:id="_dYYK4IvjEe6PNMsyhoablw" base_Class="_dYXj0IvjEe6PNMsyhoablw"/>
+  <sysml:Block xmi:id="_o-7-UYvjEe6PNMsyhoablw" base_Class="_o-7-UIvjEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_DF5gIIvkEe6PNMsyhoablw" base_DirectedRelationship="_DF45EIvkEe6PNMsyhoablw" base_Abstraction="_DF45EIvkEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_Fi01kYvkEe6PNMsyhoablw" base_DirectedRelationship="_Fi01kIvkEe6PNMsyhoablw" base_Abstraction="_Fi01kIvkEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_L_v1sIvkEe6PNMsyhoablw" base_DirectedRelationship="_L_vOoIvkEe6PNMsyhoablw" base_Abstraction="_L_vOoIvkEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_ndBDIIvkEe6PNMsyhoablw" base_DirectedRelationship="_ndAcEIvkEe6PNMsyhoablw" base_Abstraction="_ndAcEIvkEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_n01GMYvkEe6PNMsyhoablw" base_DirectedRelationship="_n01GMIvkEe6PNMsyhoablw" base_Abstraction="_n01GMIvkEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_zTjzUIvkEe6PNMsyhoablw" base_DirectedRelationship="_zTjMQIvkEe6PNMsyhoablw" base_Abstraction="_zTjMQIvkEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_-MDm4IvkEe6PNMsyhoablw" base_DirectedRelationship="_-MC_0IvkEe6PNMsyhoablw" base_Abstraction="_-MC_0IvkEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_NRtXYIvlEe6PNMsyhoablw" base_DirectedRelationship="_NRswUIvlEe6PNMsyhoablw" base_Abstraction="_NRswUIvlEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_WExIcIvlEe6PNMsyhoablw" base_DirectedRelationship="_WEwhYIvlEe6PNMsyhoablw" base_Abstraction="_WEwhYIvlEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_1pzcgIvlEe6PNMsyhoablw" base_DirectedRelationship="_1py1cIvlEe6PNMsyhoablw" base_Abstraction="_1py1cIvlEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_5kg-kIvlEe6PNMsyhoablw" base_DirectedRelationship="_5kgXgIvlEe6PNMsyhoablw" base_Abstraction="_5kgXgIvlEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="__nP9EIvlEe6PNMsyhoablw" base_DirectedRelationship="__nPWAIvlEe6PNMsyhoablw" base_Abstraction="__nPWAIvlEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_LQiUYYvmEe6PNMsyhoablw" base_DirectedRelationship="_LQiUYIvmEe6PNMsyhoablw" base_Abstraction="_LQiUYIvmEe6PNMsyhoablw"/>
+  <sysml:Refine xmi:id="_SYDJoIvmEe6PNMsyhoablw" base_DirectedRelationship="_SYCikIvmEe6PNMsyhoablw" base_Abstraction="_SYCikIvmEe6PNMsyhoablw"/>
+  <sysml:FlowProperty xmi:id="_JJU3QI4KEe6cPKy6yivACQ" base_Property="_JJTpII4KEe6cPKy6yivACQ"/>
+  <sysml:Block xmi:id="_n7E_QIyAEe6AlpHfRKls-Q" base_Class="_n7CjAIyAEe6AlpHfRKls-Q"/>
+  <sysml:FlowProperty xmi:id="_aF2xMI4HEe6cPKy6yivACQ" base_Property="_aF1jEI4HEe6cPKy6yivACQ"/>
+  <sysml:Block xmi:id="_SVm2MIyBEe6AlpHfRKls-Q" base_Class="_SVmPIIyBEe6AlpHfRKls-Q"/>
+  <sysml:FlowProperty xmi:id="_R2Hy0I4LEe6cPKy6yivACQ" base_Property="_R2GksI4LEe6cPKy6yivACQ"/>
+  <sysml:FlowProperty xmi:id="_YuUZsI4LEe6cPKy6yivACQ" base_Property="_YuSkgI4LEe6cPKy6yivACQ" direction="out"/>
+  <sysml:Block xmi:id="_X4CukIyCEe6AlpHfRKls-Q" base_Class="_X4BgcIyCEe6AlpHfRKls-Q"/>
+  <sysml:ItemFlow xmi:id="_t9B3UI4EEe6cPKy6yivACQ" base_InformationFlow="_t8-0AI4EEe6cPKy6yivACQ"/>
+  <sysml:ItemFlow xmi:id="_xhL6kI4EEe6cPKy6yivACQ" base_InformationFlow="_xhLTgY4EEe6cPKy6yivACQ"/>
+  <sysml:ItemFlow xmi:id="_tjeSYI4FEe6cPKy6yivACQ" base_InformationFlow="_tjdrUo4FEe6cPKy6yivACQ"/>
+  <sysml:ItemFlow xmi:id="_vLjDcI4FEe6cPKy6yivACQ" base_InformationFlow="_vLicYo4FEe6cPKy6yivACQ"/>
+  <sysml:ItemFlow xmi:id="_13dh0I4FEe6cPKy6yivACQ" base_InformationFlow="_13c6wo4FEe6cPKy6yivACQ"/>
+  <sysml:ItemFlow xmi:id="_3tku4Y4FEe6cPKy6yivACQ" base_InformationFlow="_3tku4I4FEe6cPKy6yivACQ"/>
+  <sysml:ItemFlow xmi:id="_5_ixgY4FEe6cPKy6yivACQ" base_InformationFlow="_5_ixgI4FEe6cPKy6yivACQ"/>
+  <sysml:ItemFlow xmi:id="_e-48sI4HEe6cPKy6yivACQ" base_InformationFlow="_e-4Voo4HEe6cPKy6yivACQ"/>
+  <sysml:ItemFlow xmi:id="_ftDqQI4HEe6cPKy6yivACQ" base_InformationFlow="_ftDDMo4HEe6cPKy6yivACQ"/>
+  <sysml:Block xmi:id="_ypZYiY4HEe6cPKy6yivACQ" base_Class="_ypZYiI4HEe6cPKy6yivACQ"/>
+  <sysml:ItemFlow xmi:id="_g0ev444IEe6cPKy6yivACQ" base_InformationFlow="_g0ev4o4IEe6cPKy6yivACQ"/>
+  <sysml:ItemFlow xmi:id="_kt-xA44IEe6cPKy6yivACQ" base_InformationFlow="_kt-xAo4IEe6cPKy6yivACQ"/>
+  <sysml:ItemFlow xmi:id="_ZR89I44JEe6cPKy6yivACQ" base_InformationFlow="_ZR89Io4JEe6cPKy6yivACQ"/>
+  <sysml:ItemFlow xmi:id="_aRg8s44JEe6cPKy6yivACQ" base_InformationFlow="_aRg8so4JEe6cPKy6yivACQ"/>
+  <sysml:ItemFlow xmi:id="_AiLl044LEe6cPKy6yivACQ" base_InformationFlow="_AiLl0o4LEe6cPKy6yivACQ"/>
+  <sysml:Block xmi:id="_wGDuAI6AEe62a4GaX4HNlw" base_Class="_wGB40I6AEe62a4GaX4HNlw"/>
+  <sysml:Block xmi:id="_QZh_8I6CEe62a4GaX4HNlw" base_Class="_QZhY4I6CEe62a4GaX4HNlw"/>
+  <sysml:Block xmi:id="_5V0sYI6EEe62a4GaX4HNlw" base_Class="_5VzeQI6EEe62a4GaX4HNlw"/>
+  <sysml:Block xmi:id="_HgVXYI6SEe62a4GaX4HNlw" base_Class="_HgUwUI6SEe62a4GaX4HNlw"/>
+  <sysml:Block xmi:id="_Svq2QI6VEe62a4GaX4HNlw" base_Class="_SvpoII6VEe62a4GaX4HNlw"/>
+  <sysml:Block xmi:id="_0_ijcY6WEe62a4GaX4HNlw" base_Class="_0_ijcI6WEe62a4GaX4HNlw"/>
+  <sysml:Block xmi:id="_pUh4YI6XEe62a4GaX4HNlw" base_Class="_pUgqQI6XEe62a4GaX4HNlw"/>
+  <sysml:Block xmi:id="_z3aoUI6XEe62a4GaX4HNlw" base_Class="_z3aBQI6XEe62a4GaX4HNlw"/>
+  <sysml:Satisfy xmi:id="_xiOOkI7DEe65ju3mQ0Gw9Q" base_DirectedRelationship="_xiLyUI7DEe65ju3mQ0Gw9Q" base_Abstraction="_xiLyUI7DEe65ju3mQ0Gw9Q"/>
+  <sysml:Satisfy xmi:id="_1Kq78I7DEe65ju3mQ0Gw9Q" base_DirectedRelationship="_1KpGwI7DEe65ju3mQ0Gw9Q" base_Abstraction="_1KpGwI7DEe65ju3mQ0Gw9Q"/>
+  <sysml:Satisfy xmi:id="_2ueRAI7DEe65ju3mQ0Gw9Q" base_DirectedRelationship="_2ucb0I7DEe65ju3mQ0Gw9Q" base_Abstraction="_2ucb0I7DEe65ju3mQ0Gw9Q"/>
+  <sysml:Satisfy xmi:id="_3UtKkI7DEe65ju3mQ0Gw9Q" base_DirectedRelationship="_3UrVYI7DEe65ju3mQ0Gw9Q" base_Abstraction="_3UrVYI7DEe65ju3mQ0Gw9Q"/>
+  <sysml:Satisfy xmi:id="_32bXkI7DEe65ju3mQ0Gw9Q" base_DirectedRelationship="_32ZiYI7DEe65ju3mQ0Gw9Q" base_Abstraction="_32ZiYI7DEe65ju3mQ0Gw9Q"/>
+  <sysml:Satisfy xmi:id="_4wQikI7DEe65ju3mQ0Gw9Q" base_DirectedRelationship="_4wGxkI7DEe65ju3mQ0Gw9Q" base_Abstraction="_4wGxkI7DEe65ju3mQ0Gw9Q"/>
+  <sysml:Satisfy xmi:id="_MluRII7EEe65ju3mQ0Gw9Q" base_DirectedRelationship="_Mlsb8I7EEe65ju3mQ0Gw9Q" base_Abstraction="_Mlsb8I7EEe65ju3mQ0Gw9Q"/>
+  <sysml:Satisfy xmi:id="_NNFMEI7EEe65ju3mQ0Gw9Q" base_DirectedRelationship="_NND98I7EEe65ju3mQ0Gw9Q" base_Abstraction="_NND98I7EEe65ju3mQ0Gw9Q"/>
+  <sysml:Satisfy xmi:id="_N4VvkI7EEe65ju3mQ0Gw9Q" base_DirectedRelationship="_N4UhcI7EEe65ju3mQ0Gw9Q" base_Abstraction="_N4UhcI7EEe65ju3mQ0Gw9Q"/>
+  <sysml:Satisfy xmi:id="_CKNNII7HEe65ju3mQ0Gw9Q" base_DirectedRelationship="_CKL_AI7HEe65ju3mQ0Gw9Q" base_Abstraction="_CKL_AI7HEe65ju3mQ0Gw9Q"/>
+  <sysml:Satisfy xmi:id="_3qvIII7HEe65ju3mQ0Gw9Q" base_DirectedRelationship="_3qt6AI7HEe65ju3mQ0Gw9Q" base_Abstraction="_3qt6AI7HEe65ju3mQ0Gw9Q"/>
+  <sysml:Satisfy xmi:id="_Pe7WEI7IEe65ju3mQ0Gw9Q" base_DirectedRelationship="_Pe5g4I7IEe65ju3mQ0Gw9Q" base_Abstraction="_Pe5g4I7IEe65ju3mQ0Gw9Q"/>
+  <sysml:Satisfy xmi:id="_QEdsEI7IEe65ju3mQ0Gw9Q" base_DirectedRelationship="_QEcd8I7IEe65ju3mQ0Gw9Q" base_Abstraction="_QEcd8I7IEe65ju3mQ0Gw9Q"/>
+  <sysml:Satisfy xmi:id="_SN4PoI7IEe65ju3mQ0Gw9Q" base_DirectedRelationship="_SN2acI7IEe65ju3mQ0Gw9Q" base_Abstraction="_SN2acI7IEe65ju3mQ0Gw9Q"/>
+  <sysml:Satisfy xmi:id="_SwXRoI7IEe65ju3mQ0Gw9Q" base_DirectedRelationship="_SwVccI7IEe65ju3mQ0Gw9Q" base_Abstraction="_SwVccI7IEe65ju3mQ0Gw9Q"/>
+  <sysml:Satisfy xmi:id="_ibrT8I7IEe65ju3mQ0Gw9Q" base_DirectedRelationship="_ibqF0I7IEe65ju3mQ0Gw9Q" base_Abstraction="_ibqF0I7IEe65ju3mQ0Gw9Q"/>
+  <sysml:Satisfy xmi:id="_3RPNkI7IEe65ju3mQ0Gw9Q" base_DirectedRelationship="_3RN_cI7IEe65ju3mQ0Gw9Q" base_Abstraction="_3RN_cI7IEe65ju3mQ0Gw9Q"/>
+</xmi:XMI>
